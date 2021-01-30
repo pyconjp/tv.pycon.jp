@@ -1,8 +1,7 @@
 ===========
 PyCon JP TV
 ===========
-
-PyCon JP Associationが主催するYouTubeライブです。Pythonやコミュニティに関してお伝えする予定です。
+**PyCon JP TV** はPyCon JP Associationが主催するYouTubeライブです。Pythonやコミュニティに関してお伝えする予定です。
 
 * Twitter: `@pyconjptv <https://twitter.com/pyconjptv>`_
 * YouTube: `PyCon JP <https://www.youtube.com/user/PyConJP>`_
