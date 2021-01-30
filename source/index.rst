@@ -1,20 +1,16 @@
-.. PyCon JP TV documentation master file, created by
-   sphinx-quickstart on Sat Jan 30 16:30:24 2021.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+===========
+PyCon JP TV
+===========
 
-Welcome to PyCon JP TV's documentation!
-=======================================
+PyCon JP Associationが主催するYouTubeライブです。Pythonやコミュニティに関してお伝えする予定です。
+
+* Twitter: `@pyconjptv <https://twitter.com/pyconjptv>`_
+* YouTube: `PyCon JP <https://www.youtube.com/user/PyConJP>`_
+
+エピソード一覧
+==============
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   episode/1
