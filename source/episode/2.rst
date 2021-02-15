@@ -1,0 +1,22 @@
+=============================================
+#2: Python Charity Talksふり返り - 2021-03-04
+=============================================
+
+2021年2月20日(土)に開催された、Python Charity Talksを中の人の視点でふり返ります。
+
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/xdgNNP8j4gY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+関連リンク
+==========
+* `PyCon JP TVお便りコーナー <https://docs.google.com/forms/d/e/1FAIpQLSfvL4cKteAaG_czTXjofR83owyjXekG9GNDGC6-jRZCb_2HRw/viewform>`_
+* Twitter: `@pyconjptv <https://twitter.com/pyconjptv>`_
+* `Python.jp Discordサーバ <https://www.python.jp/pages/pythonjp_discord.html>`_ の ``#pyconjp-tv`` チャンネル
+
+.. * `PyCon JP TV #1 - Togetter <https://togetter.com/li/1664015>`_
+
+パーソナリティ
+--------------
+* 寺田 学(`@terapyon <https://twitter.com/terapyon>`_)
+* 鈴木 たかのり(`@takanory <https://twitter.com/takanory>`_)
