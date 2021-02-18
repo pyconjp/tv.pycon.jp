@@ -1,0 +1,94 @@
+/** variables **/
+primary-color = #000
+secondary-color = #2c3e50
+accent-color = #DB0305
+base-color = #f2f2f2
+light-color = #cccccc
+med-color = #767676
+lightest-color = #ffffff
+
+body-font-family = "游ゴシック体", YuGothic, "游ゴシック Medium", "Yu Gothic Medium", "游ゴシック", "Yu Gothic", sans-serif
+
+
+/** base html **/
+
+a, p a code
+    color primary-color
+a    
+    &:hover
+        border-bottom 1px solid accent-color
+        background-color base-color
+        color primary-color
+    &.home-link
+        &:hover
+            border-bottom none
+    &.headerlink
+        color accent-color
+strong
+    color accent-color
+iframe
+    max-width 100%
+form
+    input
+        background-color lightest-color
+        padding .5rem
+        font-size 1rem
+        border 2px solid primary-color
+        border-radius 5px
+        &[type="submit"]
+            padding .3rem 1rem
+
+
+/** components custom **/
+
+.navbar
+    border-bottom 3px solid primary-color
+
+.sidebar 
+    .toctree-l1
+        &.current
+            a
+                border-left .5rem solid light-color
+        a
+            &.current
+                border-left-color med-color
+    .toctree-l1,.toctree-l2
+        a
+            color primary-color
+            &:hover
+                color primary-color
+                border-bottom none
+                border-left: .5rem solid accent-color
+            &.current
+                color primary-color
+    .searchbox
+        border-bottom none
+        padding 0
+        .searchformwrapper
+            padding 0 1rem 2rem 1rem
+    .sidebar-group
+        .caption
+            padding 0
+            margin-bottom 1.5rem
+        .caption-text
+            display block
+            font-size 1.15rem
+            color primary-color
+            font-weight normal
+            background-color lightest-color
+            padding 1rem 0 .5rem 1.5rem
+            &:before
+                content ""
+                display inline-block
+                margin-right 0.7rem
+                width 1.5rem
+                height 1.5rem
+                position relative
+                top 4px
+                background url(../icon_red.svg) no-repeat
+                background-size: contain;
+            a
+                color primary-color
+                &:hover
+                    color primary-color
+                    background-color lightest-color
