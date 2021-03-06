@@ -1,8 +1,8 @@
 =============================================
-#2: Python Charity Talksふり返り - 2021-03-04
+#2: Python Charity Talks振り返り - 2021-03-04
 =============================================
 
-2021年2月20日(土)に開催された、Python Charity Talksを中の人の視点でふり返ります。
+2021年2月20日(土)に開催された、Python Charity Talks in Japan 2012.02 を中の人の視点でふり返ります。
 
 .. raw:: html
 
@@ -20,3 +20,90 @@
 --------------
 * 寺田 学(`@terapyon <https://twitter.com/terapyon>`_)
 * 鈴木 たかのり(`@takanory <https://twitter.com/takanory>`_)
+
+Pythonニュース
+--------------
+* `PSFによるPSF20周年とPython30周年のツイート <https://twitter.com/ThePSF/status/1358313047098617857>`_
+* `PyCon JP 2021 カンファレンス開催日程仮決定のお知らせ <https://pyconjp.blogspot.com/2021/02/Tentative-Conference-Schedule-for-PyCon-JP-2021.html>`_
+* `DjangoCongress JP 2021、7月3日に開催予定。オンラインと長野県でのオフライン開催を予定 <https://twitter.com/django_ja/status/1367005870740041730>`_
+
+  * `DjangoCongress JP 2021 <https://djangocongress.jp/>`_
+* `PEP 634, 635, 636 (Structural Pattern Matching) を読んだよメモ <https://qiita.com/tk0miya/items/d9f816b14101ff83d5b7>`_
+
+Python Charity Talks振り返り
+----------------------------
+* `Python Charity Talks in Japan 2021.02 <https://pyconjp.connpass.com/event/199787/>`_
+* 発表資料一覧: `Python Charity Talks in Japan 2021.02 - Media List <https://pyconjp.connpass.com/event/199787/presentation/>`_
+* 当日の動画: `Python Charity Talks in Japan 2021.02 - YouTube <https://www.youtube.com/watch?v=cjV3uTWtTyg>`_
+* `Zoom ビデオウェビナー <https://zoom.us/jp-jp/webinar.html>`_
+* クイズ大会で使用したサービス: `AhaSlides <https://ahaslides.com/>`_
+
+お便りコーナー
+--------------
+* `ZopeWeekend6に参加しました — 清水川Web <http://www.freia.jp/taka/blog/245/index.html#plonesns>`_
+
+飲みトーク
+----------
+* `なぜ、ビールなのか？ | パタゴニア プロビジョンズ <https://www.patagoniaprovisions.jp/pages/why-beer>`_
+* `Support the PSF with a Donation or by becoming a Supporting Member! <https://www.python.org/psf/donations/>`_
+* `BookRoad 〜葡蔵人〜 ワイナリー <http://bookroad.tokyo/>`_
+* `Python Boot Camp(初心者向けPythonチュートリアル) <https://www.pycon.jp/support/bootcamp.html>`_
+* `Join us at PyCon <https://pycon.org/>`_
+* `iterator.__next__() <https://docs.python.org/ja/3/library/stdtypes.html#iterator.__next__>`_
+  
+目次
+====
+* `0:00:10 <https://www.youtube.com/watch?v=xdgNNP8j4gY&t=10s>`_ PyCon JP TV 配信開始
+* `0:01:40 <https://www.youtube.com/watch?v=xdgNNP8j4gY&t=100s>`_ メッセージ募集(Python Charity Talks参加しましたか?)
+* `0:05:25 <https://www.youtube.com/watch?v=xdgNNP8j4gY&t=325s>`_ 【Pythonニュース】
+* `0:05:40 <https://www.youtube.com/watch?v=xdgNNP8j4gY&t=340s>`_ PSF 20周年、Python 30周年おめでとうツイート
+* `0:07:15 <https://www.youtube.com/watch?v=xdgNNP8j4gY&t=435s>`_ PyCon JP 2021の日程決定
+* `0:10:15 <https://www.youtube.com/watch?v=xdgNNP8j4gY&t=615s>`_ DjangoCongress JP 2021 が7月3日に開催
+* `0:11:50 <https://www.youtube.com/watch?v=xdgNNP8j4gY&t=710s>`_ PEP 634, 635, 636 Structual Pattern Matching
+* `0:17:40 <https://www.youtube.com/watch?v=xdgNNP8j4gY&t=1060s>`_ 参加者のコメントをピックアップ
+* `0:19:15 <https://www.youtube.com/watch?v=xdgNNP8j4gY&t=1155s>`_ 【Python Charity Talks in Japan振り返り】
+* `0:21:45 <https://www.youtube.com/watch?v=xdgNNP8j4gY&t=1305s>`_ 他の国でもPython Charity Talksやってほしいなー
+* `0:23:15 <https://www.youtube.com/watch?v=xdgNNP8j4gY&t=1395s>`_ スタッフ構成について
+* `0:27:20 <https://www.youtube.com/watch?v=xdgNNP8j4gY&t=1640s>`_ トークの選び方
+* `0:31:30 <https://www.youtube.com/watch?v=xdgNNP8j4gY&t=1890s>`_ スポンサー担当のタスク
+* `0:32:00 <https://www.youtube.com/watch?v=xdgNNP8j4gY&t=1920s>`_ リハーサルのはなし
+* `0:36:28 <https://www.youtube.com/watch?v=xdgNNP8j4gY&t=2188s>`_ みんな発表時間きっちりですごかった
+* `0:40:50 <https://www.youtube.com/watch?v=xdgNNP8j4gY&t=2450s>`_ 本編トーク振り返り振り返り
+* `0:48:00 <https://www.youtube.com/watch?v=xdgNNP8j4gY&t=2880s>`_ クイズ大会
+* `0:50:40 <https://www.youtube.com/watch?v=xdgNNP8j4gY&t=3040s>`_ 【お便りコーナー】
+* `0:50:54 <https://www.youtube.com/watch?v=xdgNNP8j4gY&t=3054s>`_ Pythonラブ2021さんからのお便り「初めてのカンファレンス発表の心境、準備」
+* `0:55:40 <https://www.youtube.com/watch?v=xdgNNP8j4gY&t=3340s>`_ 【次回予告】
+* `0:57:20 <https://www.youtube.com/watch?v=xdgNNP8j4gY&t=3440s>`_ 【飲みの準備開始】
+* `0:58:03 <https://www.youtube.com/watch?v=xdgNNP8j4gY&t=3483s>`_ 🍺 Patagona Provisions Long Root WIT、サッポロ サクラビール
+* `0:58:40 <https://www.youtube.com/watch?v=xdgNNP8j4gY&t=3520s>`_ 乾杯🍻 からのLong Root WITの紹介
+* `1:03:50 <https://www.youtube.com/watch?v=xdgNNP8j4gY&t=3830s>`_ Youtube参加者のコメント紹介
+* `1:04:50 <https://www.youtube.com/watch?v=xdgNNP8j4gY&t=3890s>`_ なぜPSFはお金が不足しているのか
+* `1:07:10 <https://www.youtube.com/watch?v=xdgNNP8j4gY&t=4030s>`_ 🍕
+* `1:09:32 <https://www.youtube.com/watch?v=xdgNNP8j4gY&t=4172s>`_ Youtubeライブの追っかけ再生が便利
+* `1:12:40 <https://www.youtube.com/watch?v=xdgNNP8j4gY&t=4360s>`_ Python Charity Talksまたやるよね?
+* `1:14:10 <https://www.youtube.com/watch?v=xdgNNP8j4gY&t=4450s>`_ 初めてのLTが上手すぎる件
+* `1:16:35 <https://www.youtube.com/watch?v=xdgNNP8j4gY&t=4595s>`_ 🍺 Brewdog Clock Work
+* `1:21:43 <https://www.youtube.com/watch?v=xdgNNP8j4gY&t=4903s>`_ クイズ大会から昔の番組トーク
+* `1:29:28 <https://www.youtube.com/watch?v=xdgNNP8j4gY&t=5368s>`_ 🍶 シナノリップ
+* `1:30:08 <https://www.youtube.com/watch?v=xdgNNP8j4gY&t=5408s>`_ 🍺 BrewDog vs Cloudwater New England IPA、クイズうまくいったよね
+* `1:33:50 <https://www.youtube.com/watch?v=xdgNNP8j4gY&t=5630s>`_ takanoryの出した問題にみんな引っかかってうれしかった
+* `1:36:11 <https://www.youtube.com/watch?v=xdgNNP8j4gY&t=5771s>`_ 🍷ブックロード富士の夢(茨城のブドウで台東区で作っているワイン)
+* `1:42:35 <https://www.youtube.com/watch?v=xdgNNP8j4gY&t=6155s>`_ デパートで試飲とかできないから、新しいお酒に出会いにくいよね
+* `1:46:12 <https://www.youtube.com/watch?v=xdgNNP8j4gY&t=6372s>`_ 緊急事態宣言の条件のif文を書いてほしい
+* `1:51:55 <https://www.youtube.com/watch?v=xdgNNP8j4gY&t=6715s>`_ 🍺 Stone Delicious IPA、次回予告のPyCon JPパンフレット紹介
+* `1:59:05 <https://www.youtube.com/watch?v=xdgNNP8j4gY&t=7145s>`_ Python Charity Talksのトーク本編おかわり、当日のtakanoryの体調不良
+* `2:03:43 <https://www.youtube.com/watch?v=xdgNNP8j4gY&t=7423s>`_ PyCon JPでの初トークの思い出
+* `2:09:44 <https://www.youtube.com/watch?v=xdgNNP8j4gY&t=7784s>`_ 物理本と電子本どっち派?
+* `2:16:50 <https://www.youtube.com/watch?v=xdgNNP8j4gY&t=8210s>`_ コミュニティってどうやったら作れるんですか?
+* `2:21:10 <https://www.youtube.com/watch?v=xdgNNP8j4gY&t=8470s>`_ 昔WindowsからMacに乗り換えたよね?
+* `2:30:35 <https://www.youtube.com/watch?v=xdgNNP8j4gY&t=9035s>`_ Macの初期設定のはなし
+* `2:37:22 <https://www.youtube.com/watch?v=xdgNNP8j4gY&t=9442s>`_ 🍺 Patagona Provisions Pale Ale
+* `2:38:10 <https://www.youtube.com/watch?v=xdgNNP8j4gY&t=9490s>`_ Peacock Dの紹介
+* `2:40:03 <https://www.youtube.com/watch?v=xdgNNP8j4gY&t=9603s>`_ 背景のチラシが気になる
+* `2:46:14 <https://www.youtube.com/watch?v=xdgNNP8j4gY&t=9974s>`_ 初Macの思い出
+* `3:03:49 <https://www.youtube.com/watch?v=xdgNNP8j4gY&t=11029s>`_ PyConについて教えてください
+* `3:13:30 <https://www.youtube.com/watch?v=xdgNNP8j4gY&t=11610s>`_ PyConってなんだろう?
+* `3:14:45 <https://www.youtube.com/watch?v=xdgNNP8j4gY&t=11685s>`_ PyCon JP創世記の再度おかわり
+* `3:22:13 <https://www.youtube.com/watch?v=xdgNNP8j4gY&t=12133s>`_ ``__next__`` はいい実装
+* `3:31:50 <https://www.youtube.com/watch?v=xdgNNP8j4gY&t=12710s>`_ だんだー
+* `3:36:54 <https://www.youtube.com/watch?v=xdgNNP8j4gY&t=13014s>`_ 終わりのあいさつ
