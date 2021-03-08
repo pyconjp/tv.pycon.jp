@@ -4,9 +4,9 @@
 
 2014年から2016に開催されたPyCon JPを振り返り、PyCon JPが発展していく課程でどんなことがあったかを語ります。
 
-.. .. raw:: html
+.. raw:: html
 
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/5uioSTgcnIQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/FSdri26yNdo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 関連リンク
 ==========
