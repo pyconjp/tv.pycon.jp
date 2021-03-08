@@ -13,8 +13,7 @@
 * `PyCon JP TVお便りコーナー <https://docs.google.com/forms/d/e/1FAIpQLSfvL4cKteAaG_czTXjofR83owyjXekG9GNDGC6-jRZCb_2HRw/viewform>`_
 * Twitter: `@pyconjptv <https://twitter.com/pyconjptv>`_
 * `Python.jp Discordサーバ <https://www.python.jp/pages/pythonjp_discord.html>`_ の ``#pyconjp-tv`` チャンネル
-
-.. * `PyCon JP TV #1 - Togetter <https://togetter.com/li/1664015>`_
+* `PyCon JP TV #2 - Togetter <https://togetter.com/li/1679046>`_  
 
 パーソナリティ
 --------------
