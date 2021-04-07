@@ -20,6 +20,7 @@ PyCon JP TV
 .. toctree::
    :maxdepth: 1
 
+   episode/4
    episode/3
    episode/2
    episode/1
