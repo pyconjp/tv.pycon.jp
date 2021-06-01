@@ -1,0 +1,36 @@
+==================================================
+ #5: US PyCon 2019振り返り(おかわり) - 2021-06-04
+==================================================
+
+2019年に開催されたUS PyConに初参加したパーソナリティーの2人の目線から、US PyConの特色、記憶に残ったことなどを話します。(#4の続きです)
+
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/swD2gU5rMxc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+関連リンク
+==========
+* `PyCon JP TVお便りコーナー <https://docs.google.com/forms/d/e/1FAIpQLSfvL4cKteAaG_czTXjofR83owyjXekG9GNDGC6-jRZCb_2HRw/viewform>`_
+* Twitter: `@pyconjptv <https://twitter.com/pyconjptv>`_
+* `Python.jp Discordサーバ <https://www.python.jp/pages/pythonjp_discord.html>`_ の ``#pyconjp-tv`` チャンネル
+
+パーソナリティ
+--------------
+* 寺田 学(`@terapyon <https://twitter.com>`_)
+* 鈴木 たかのり(`@takanory <https://twitter.com/takanory>`_)
+
+Pythonニュース
+--------------
+* TBD
+
+(メイントークタイトル)
+----------------------
+* TBD
+
+飲みトーク
+----------
+* TBD
+
+目次
+====
+* TBD
