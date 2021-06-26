@@ -23,11 +23,30 @@
 
 Pythonニュース
 --------------
-* TBD
+* `PyCon US 2021 <https://us.pycon.org/2021/>`_
+* `DjangoCongress JP 2021 <https://djangocongress.jp/>`_
 
-(メイントークタイトル)
-----------------------
-* TBD
+  * チケット: `DjangoCongress JP 2021 - connpass <https://django.connpass.com/event/214451/>`_
+* `PyCon JP Blog: PyCon JP 2021 プロポーザルの募集開始 <https://pyconjp.blogspot.com/2021/05/start-proposal.html>`_
+
+  * `PyCon JP Blog: PyCon JP 2021 プロポーザルレビュアー募集のお知らせ <https://pyconjp.blogspot.com/2021/06/pyconjp2021-reviewers-apply.html>`_
+
+US PyCon 2019振り返り(お替わり)
+-------------------------------
+* `PyCon 2019 in Cleveland, Ohio <https://us.pycon.org/2019/>`_
+* `Open Spaces <https://us.pycon.org/2019/events/open-spaces/>`_
+* `Read the Docs <https://readthedocs.org/>`_
+
+  * `ericholscher (Eric Holscher) <https://github.com/ericholscher>`_
+* Betsyさん `History of PSF Officers & Directors <https://www.python.org/psf/records/board/history/>`_
+* `Yoshi Yamaguchi (@ymotongpoo) <https://twitter.com/ymotongpoo>`_
+* `PyLadies Auction <https://us.pycon.org/2019/events/auction/>`_
+* `Posters <https://us.pycon.org/2019/schedule/posters/list/#!>`_
+
+  * `Presentation: Python Boot Camp: Introduction of efforts to spread Python all over Japan <https://us.pycon.org/2019/schedule/presentation/130/>`_
+* `PyCon Jobs Fair <https://us.pycon.org/2019/sponsors/jobs/>`_
+* `PyCon JP Blog: PyCon night Tokyo/Osaka 2016.06 を開催しました <https://pyconjp.blogspot.com/2016/06/pycon-night-tokyoosaka-201606.html>`_
+* `Development Sprints <https://us.pycon.org/2019/community/sprints/>`_  
 
 飲みトーク
 ----------
@@ -35,4 +54,54 @@ Pythonニュース
 
 目次
 ====
-* TBD
+* `0:00:35 <https://www.youtube.com/watch?v=swD2gU5rMxc&t=35s>`_ 配信開始
+* `0:02:14 <https://www.youtube.com/watch?v=swD2gU5rMxc&t=134s>`_ メッセージ募集【最近参加した、これから参加したいイベント】
+* `0:02:45 <https://www.youtube.com/watch?v=swD2gU5rMxc&t=165s>`_ Twitterで拡散希望！ハッシュタグは #pyconjptv
+* `0:05:55 <https://www.youtube.com/watch?v=swD2gU5rMxc&t=355s>`_ 【Pythonニュース】
+* `0:06:05 <https://www.youtube.com/watch?v=swD2gU5rMxc&t=365s>`_ PyCon US 2021が開催された
+* `0:07:04 <https://www.youtube.com/watch?v=swD2gU5rMxc&t=424s>`_ DjangoCongress JP 2021のチケット発売中。7月3日(土)開催
+* `0:08:50 <https://www.youtube.com/watch?v=swD2gU5rMxc&t=530s>`_ PyCon JP 2021のプロポーザル募集中。7月10日(土)が締め切り
+* `0:11:50 <https://www.youtube.com/watch?v=swD2gU5rMxc&t=710s>`_ プロポーザルのレビュアーも募集中
+* `0:13:49 <https://www.youtube.com/watch?v=swD2gU5rMxc&t=829s>`_ 【メイントーク】US PyCon 2019振り返り(おわかり)
+* `0:14:40 <https://www.youtube.com/watch?v=swD2gU5rMxc&t=880s>`_ 今日はカンファレンス2日目(5月4日)の午後から
+* `0:15:11 <https://www.youtube.com/watch?v=swD2gU5rMxc&t=911s>`_ オープンスペースのボード。めちゃくちゃ埋まってる
+* `0:17:30 <https://www.youtube.com/watch?v=swD2gU5rMxc&t=1050s>`_ ランチはパッサパサ
+* `0:17:58 <https://www.youtube.com/watch?v=swD2gU5rMxc&t=1078s>`_ PSFブースにいたRead The Docsのericさんにご挨拶
+* `0:18:35 <https://www.youtube.com/watch?v=swD2gU5rMxc&t=1115s>`_ PSFブースにしたBetsyさんにご挨拶。Pythonステッカーを送ってくれた人
+* `0:19:10 <https://www.youtube.com/watch?v=swD2gU5rMxc&t=1150s>`_ Googleブースで発表をしていたymotongpooさんを激写
+* `0:19:35 <https://www.youtube.com/watch?v=swD2gU5rMxc&t=1175s>`_ ちょっと外出
+* `0:20:00 <https://www.youtube.com/watch?v=swD2gU5rMxc&t=1200s>`_ 【PyLadiesオークション】PyLadies オークションとは
+* `0:22:00 <https://www.youtube.com/watch?v=swD2gU5rMxc&t=1320s>`_ オークション会場の様子
+* `0:24:02 <https://www.youtube.com/watch?v=swD2gU5rMxc&t=1442s>`_ 自分の絵のジグソーパズルを持ってアピールするGuidoさん
+* `0:25:18 <https://www.youtube.com/watch?v=swD2gU5rMxc&t=1518s>`_ スポンサーはcitusdataとMicrosoft
+* `0:25:23 <https://www.youtube.com/watch?v=swD2gU5rMxc&t=1523s>`_ この日の目玉商品。衝撃の値段で落札
+* `0:28:20 <https://www.youtube.com/watch?v=swD2gU5rMxc&t=1700s>`_ 【メインカンファレンス3日目】5月5日
+* `0:28:34 <https://www.youtube.com/watch?v=swD2gU5rMxc&t=1714s>`_ カンファレンス3日目はポスターセッションとジョブフェアがメイン
+* `0:29:23 <https://www.youtube.com/watch?v=swD2gU5rMxc&t=1763s>`_ takanoryが朝一でPython Boot Campのポスターを貼りに行った
+* `0:29:55 <https://www.youtube.com/watch?v=swD2gU5rMxc&t=1795s>`_ 朝のライトニングトーク、いろんなPythonイベントの紹介があった
+* `0:30:35 <https://www.youtube.com/watch?v=swD2gU5rMxc&t=1835s>`_ PyCon JPの紹介をteradaがした
+* `0:31:11 <https://www.youtube.com/watch?v=swD2gU5rMxc&t=1871s>`_ この日のキーノートは「Python Steering Council」のディスカッション
+* `0:32:30 <https://www.youtube.com/watch?v=swD2gU5rMxc&t=1950s>`_ ポスターセッションは全部で30ポスターぐらいの発表があった
+* `0:33:05 <https://www.youtube.com/watch?v=swD2gU5rMxc&t=1985s>`_ Python Boot Campのポスターをteradaさん、selinaさんに手伝ってもらった
+* `0:34:20 <https://www.youtube.com/watch?v=swD2gU5rMxc&t=2060s>`_ 以前PyCon night Tokyoで発表してくれたPaulさんが来てくれた
+* `0:35:00 <https://www.youtube.com/watch?v=swD2gU5rMxc&t=2100s>`_ シカゴのJason一家と記念撮影
+* `0:35:55 <https://www.youtube.com/watch?v=swD2gU5rMxc&t=2155s>`_ 日本語ができる人、日本に興味がある人とかがポスターに来てくれた
+* `0:37:10 <https://www.youtube.com/watch?v=swD2gU5rMxc&t=2230s>`_ ジョブフェアの様子
+* `0:38:00 <https://www.youtube.com/watch?v=swD2gU5rMxc&t=2280s>`_ 日本から参加したメンバーで記念撮影
+* `0:38:28 <https://www.youtube.com/watch?v=swD2gU5rMxc&t=2308s>`_ Guidoさんが私のポスターを見に来てくれた!!
+* `0:39:40 <https://www.youtube.com/watch?v=swD2gU5rMxc&t=2380s>`_ Guidoさんから「写真撮る?」と言ってくれた
+* `0:40:40 <https://www.youtube.com/watch?v=swD2gU5rMxc&t=2440s>`_ PSFチームメンバーの紹介、PyLadiesオークションのすごい金額
+* `0:41:20 <https://www.youtube.com/watch?v=swD2gU5rMxc&t=2480s>`_ この日の夜はPyConディナーに参加してビールを飲んで、ビールを飲んだ
+* `0:42:15 <https://www.youtube.com/watch?v=swD2gU5rMxc&t=2535s>`_ 【スプリント】5月6日
+* `0:43:08 <https://www.youtube.com/watch?v=swD2gU5rMxc&t=2588s>`_ どの部屋でなにをやっているかのボード
+* `0:43:25 <https://www.youtube.com/watch?v=swD2gU5rMxc&t=2605s>`_ パッケージングサミット
+* `0:44:04 <https://www.youtube.com/watch?v=swD2gU5rMxc&t=2644s>`_ ちょっと外出して買い物
+* `0:44:33 <https://www.youtube.com/watch?v=swD2gU5rMxc&t=2673s>`_ パッケージサミットふたたび
+* `0:44:55 <https://www.youtube.com/watch?v=swD2gU5rMxc&t=2695s>`_ スプリント会場の様子
+* `0:48:13 <https://www.youtube.com/watch?v=swD2gU5rMxc&t=2893s>`_ 【おたよりコーナー】
+* `0:48:55 <https://www.youtube.com/watch?v=swD2gU5rMxc&t=2935s>`_ Python Love 2021さんから「海外PyCon参加の時間と費用の工面はどうしてるの?」
+* `0:52:30 <https://www.youtube.com/watch?v=swD2gU5rMxc&t=3150s>`_ 鈴木渚紗さんから「配信機材のこだわりがすごい」
+* `0:54:15 <https://www.youtube.com/watch?v=swD2gU5rMxc&t=3255s>`_ 【次回予告】7月9日(金)一般社団法人PyCon JP Associationについて。ピザが少し早く到着
+* `0:56:59 <https://www.youtube.com/watch?v=swD2gU5rMxc&t=3419s>`_ 🍺 準備
+* `0:57:40 <https://www.youtube.com/watch?v=swD2gU5rMxc&t=3460s>`_ 🍺 Modern Times Beer: Star Cloud
+* `0:58:25 <https://www.youtube.com/watch?v=swD2gU5rMxc&t=3505s>`_ 🍻 乾杯、PyCon US 2021のTシャツ。海外カンファレンス見ながらチャットでやりとりすると便利
