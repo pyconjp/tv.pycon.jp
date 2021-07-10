@@ -21,11 +21,27 @@ PyCon JP TVを運営している一般社団法人PyCon JP Associationについ�
 
 Pythonニュース
 --------------
-* TBD
+* `DjangoCongress JP 2021 <https://django.connpass.com/event/214451/>`_
 
-(メイントークタイトル)
-----------------------
-* TBD
+  * `DjangoCongress JP 2021オンライン会場 - YouTube <https://www.youtube.com/watch?v=BLfO79jJO2c>`_
+* `Python Insider: Python 3.9.6, 3.8.11, 3.7.11, and 3.6.14 are now available <https://blog.python.org/2021/06/python-396-3811-3711-and-3614-are-now.html>`_
+* `PyCon JP Blog: About the PyCon JP 2021 (as of the end of June) / PyCon JP 2021の座長です。6月末時点の全てをお話しします <https://pyconjp.blogspot.com/2021/07/hybrid-pyconjp-2021-plan-june.html>`_
+
+  * `PyCon JP Blog: PyCon JP 2021 Call for proposals is now open | PyCon JP 2021 プロポーザルの募集開始 <https://pyconjp.blogspot.com/2021/05/start-proposal.html>`_
+* `PyCon JP Blog: Python Charity Talks in Japan 2021.09 第1回作業日報告 <https://pyconjp.blogspot.com/2021/07/python-charity-talks-in-japan-202109-1.html>`_
+
+「一般社団法人PyCon JP Association」について
+--------------------------------------------
+* `PyCon JP 運営 <https://www.pycon.jp/>`_
+* `PyCon JP イベント主催事業 <https://www.pycon.jp/organizer/index.html>`_
+* `Python Boot Camp(初心者向けPythonチュートリアル) <https://www.pycon.jp/support/bootcamp.html>`_
+* `決算報告 <https://www.pycon.jp/annualreport/index.html>`_
+
+  * `2020年度決算報告書 <https://drive.google.com/file/d/15tQn0nnc5OrBDnp2jaTlG2dm-39113sR/view>`_
+* `PyCon JP スタッフ - connpass <https://pyconjp-staff.connpass.com/>`_
+
+  * 8月6日(金) `一般社団法人PyCon JP Association運営会議 #47 <https://pyconjp-staff.connpass.com/event/213396/>`_
+* `PyCon JP Blog: PyCon APAC 2018 in シンガポール のツアー参加者募集 <https://pyconjp.blogspot.com/2018/03/pycon-apac-2018-in.html>`_    
 
 飲みトーク
 ----------
@@ -33,4 +49,35 @@ Pythonニュース
 
 目次
 ====
-* TBD
+* `0:00:22 <https://www.youtube.com/watch?v=R7sO0gVX89M&t=22s>`_ 配信開始
+* `0:01:05 <https://www.youtube.com/watch?v=R7sO0gVX89M&t=65s>`_ コメント募集「よく使うサードパーティ製パッケージ」
+* `0:04:03 <https://www.youtube.com/watch?v=R7sO0gVX89M&t=243s>`_ コメント、Twitterなどでメッセージ書いてくれるとうれしいです
+* `0:05:53 <https://www.youtube.com/watch?v=R7sO0gVX89M&t=353s>`_ 【Pythonニュース】
+* `0:06:15 <https://www.youtube.com/watch?v=R7sO0gVX89M&t=375s>`_ DjangoCongress Jp 2021が無事開催されました
+* `0:07:15 <https://www.youtube.com/watch?v=R7sO0gVX89M&t=435s>`_ Python 3.9.6などがリリースされました
+* `0:09:30 <https://www.youtube.com/watch?v=R7sO0gVX89M&t=570s>`_ PyCon JP 2021の6月末時点の全てをお知らせ
+* `0:12:10 <https://www.youtube.com/watch?v=R7sO0gVX89M&t=730s>`_ PyCon JP 2021のProposalは7月10時 23時59分(JST)が締め切りです
+* `0:13:18 <https://www.youtube.com/watch?v=R7sO0gVX89M&t=798s>`_ Python Charity Talks in Japan 2021.09 の準備を進めてます
+* `0:14:09 <https://www.youtube.com/watch?v=R7sO0gVX89M&t=849s>`_ 【メイントーク】一般社団法人PyCon JP Associationについて
+* `0:14:36 <https://www.youtube.com/watch?v=R7sO0gVX89M&t=876s>`_ パーソナリティーの2人はPyCon JP 2021のスタッフじゃないのでイベントの中身は詳しくない
+* `0:15:53 <https://www.youtube.com/watch?v=R7sO0gVX89M&t=953s>`_ PyCon JP Associationについて何が聞きたいですか?
+* `0:17:40 <https://www.youtube.com/watch?v=R7sO0gVX89M&t=1060s>`_ そもそも「法人」「一般社団法人」ってなに?契約とか考えると法人が必要になった
+* `0:20:20 <https://www.youtube.com/watch?v=R7sO0gVX89M&t=1220s>`_ 一般社団法人ってどういうものなの?
+* `0:22:49 <https://www.youtube.com/watch?v=R7sO0gVX89M&t=1369s>`_ 【PyCon JP Associationはなにやってるの?】PyCon JPイベント
+* `0:27:19 <https://www.youtube.com/watch?v=R7sO0gVX89M&t=1639s>`_ Python Boot Campの紹介
+* `0:31:22 <https://www.youtube.com/watch?v=R7sO0gVX89M&t=1882s>`_ PyLadies Caravanの支援もしてます
+* `0:32:35 <https://www.youtube.com/watch?v=R7sO0gVX89M&t=1955s>`_ 以前は海外PyCon参加の旅費支援をしていた、PyCon APACツアーの話
+* `0:36:25 <https://www.youtube.com/watch?v=R7sO0gVX89M&t=2185s>`_ チャット欄のコメントを拾う
+* `0:37:10 <https://www.youtube.com/watch?v=R7sO0gVX89M&t=2230s>`_ 【PyCon JP Associationのお金の話】私たちは非営利の団体です
+* `0:40:29 <https://www.youtube.com/watch?v=R7sO0gVX89M&t=2429s>`_ 消費税の話
+* `0:41:55 <https://www.youtube.com/watch?v=R7sO0gVX89M&t=2515s>`_ 決算報告を見てみる
+* `0:43:08 <https://www.youtube.com/watch?v=R7sO0gVX89M&t=2588s>`_ ピーンポーンピーンポーン
+* `0:43:30 <https://www.youtube.com/watch?v=R7sO0gVX89M&t=2610s>`_ PyCon JPイベントで予算が少し残る。そのお金からPythonを広める活動をしている
+* `0:45:14 <https://www.youtube.com/watch?v=R7sO0gVX89M&t=2714s>`_ 決算書。現在の資産は2000万円弱
+* `0:46:10 <https://www.youtube.com/watch?v=R7sO0gVX89M&t=2770s>`_ どういう風にお金を使って活動するとよいか、アイデアがほしい
+* `0:48:25 <https://www.youtube.com/watch?v=R7sO0gVX89M&t=2905s>`_ 運営はオープンにしてます。運営会議にも気軽に参加してください!!
+* `0:50:57 <https://www.youtube.com/watch?v=R7sO0gVX89M&t=3057s>`_ 【おたよりコーナー】鈴木渚紗さんから「プログラミングをはじめたきっかけは?」
+* `0:54:35 <https://www.youtube.com/watch?v=R7sO0gVX89M&t=3275s>`_ 【次回予告】8月4日(水) PyCon APAC 2019(フィリピン)を紹介
+* `0:58:10 <https://www.youtube.com/watch?v=R7sO0gVX89M&t=3490s>`_ PyCon JPのときにAssociationのオープンなミーティングやるので参加してね
+* `0:59:25 <https://www.youtube.com/watch?v=R7sO0gVX89M&t=3565s>`_ 🍺準備
+* `1:00:28 <https://www.youtube.com/watch?v=R7sO0gVX89M&t=3628s>`_ カシャプシュからの乾杯 🍻 ORION 75BEER IPA
