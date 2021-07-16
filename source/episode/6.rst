@@ -45,7 +45,15 @@ Pythonニュース
 
 飲みトーク
 ----------
-* TBD
+* `プレミアムクラフトビール『75BEER』 <https://www.orionbeer.co.jp/brand/75beer/>`_
+* `TOKYO CRAFT <https://www.suntory.co.jp/beer/tokyocraft/>`_
+* `openpyxl <https://openpyxl.readthedocs.io/>`_
+* `Java - Wikipedia <https://ja.wikipedia.org/wiki/Java>`_
+* `PEP 594 -- Removing dead batteries from the standard library <https://www.python.org/dev/peps/pep-0594/>`_
+* `python-doc-ja/python-doc-ja: Python ドキュメント日本語訳プロジェクト <https://github.com/python-doc-ja/python-doc-ja>`_
+* `Python.jp Discordサーバ <https://www.python.jp/discord/index.html>`_
+* `Better error messages <https://docs.python.org/3.10/whatsnew/3.10.html#better-error-messages>`_ 
+* `常陸野ネストビール <https://hitachino.cc/beer/index.html>`_
 
 目次
 ====
@@ -81,3 +89,21 @@ Pythonニュース
 * `0:58:10 <https://www.youtube.com/watch?v=R7sO0gVX89M&t=3490s>`_ PyCon JPのときにAssociationのオープンなミーティングやるので参加してね
 * `0:59:25 <https://www.youtube.com/watch?v=R7sO0gVX89M&t=3565s>`_ 🍺準備
 * `1:00:28 <https://www.youtube.com/watch?v=R7sO0gVX89M&t=3628s>`_ カシャプシュからの乾杯 🍻 ORION 75BEER IPA
+* `1:01:40 <https://www.youtube.com/watch?v=R7sO0gVX89M&t=3700s>`_ 今日の寺田さんの衣装は PyCon JP ポロシャツ、PyCon JP 2021イベントTシャツあるのかなー
+* `1:04:20 <https://www.youtube.com/watch?v=R7sO0gVX89M&t=3860s>`_ DroidKaigi 2020 や PyCon US 2020 のイベントキャンセルの話
+* `1:06:10 <https://www.youtube.com/watch?v=R7sO0gVX89M&t=3970s>`_ YouTubeチャットを振り返る。pip install engawa、タイムゾーンはAOE
+* `1:10:35 <https://www.youtube.com/watch?v=R7sO0gVX89M&t=4235s>`_ 🍺 ORION 75BEER、東京でPython Boot Campはやらないの?、今日は🍕じゃなくて🍣
+* `1:14:55 <https://www.youtube.com/watch?v=R7sO0gVX89M&t=4495s>`_ 好きな回転ずしは?寺田さんの32の夜にはなにがあったの?プログラミングの素養はその前からあった
+* `1:24:45 <https://www.youtube.com/watch?v=R7sO0gVX89M&t=5085s>`_ georgeTrue、アサヒの生ジョッキ缶は売れてるらしい、たかのりの高専時代のプログラミング授業
+* `1:28:30 <https://www.youtube.com/watch?v=R7sO0gVX89M&t=5310s>`_ Webとの出会いはいつ?perlでCGI、これからはJavaですよ!メモリ確保し直すとか神じゃん!
+* `1:32:19 <https://www.youtube.com/watch?v=R7sO0gVX89M&t=5539s>`_ openpyxlは罫線引いたりフォーマットに凝り出すと大変、中ではこう動いているって理解できて面白い、昔のExcelの罫線の問題
+* `1:37:30 <https://www.youtube.com/watch?v=R7sO0gVX89M&t=5850s>`_ 🍺 SUNTORY Tokyo Craft ブラックペッパー仕立てのスパイシーエール(限定醸造)、胡椒の香りがすごいする
+* `1:42:05 <https://www.youtube.com/watch?v=R7sO0gVX89M&t=6125s>`_ 今のJavaバージョンって15なの!?Java 8がLTS、今JDKってどこなの?LTSってどの段階で決めるの?
+* `1:45:00 <https://www.youtube.com/watch?v=R7sO0gVX89M&t=6300s>`_ PythonはLTSがないけど2.7が実質LTS、3→4は2→3みたいにはしない予定とのこと、old batteriesの話、標準ライブラリどれが使われているかわからない問題、docs.python.orgでどこが見られているかでわかりそう(天才では)
+* `1:51:18 <https://www.youtube.com/watch?v=R7sO0gVX89M&t=6678s>`_ 標準ライブラリを消すの大変、PyCon JPでもサービスを減らすの大変、3年間洗濯機のない生活、長期旅行したときの洗濯どうしてる?
+* `1:54:55 <https://www.youtube.com/watch?v=R7sO0gVX89M&t=6895s>`_ 寺田さんのスーツケースはデカい、重たいスーツケースを筋肉で解決、nanaさんの筋トレ
+* `2:00:01 <https://www.youtube.com/watch?v=R7sO0gVX89M&t=7201s>`_ スーツケースを持って歩くことが多い、海外のホテルは洗濯できる?ホテルのお高い洗濯サービスの恥ずかしい思い出
+* `2:03:50 <https://www.youtube.com/watch?v=R7sO0gVX89M&t=7430s>`_ Python公式ドキュメントの翻訳ちょっとずつやっていく、翻訳は少しずつできる貢献なのでおすすめ、一カ所だけ翻訳されていないところとかがある
+* `2:10:06 <https://www.youtube.com/watch?v=R7sO0gVX89M&t=7806s>`_ 🍺 常陸野ネスト HAZY IPA、翻訳discordでやりとりするとよさそう
+* `2:13:15 <https://www.youtube.com/watch?v=R7sO0gVX89M&t=7995s>`_ Python 3.10のエラーメッセージがわかりやすくなっているのいい、最初はstack traceどこから見たらいいかわからない、新機能使いながら話すのやってもいいかも
+* `2:17:17 <https://www.youtube.com/watch?v=R7sO0gVX89M&t=8237s>`_ そろそろdiscordに移動、今日は🍣があまりがちだった
