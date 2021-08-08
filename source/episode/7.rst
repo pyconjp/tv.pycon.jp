@@ -21,16 +21,63 @@
 
 Pythonニュース
 --------------
-* TBD
+* `PyCon APAC 2021 <https://th.pycon.org/>`_
+* `PyCon Kyushu 2022 Kumamoto <https://kyushu.pycon.jp/2022/>`_
+* `Python Charity Talks in Japan 2021.09 <https://pyconjp.connpass.com/event/218154/>`_
+* `PyCon JP 2021: 1日目のキーノートスピーカー決定のお知らせ <https://pyconjp.blogspot.com/2021/08/pycon-jp-2021-1-announcement-of-keynote.html>`_
 
 PyCon APAC 2019
 ---------------
-* TBD
+* `PyCon APAC 2019 <https://pycon.python.ph/>`_
+* `PythonPH - YouTube <https://www.youtube.com/channel/UCvyvmPv3-uzjQJy5vQ9dklg>`_
+* `Pycon APAC 2019 Beng Keat Liew - PyCon APAC - Back to the Future! - YouTube <https://www.youtube.com/watch?v=lFWSq0c6vPo&list=PLCBCxsuKTqkCnc9lcO1PJKScJ4GFKZHwP&index=4>`_
+* `Pycon APAC 2019 - Lightning Talks Part 3 - YouTube <https://youtu.be/crDr-lus0sg?t=317>`_
+* `Pycon APAC 2019 - Takanori Suzuki - Automate the Boring Stuff with Slackbot - YouTube <https://www.youtube.com/watch?v=iex9DAGxl_o&list=PLCBCxsuKTqkCnc9lcO1PJKScJ4GFKZHwP&index=16>`_
+* `Spektral Beer Lounge | Facebook <https://www.facebook.com/spektralbeerlounge>`_  
+* `The Perfect Pint PH <https://theperfectpint.ph/>`_
+
+お便りコーナー
+--------------
+* `Python Release Python 3.10.0rc1 <https://www.python.org/downloads/release/python-3100rc1/>`_
+* `Kona Linux <https://drive.google.com/drive/folders/0B63KzJgfI7FnRVMwXy1sQXlDdUk>`_
 
 飲みトーク
 ----------
+* `清んでいる ドラゴンアイ[スカイ]オーガニックピルスナー <https://akatsuki-brewery.com/shopdetail/000000000001/>`_
 * TBD
 
 目次
 ====
-* TBD
+* `0:00:24 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=24s>`_ 配信開始
+* `0:01:40 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=100s>`_ コメント募集「アジアで行って良かったところ、行きたいところ」。シンガポールが人気
+* `0:04:30 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=270s>`_ 【Pythonニュース】
+* `0:04:50 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=290s>`_ PyCon APAC 2021は11月にタイで開催予定。8月15日がプロポーザル締め切り
+* `0:07:00 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=420s>`_ PyCon Kyushu 2022が2022年1月22日に熊本で開催予定
+* `0:08:20 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=500s>`_ Python Charity Talks in Japanが9月11日に開催予定
+* `0:10:25 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=625s>`_ PyCon JP 2021のキーノートスピーカーが決定
+* `0:13:00 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=780s>`_ 【メイントーク】 PyCon APAC 2019
+* `0:14:35 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=875s>`_ PyCon APAC 2019の概要を紹介
+* `0:17:00 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=1020s>`_ カンファレンス前日に日本からフィリピンへ移動。この日はyoshidaさんとハンバーガー&ビールでフィニッシュ
+* `0:23:10 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=1390s>`_ 【カンファレンス1日目】
+* `0:23:45 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=1425s>`_ 「あなたはカンガルーですか?」大学生はエレベーターでジャンプするの?
+* `0:25:20 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=1520s>`_ メインのカンファレンス会場
+* `0:26:20 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=1580s>`_ キーノートはシンガポールのBean Kiatさん(PyCon APACを立ち上げた人)
+* `0:30:15 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=1815s>`_ 夜はスタッフ、スピーカーのパーティーへ。パーティードリンクはシェイクのみ。ビールがないこともよくある
+* `0:32:19 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=1939s>`_ フィリピンのスタッフのみなさん
+* `0:33:40 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=2020s>`_ そのあとはクラフトビールの店へ。スタッフや各国参加者、台湾のNoahと一緒に
+* `0:36:10 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=2170s>`_ PythonEDのぬいぐるみはどうやったらもらえるの?って現地ですごい聞かれた
+* `0:37:00 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=2220s>`_ 【カンファレンス2日目】
+* `0:37:09 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=2229s>`_ 現地で日本人っぽい名前の発表者に声をかけたら、シンガポールから参加している日本人だった
+* `0:39:45 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=2385s>`_ LTで小学生くらいの女の子が発表していた
+* `0:41:26 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=2486s>`_ 日本からの参加メンバーで記念撮影
+* `0:43:25 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=2605s>`_ クロージングでぬいぐるみとマグカップをプレゼント
+* `0:46:00 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=2760s>`_ 終了後は日本から来たメンバーでフィリピン料理を食べに行った
+* `0:46:19 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=2779s>`_ その後クラフトビールを飲みにPerfect Pintへ移動してYounggunとかと合流、色んな国の人がいた
+* `0:47:13 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=2833s>`_ 女性は常に正しい(right)ので男性トイレは左
+* `0:47:53 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=2873s>`_ 海外PyConに行くと色んな人と知り合いになれて楽しい
+* `0:49:18 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=2958s>`_ 【お便りコーナー】hirokikyさんから「Python 3.10.0rc1が出たがPythonバージョン何使っている?いつ更新する?」
+* `0:52:40 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=3160s>`_ 鈴木渚紗さんから 「PCのOSでLinuxは使っているか?」
+* `0:55:10 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=3310s>`_ 【次回予告】9月3日(金) Python 3.10の新機能を試す
+* `0:56:13 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=3373s>`_ 前回のお便りコーナーで寺田がプログラミングを始めた時期にびっくりされた。いつ初めても遅くない
+* `0:59:00 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=3540s>`_ 🍺準備
+* `0:59:35 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=3575s>`_ カシャプシュ。トクトクトクトク。暁ブルワリー ドラゴンアイ[スカイ]オーガニックピルスナー
