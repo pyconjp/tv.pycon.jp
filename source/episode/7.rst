@@ -43,8 +43,20 @@ PyCon APAC 2019
 
 飲みトーク
 ----------
-* `清んでいる ドラゴンアイ[スカイ]オーガニックピルスナー <https://akatsuki-brewery.com/shopdetail/000000000001/>`_
-* TBD
+* `暁ブルワリー Akatsuki Brewery Japan | <https://akatsuki-brewery.com/>`_
+* `合格体験記応募方法 | 一般社団法人Pythonエンジニア育成推進協会 <https://www.pythonic-exam.com/taikenapply>`_
+* `3.9 Lifespan <https://www.python.org/dev/peps/pep-0596/#id8>`_
+* `新橋のオリジナルクラフトビール『新橋SLビール』が誕生！ <https://www.atpress.ne.jp/news/200436>`_
+* `HKOSCon 2021 <https://hkoscon.org/2021/>`_
+* `LEGOLAND® Korea Theme Park <https://www.legoland.kr/en/>`_
+* `株式会社遠野醸造 | TONO BREWING COMPANY <https://tonobrewing.com/>`_
+* `Kiwi PyCon XI <https://python.nz/kiwipycon>`_
+* `DjangoCon AU 2021 <https://2021.djangocon.com.au/>`_
+* `BB20 グリットエール - Baird Beer <https://bairdbeer.com/ja/beer/grit-ale/>`_
+* `50嵐 <http://50lan.com/web/news.asp>`_
+* `Superdry <https://ssilife.com.ph/superdry>`_
+* `海外安全ホームページ: 危険・スポット・広域情報 <https://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_013.html#ad-image-0>`_
+* `世界に広がるミニストップの輪 <https://www.ministop.co.jp/corporate/about/area.html>`_
 
 目次
 ====
@@ -79,5 +91,26 @@ PyCon APAC 2019
 * `0:52:40 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=3160s>`_ 鈴木渚紗さんから 「PCのOSでLinuxは使っているか?」
 * `0:55:10 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=3310s>`_ 【次回予告】9月3日(金) Python 3.10の新機能を試す
 * `0:56:13 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=3373s>`_ 前回のお便りコーナーで寺田がプログラミングを始めた時期にびっくりされた。いつ初めても遅くない
-* `0:59:00 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=3540s>`_ 🍺準備
-* `0:59:35 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=3575s>`_ カシャプシュ。トクトクトクトク。暁ブルワリー ドラゴンアイ[スカイ]オーガニックピルスナー
+* `0:59:00 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=3540s>`_ 🍺 準備
+* `0:59:35 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=3575s>`_ カシャプシュ。トクトクトクトク 🍺 暁ブルワリー ドラゴンアイ[スカイ]オーガニックピルスナー
+* `1:00:35 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=3635s>`_ YouTubeのチャットコメントを拾う。主語が大きい問題。
+* `1:02:37 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=3757s>`_ 🍕が到着。PythonEDのマグカップってどうやってもらえるの?
+* `1:06:30 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=3990s>`_ Python 3.6だとdataclassがないのつらいなー。.format()使わなくなったなー。Pythonのバージョンアップが年1で早すぎる
+* `1:11:35 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=4295s>`_ Pythonは3.x.0が出てから5年間がサポート期間。
+* `1:13:50 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=4430s>`_ 🍺 新橋SLビール Hazy IPA。新橋と縁が深い福島県いわき市のお米を使用
+* `1:19:15 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=4755s>`_ フィリピンは普通にビール飲むよね?カンファレンスのパーティーはなかった。香港も大学内でパーティーなのでビールがなかった
+* `1:22:16 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=4936s>`_ 香港のOSCの主催者が日本に来たときに都内某所で食事した。飛行機待ちのときに一緒に過ごしてあげる。香港行ってみたい
+* `1:25:40 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=5140s>`_ takanoryが行ってみたいアジアはどこ?アジアにレゴランドは何カ所あるの?
+* `1:28:55 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=5335s>`_ PyCon APACやってほしいところは?インドネシアは近い将来やりそう。ベトナムでPyConやってほしい
+* `1:35:07 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=5707s>`_ 🍺 遠野醸造 TONO "IBUKI" HOP IPA。KiwiPyCon(NZ)行ってみたい。オセアニアは時差は近いけど距離は遠い。アメリカとヨーロッパは時間が合わない
+* `1:39:30 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=5970s>`_ PyCon APAC 2021のキーノート紹介。オーストラリアはDjangoConとかもやっている
+* `1:46:10 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=6370s>`_ PyCon APAC 2021にProposal出しました?現地ワンチャンあるから出したいけど。D&Iのパネルに出てと言われているが英語だと無理そう
+* `1:51:30 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=6690s>`_ リスト内包表記って誰が訳したんだろう?PyCon APAC 2017のパネルは仕切りが雑で大変だった。アジアのPyConは現地語でやってる?
+* `1:59:50 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=7190s>`_ 🍺 ベアードブルーイング BB20 グリットエール。現地語のあいさつテキストを翻訳で出すというプレゼンをしていた。海外プレゼンで現地語であいさつするのはおすすめ
+* `2:03:01 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=7381s>`_ フィリピン最終日(カンファレンス後)の写真を見ながら。50嵐は心の中で「いがらし」と読んでいる、Superdryでお買い物
+* `2:07:14 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=7634s>`_ 空港の建物に入るためにチェックがある。面倒だけど中は安全。ルーマニアの空港は微妙だった
+* `2:15:10 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=8110s>`_ 2019年当時のフィリピンは結構安全で、Makatiは高級住宅街でより安全だった。現地の女性が1人でスマホ見ながら歩いていた。以前Iqbalさんが行こうとした場所はレベル3だった
+* `2:20:40 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=8440s>`_ 1日目の写真を見直す。フィリピンのMINISTOPもしゃべれる食べれる。
+* `2:22:50 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=8570s>`_ フィリピン和民のメニューと価格をチェック。クラフトビールも安かった
+* `2:26:15 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=8775s>`_ カンファレンス1日目の写真を見直す。Bean Kiatさんは娘さんと参加していた。今は引退してIqbalさんが巻き取った感じ
+* `2:28:55 <https://www.youtube.com/watch?v=yyzBd49iMF0&t=8935s>`_ そろそろ終了してdiscordに移行
