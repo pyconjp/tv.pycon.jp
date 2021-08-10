@@ -2,11 +2,11 @@
  #8: Python 3.10の新機能を試す - 2021-09-03
 ============================================
 
-(ここにどんな話をするかを書く)
+その場でPython 3.10のWhat's Newを見ながら新機能を試してみます。
 
 .. raw:: html
 
-   (YouTubeの埋め込みリンク)
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/ymo7H5WqzqI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 関連リンク
 ==========
