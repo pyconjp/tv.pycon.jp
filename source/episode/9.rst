@@ -21,16 +21,56 @@
 
 Pythonニュース
 --------------
-* TBD
+* `Django 4.0 alpha 1 released | Weblog | Django <https://www.djangoproject.com/weblog/2021/sep/21/django-40-alpha-1-released/>`_
+* `Release Highlights for scikit-learn 1.0 — scikit-learn 1.0 documentation <https://scikit-learn.org/stable/auto_examples/release_highlights/plot_release_highlights_1_0_0.html>`_
+* `PyCon Kyushu 2022 Kumamoto <https://kyushu.pycon.jp/2022/>`_
+* 海外PyCon  
+
+  * `PyCon Taiwan 2021 <https://tw.pycon.org/2021/en-us>`_
+  * `파이콘 한국 2021 <https://2021.pycon.kr/>`_
+* `PyCon JP 2021 <https://2021.pycon.jp/>`_
+
+  * `タイムテーブル <https://sessionize.com/view/eu4z8c9d/GridSmart?format=Embed_Styled_Html&isDark=False>`_
+  * `PyCon JP 2021 カンファレンス - On-site 参加 - connpass <https://pyconjp.connpass.com/event/225699/>`_
+  * `PyCon JP Blog: PyCon JP 2021 参加者Tシャツ発売! <https://pyconjp.blogspot.com/2021/09/PyConJP2021Tshirt%20_0792928129.html>`_
+* `PyCon JP Blog: PyCon JP 2022座長募集 <https://pyconjp.blogspot.com/2021/09/pycon-jp-2022-chair.html>`_ 
 
 PyCon Thailand 2019
 -------------------
-* TBD
+* `PyCon Thailand 2019 <https://2019.th.pycon.org/en/>`_
 
 飲みトーク
 ----------
-* TBD
+* 🍺 `Hofbräu Oktoberfestbier | Hofbräu München <https://www.hofbraeu-muenchen.de/en/beer/hofbrau-oktoberfestbier>`_
 
 目次
 ====
-* TBD
+* `0:00:18 <https://www.youtube.com/watch?v=zYiSS7I_a7Y&t=18s>`_ 配信開始
+* `0:02:00 <https://www.youtube.com/watch?v=zYiSS7I_a7Y&t=120s>`_ 好きなアジアのローカルフードはなに?
+* `0:04:35 <https://www.youtube.com/watch?v=zYiSS7I_a7Y&t=275s>`_ 【Pythonニュース】Django 4.0 alpha 1がリリース
+* `0:05:35 <https://www.youtube.com/watch?v=zYiSS7I_a7Y&t=335s>`_ scikit-learnの1.0がリリース
+* `0:06:15 <https://www.youtube.com/watch?v=zYiSS7I_a7Y&t=375s>`_ PyCon Kyushu 2022 Kumamoto が開催予定
+* `0:06:55 <https://www.youtube.com/watch?v=zYiSS7I_a7Y&t=415s>`_ 10月2日、3日にPyCon TaiwanとPyCon Koreaがオンラインで開催
+* `0:08:10 <https://www.youtube.com/watch?v=zYiSS7I_a7Y&t=490s>`_ PyCon JP 2021のタイムテーブルが出た、オンサイト参加チケット発売予定、参加者Tシャツ発売中
+* `0:12:13 <https://www.youtube.com/watch?v=zYiSS7I_a7Y&t=733s>`_ PyCon JP 2022の座長募集を開始
+* `0:14:04 <https://www.youtube.com/watch?v=zYiSS7I_a7Y&t=844s>`_ 【メイントーク】PyCon Thailand 2019
+* `0:15:50 <https://www.youtube.com/watch?v=zYiSS7I_a7Y&t=950s>`_ イベント前日のWelcome Party
+* `0:17:20 <https://www.youtube.com/watch?v=zYiSS7I_a7Y&t=1040s>`_ 会場は日本食レストランが多い、受付、ノベルティ
+* `0:19:36 <https://www.youtube.com/watch?v=zYiSS7I_a7Y&t=1176s>`_ かっこいいステージ、最初キーノートはscikit-learn作者のDavid Cournapeau氏
+* `0:21:48 <https://www.youtube.com/watch?v=zYiSS7I_a7Y&t=1308s>`_ 日本から参加したスピーカー3名が準備中、会場の様子
+* `0:23:42 <https://www.youtube.com/watch?v=zYiSS7I_a7Y&t=1422s>`_ 鈴木たかのり発表の様子、質疑応答が大変だった
+* `0:26:44 <https://www.youtube.com/watch?v=zYiSS7I_a7Y&t=1604s>`_ 寺田のライトニングトーク、当日ChairのDylanさんに無茶振りされて発表した
+* `0:28:53 <https://www.youtube.com/watch?v=zYiSS7I_a7Y&t=1733s>`_ 1日目のパーティー、生ビールあり
+* `0:31:35 <https://www.youtube.com/watch?v=zYiSS7I_a7Y&t=1895s>`_ 日本から参加したメンバー6名で記念撮影、副代表のGeorgiさんが歌かなりうまかった
+* `0:35:50 <https://www.youtube.com/watch?v=zYiSS7I_a7Y&t=2150s>`_ 林田さんの発表、せりーなさんの発表、イクバルさんのライトニングトークの様子
+* `0:36:42 <https://www.youtube.com/watch?v=zYiSS7I_a7Y&t=2202s>`_ クロージングでのPythonクイズ、キーノートのはなし
+* `0:40:07 <https://www.youtube.com/watch?v=zYiSS7I_a7Y&t=2407s>`_ スタッフ集合写真
+* `0:42:28 <https://www.youtube.com/watch?v=zYiSS7I_a7Y&t=2548s>`_ トークのはなし、韓国からの人の発表、面白かったライトニングトーク
+* `0:45:35 <https://www.youtube.com/watch?v=zYiSS7I_a7Y&t=2735s>`_ 会場の無線LANは強かった
+* `0:47:00 <https://www.youtube.com/watch?v=zYiSS7I_a7Y&t=2820s>`_ 今年はPyCon APAC 2021がThailandで11月20日、21日に開催予定。ハイブリッド開催になるか?
+* `0:50:20 <https://www.youtube.com/watch?v=zYiSS7I_a7Y&t=3020s>`_ 【お便りコーナー】ごまおさんから「Pythonの有名なライブラリ、cpythonを読み解く企画はどうか?」
+* `0:54:13 <https://www.youtube.com/watch?v=zYiSS7I_a7Y&t=3253s>`_ 次回は11月5日(金)19:30から。内容は「PyCon JP 2021を振り返る」
+* `0:56:01 <https://www.youtube.com/watch?v=zYiSS7I_a7Y&t=3361s>`_ お便りお待ちしています!
+* `0:57:53 <https://www.youtube.com/watch?v=zYiSS7I_a7Y&t=3473s>`_ 🍺 準備
+* `0:58:50 <https://www.youtube.com/watch?v=zYiSS7I_a7Y&t=3530s>`_ ビールのトクトク音
+* `0:59:23 <https://www.youtube.com/watch?v=zYiSS7I_a7Y&t=3563s>`_ 🍺 Hofbräu Oktoberfestbier
