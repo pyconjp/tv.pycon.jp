@@ -22,4 +22,5 @@ PyCon JP TV
    :glob:
    :reversed:
 
-   episode/*
+   episode/?
+   episode/??
