@@ -6,7 +6,7 @@
 
 .. raw:: html
 
-   (YouTubeの埋め込みリンク)
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/1e17S2qFQNo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 関連リンク
 ==========
@@ -21,8 +21,25 @@
 
 Pythonニュース
 --------------
-* TBD
+* `Python Release Python 3.10.0 | Python.org <https://www.python.org/downloads/release/python-3100/>`_
+* `PyCon mini Shizuoka <https://shizuoka.pycon.jp/2021>`_
 
+  * 2021年11月20日(土)開催
+  * `プロポーザル採択速報 <https://shizuoka.pycon.jp/2021/article/2>`_
+  * `PyCon mini Shizuoka 2021【オンライン&ライブビューイング開催】 - connpass <https://pycon-shizu.connpass.com/event/228219/>`_
+* `PyCon APAC 2021 <https://th.pycon.org/>`_
+
+  * 2021年11月20日(土)、21日(日)開催
+  * 日本から4人のスピーカー
+  * チケット: `PyCon APAC 2021 | Eventpop <https://www.eventpop.me/e/11673/https-th-pycon-org>`_
+* `Python Boot Camp in 山口 - connpass <https://pyconjp.connpass.com/event/205993/>`_
+
+  * 2021年12月4日(土)開催
+* `PyCon Kyushu 2022 Kumamoto <https://kyushu.pycon.jp/2022/>`_
+
+  * 2022年1月22日(土)開催
+  * トーク募集: `PaperCall.io - PyCon Kyushu 2022 Kumamoto <https://www.papercall.io/pykyushu2022>`_
+  
 PyCon JP 2021振り返り
 ---------------------
 * TBD
