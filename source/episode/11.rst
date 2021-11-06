@@ -1,0 +1,36 @@
+=======================================
+ #11: EuroPython 2019(仮) - 2021-12-03
+=======================================
+
+2019年7月8日-14日にスイスのバーゼルで開催されたEruoPython 2019について語ります。(多分)
+
+.. raw:: html
+
+   (YouTubeの埋め込みリンク)
+
+関連リンク
+==========
+* `PyCon JP TVお便りコーナー <https://docs.google.com/forms/d/e/1FAIpQLSfvL4cKteAaG_czTXjofR83owyjXekG9GNDGC6-jRZCb_2HRw/viewform>`_
+* Twitter: `@pyconjptv <https://twitter.com/pyconjptv>`_
+* `Python.jp Discordサーバ <https://www.python.jp/pages/pythonjp_discord.html>`_ の ``#pyconjp-tv`` チャンネル
+
+パーソナリティ
+--------------
+* 寺田 学(`@terapyon <https://twitter.com>`_)
+* 鈴木 たかのり(`@takanory <https://twitter.com/takanory>`_)
+
+Pythonニュース
+--------------
+* TBD
+
+EuroPython 2019(仮)
+-------------------
+* `EuroPython 2019 · Basel, Switzerland, 8-14 July 2019 <https://ep2019.europython.eu/>`_
+
+飲みトーク
+----------
+* TBD
+
+目次
+====
+* TBD
