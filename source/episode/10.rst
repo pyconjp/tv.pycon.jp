@@ -42,12 +42,45 @@ Pythonニュース
   
 PyCon JP 2021振り返り
 ---------------------
-* TBD
+* `PyCon JP 2021 <https://2021.pycon.jp/>`_
+
+  * `タイムテーブル <https://2021.pycon.jp/time-table>`_
+  * `スポンサー一覧 <https://2021.pycon.jp/sponsors>`_
+* `Pythonで理解する統計解析の基礎 <https://gihyo.jp/book/2018/978-4-297-10049-0>`_ (谷合さんの著書)
+* `PyCon JP Blog: PyCon JP Association Meeting 2021を開催しました <https://pyconjp.blogspot.com/2021/10/pycon-jp-association-meeting-2021.html>`_
 
 飲みトーク
 ----------
-* TBD
+* `VECTOR BREWING <https://craftbeercompany.co.jp/vector-brewing/>`_
+* `PyCon JP Blog: PyCon JP 2021インタビュー動画公開 <https://pyconjp.blogspot.com/2021/11/pyconjp2021-interview-video.html>`_
 
 目次
 ====
-* TBD
+* `0:00:28 <https://www.youtube.com/watch?v=1e17S2qFQNo&t=28s>`_ 配信開始
+* `0:01:05 <https://www.youtube.com/watch?v=1e17S2qFQNo&t=65s>`_ 呼びかけ「PyCon JP 2021参加しました?」
+* `0:04:06 <https://www.youtube.com/watch?v=1e17S2qFQNo&t=246s>`_ 【Pythonニュース】Python 3.10.0が2021年10月4日にリリースされました
+* `0:05:00 <https://www.youtube.com/watch?v=1e17S2qFQNo&t=300s>`_ 11月20日開催のPyCon mini Shizuoka、トークが決定
+* `0:06:53 <https://www.youtube.com/watch?v=1e17S2qFQNo&t=413s>`_ PyCon APAC Thailand 2021が11月20、21日に開催。いろんな国からのスピーカーがいっぱい。日本から4名が発表します
+* `0:10:27 <https://www.youtube.com/watch?v=1e17S2qFQNo&t=627s>`_ Python Boot Camp in 山口を12月4日に開催。久しぶりに復活します
+* `0:11:45 <https://www.youtube.com/watch?v=1e17S2qFQNo&t=705s>`_ PyCon Kyushu in Kumamoto 2022、来年1月22日に開催。トーク募集中
+* `0:12:40 <https://www.youtube.com/watch?v=1e17S2qFQNo&t=760s>`_ YouTubeコメントの紹介
+* `0:13:20 <https://www.youtube.com/watch?v=1e17S2qFQNo&t=800s>`_ 【メイントーク】PyCon JP 2021振り返り。現地の写真を交えて紹介
+* `0:14:30 <https://www.youtube.com/watch?v=1e17S2qFQNo&t=870s>`_ 会場(ベルサール神田)のビルの外観、受付
+* `0:15:55 <https://www.youtube.com/watch?v=1e17S2qFQNo&t=955s>`_ ノベルティは「PyCon JP 2021マスク」と名札、今日の衣装はPyCon JP 2021 Tシャツ
+* `0:17:45 <https://www.youtube.com/watch?v=1e17S2qFQNo&t=1065s>`_ ホールの様子、バナーとかあるとイベント感がある
+* `0:20:10 <https://www.youtube.com/watch?v=1e17S2qFQNo&t=1210s>`_ スタッフルームの様子、配信はプロに依頼、リモート用司会者席がある、配信のテクノロジーがどうなっているのか謎
+* `0:23:40 <https://www.youtube.com/watch?v=1e17S2qFQNo&t=1420s>`_ オープニングの打合せ
+* `0:24:00 <https://www.youtube.com/watch?v=1e17S2qFQNo&t=1440s>`_ 受付裏にブースを作らせてもらい、PyCon JPのキラキラシールでの寄付活動が久しぶりにできた
+* `0:25:30 <https://www.youtube.com/watch?v=1e17S2qFQNo&t=1530s>`_ オープニングに向けて人が入ってきた。キーノートはプロ棋士の谷合さん、いろいろ作っていてすごい
+* `0:29:45 <https://www.youtube.com/watch?v=1e17S2qFQNo&t=1785s>`_ 自身の著書にサインをする谷合さん、サインはPythonエンジニアっぽかった。現地開催だとプレゼント大会がやりやすい。
+* `0:32:10 <https://www.youtube.com/watch?v=1e17S2qFQNo&t=1930s>`_ PyCon JP Associationの公開ミーティングをハイブリッドで開催した。どういう設定なのかわからないがとてもスムーズだった。いろいろディスカッションできてよかった
+* `0:35:20 <https://www.youtube.com/watch?v=1e17S2qFQNo&t=2120s>`_ 久しぶりに集合写真を撮った。マスクがあるので楽しそうな写真にするのが難しい
+* `0:37:03 <https://www.youtube.com/watch?v=1e17S2qFQNo&t=2223s>`_ 1日目にたかのりがライトニングトークをしたが、その写真はないらしい...
+* `0:38:10 <https://www.youtube.com/watch?v=1e17S2qFQNo&t=2290s>`_ 2日目はオンラインのみ。キーノートはBrandt BucherさんによるStructural Pattern Matchingの話し
+* `0:43:10 <https://www.youtube.com/watch?v=1e17S2qFQNo&t=2590s>`_ ランチタイムセッションでプラチナスポンサーの人と寺田がMCでパネルディスカッションをした
+* `0:45:17 <https://www.youtube.com/watch?v=1e17S2qFQNo&t=2717s>`_ スペシャルブース紹介とブースツアーの仕組みはすごい良く回ってた、各社もブースを工夫していて良かった
+* `0:47:00 <https://www.youtube.com/watch?v=1e17S2qFQNo&t=2820s>`_ パーティーも良かった。Zoomは動画だけでdiscordでチャットする仕組みはスムーズだった。パーティーでピザハットが届くのが良かったしみんな楽しそうだった
+* `0:49:30 <https://www.youtube.com/watch?v=1e17S2qFQNo&t=2970s>`_ オンライン2年目ということもあって色々すごいなと思った
+* `0:50:20 <https://www.youtube.com/watch?v=1e17S2qFQNo&t=3020s>`_ 【お便りコーナー】鈴木なぎささんから「Pythonの学習で挫折しそうになったこと、キー日ボードのこだわり」
+* `0:56:15 <https://www.youtube.com/watch?v=1e17S2qFQNo&t=3375s>`_ 【次回予告】12月3日(金)から。内容は「EuroPython 2019(仮)」の予定
+* `0:59:21 <https://www.youtube.com/watch?v=1e17S2qFQNo&t=3561s>`_ 🍺 Vector Brewing 浅草橋の猫 (草)、ねこぱんち栓抜きで開栓
