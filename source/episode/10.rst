@@ -52,7 +52,19 @@ PyCon JP 2021振り返り
 飲みトーク
 ----------
 * `VECTOR BREWING <https://craftbeercompany.co.jp/vector-brewing/>`_
+* `ついにBluetooth対応となった「REALFORCE R3」 <https://pc.watch.impress.co.jp/docs/news/1360965.html>`_
 * `PyCon JP Blog: PyCon JP 2021インタビュー動画公開 <https://pyconjp.blogspot.com/2021/11/pyconjp2021-interview-video.html>`_
+* `GoPro <https://gopro.com/ja/jp/>`_
+* `ネットワークオペレーションセンター（NOC）とは - IT用語辞典 e-Words <https://e-words.jp/w/%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC.html>`_
+* `DaVinci Resolve 17 | Blackmagic Design <https://www.blackmagicdesign.com/jp/products/davinciresolve/>`_
+* `14インチMacBook Proと16インチMacBook Pro - Apple（日本） <https://www.apple.com/jp/macbook-pro-14-and-16/>`_
+* `Uchu Brewing WAVE <https://uchubrew.shop-pro.jp/?pid=147328250>`_
+* `Karabiner-Elements <https://karabiner-elements.pqrs.org/>`_
+* `ヤマハ | AG03 - ウェブキャスティングミキサー <https://jp.yamaha.com/products/music_production/webcasting_mixer/ag03/index.html>`_
+* `[Pycon JP 2021] Guido van Rossum さんからのオープニングビデオメッセージ - YouTube <https://www.youtube.com/watch?v=LSse32tu2Wk>`_
+* `Heiwa Craft Sour Ale（平和クラフト サワーエール） <https://craftbeerhunt.net/beer/hwaiwa-craft-sour-ale>`_
+* `Python Software Foundation News: The Python Software Foundation is searching for its next Executive Director <https://pyfound.blogspot.com/2021/11/the-python-software-foundation-is.html>`_
+* `faster-cpython <https://github.com/faster-cpython>`_
 
 目次
 ====
