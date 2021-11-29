@@ -1,12 +1,12 @@
-=======================================
- #11: EuroPython 2019(仮) - 2021-12-03
-=======================================
+===================================
+ #11: EuroPython 2019 - 2021-12-03
+===================================
 
-2019年7月8日-14日にスイスのバーゼルで開催されたEruoPython 2019について語ります。(多分)
+2019年7月8日-14日にスイスのバーゼルで開催されたEruoPython 2019について語ります。
 
 .. raw:: html
 
-   (YouTubeの埋め込みリンク)
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/lnklSqj7cPo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 関連リンク
 ==========
