@@ -55,7 +55,23 @@ EuroPython 2019
 
 飲みトーク
 ----------
-* `黄桜 LUCKY CHICKEN｜黄桜株式会社 <https://kizakura.co.jp/ja/prod_data/info.php?type=items3&id=IC000136>`_
+* 🍺 `黄桜 LUCKY CHICKEN｜黄桜株式会社 <https://kizakura.co.jp/ja/prod_data/info.php?type=items3&id=IC000136>`_
+* `ユーロエアポート・バーゼル＝ミュールーズ空港 - Wikipedia <https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%83%AD%E3%82%A8%E3%82%A2%E3%83%9D%E3%83%BC%E3%83%88%E3%83%BB%E3%83%90%E3%83%BC%E3%82%BC%E3%83%AB%EF%BC%9D%E3%83%9F%E3%83%A5%E3%83%BC%E3%83%AB%E3%83%BC%E3%82%BA%E7%A9%BA%E6%B8%AF>`_
+* `バーゼル大聖堂 - Wikipedia <https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%BC%E3%82%BC%E3%83%AB%E5%A4%A7%E8%81%96%E5%A0%82>`_
+* 🍺 `Hazy IPA | クラフトビール・地ビールの通販 伊勢角屋麦酒 <https://www.biyagura.jp/c/all-items/414>`_
+* 3日目のトーク
+
+  * `Andrey Vlasovskikh - The Story of Features Coming in Python 3.8 and Beyond - YouTube <https://www.youtube.com/watch?v=xUXsIDtlv9s>`_
+  * `Trapsilo Bumi - Enhancing Angklung Music Rehearsals with Python - YouTube <https://www.youtube.com/watch?v=HGcMHjzBzuw>`_
+* `BIERREVIER <https://www.bierrevier.ch/>`_
+* 🍺 `龍馬ブルームIPA | 日本ビール株式会社 <https://www.nipponbeer.jp/lineup/ryoma-bloom-ipa-350can/>`_
+* `Hello @-バーゼルタトゥー <https://www.baseltattoo.ch/ja/>`_
+* `Red Hot Chilli Pipers <https://rhcp.scot/>`_
+* `Brewery & Brewpub in Basel | Volta Bräu <https://www.voltabraeu.ch/en/>`_
+* `KLARA – nine kitchens, one bar <https://klarabasel.ch/en/>`_
+* `シュパレン門 - トリップアドバイザー <https://www.tripadvisor.jp/Attraction_Review-g188049-d592903-Reviews-Spalen_Gate-Basel.html>`_
+* `Basel Historical Museum – Musikmuseum - HMB <https://www.hmb.ch/en/museums/musikmuseum/>`_
+* `Resonance Bowl <https://www.amazon.com/JoanLab-Fristaden-Lab-Resonance-Bowl/dp/B01G3P20DU>`_
 
 目次
 ====
@@ -106,3 +122,12 @@ EuroPython 2019
 * `2:03:34 <https://www.youtube.com/watch?v=lnklSqj7cPo&t=7414s>`_ KLARAに移動してスプリントチームと合流。EuroPython Societyメンバーもいて一緒に飲んだ
 * `2:05:55 <https://www.youtube.com/watch?v=lnklSqj7cPo&t=7555s>`_ 【最終日】朝食はいつものパン。門を見学。スイスの牛柄のアヒル
 * `2:09:10 <https://www.youtube.com/watch?v=lnklSqj7cPo&t=7750s>`_ MUSIK MUSEUM(小楽器の博物館)を見学
+* `2:12:35 <https://www.youtube.com/watch?v=lnklSqj7cPo&t=7955s>`_ ピアノの機構の触れる模型があって楽しい。パイプオルガンの音色を切り替える機構の模型がすごい。自動演奏機械の演奏も1日何回か聴ける
+* `2:15:30 <https://www.youtube.com/watch?v=lnklSqj7cPo&t=8130s>`_ サックスっぽい形のトランペットっぽい楽器。楽器には興味のない寺田パーソナリティ
+* `2:16:35 <https://www.youtube.com/watch?v=lnklSqj7cPo&t=8195s>`_ この博物館はもともとは牢屋。ベルに顔がついていてかわいい。セルパン(幻想交響曲に出てくるやつ)
+* `2:18:50 <https://www.youtube.com/watch?v=lnklSqj7cPo&t=8330s>`_ 卓上パイプオルガン(音程が悪かった)。見学を終えて駅の方へ移動
+* `2:20:15 <https://www.youtube.com/watch?v=lnklSqj7cPo&t=8415s>`_ 空港に到着。あまった現金があるのでやむを得ずビール
+* `2:21:10 <https://www.youtube.com/watch?v=lnklSqj7cPo&t=8470s>`_ 共振して水が跳ね上がる動画を再生(Resonance Bowlとか言うらしい)
+* `2:22:10 <https://www.youtube.com/watch?v=lnklSqj7cPo&t=8530s>`_ 結構バーゼルを楽しんだ。そろそろdiscordに移るので準備を開始。
+* `2:24:38 <https://www.youtube.com/watch?v=lnklSqj7cPo&t=8678s>`_ マーチングの様子の動画。配信終了
+
