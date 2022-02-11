@@ -21,11 +21,19 @@
 
 Pythonニュース
 --------------
-* TBD
+* `Python Release Python 3.10.2 <https://www.python.org/downloads/release/python-3102/>`_
+* `10年を10分で語る！？ 老舗コミュニティ／カンファレンス運営者LT  <https://event.shoeisha.jp/devsumi/20220217/session/3731/>`_
+* `Language Night vol.1 〜スクリプト言語〜 #langnight - connpass <https://blastengine.connpass.com/event/236962/>`_
+* `「Python のユニットテスト用ライブラリ Hypothesis の紹介」「あなたの街でもPython広めませんか？」 - セミナープログラム - オープンソースカンファレンス2022 Osaka <https://event.ospn.jp/osc2022-online-osaka/session/483612>`_
+* `PyCon 2022 Welcome to PyCon US 2022 <https://us.pycon.org/2022/>`_
+* `PyCon JP Blog: PyCon JP AssociationがPSFのCommunity Service Awardに選ばれました🎉 <https://pyconjp.blogspot.com/2022/02/psf-community-service-award.html>`_
+* `PyCon JP Blog: PyCon JP 2022 スタッフ募集のお知らせ <https://pyconjp.blogspot.com/2022/02/pycon-jp-2022.html>`_
 
-(メイントークタイトル)
-----------------------
-* TBD
+PyCon Kyushu 2022 Kumamoto
+--------------------------
+* `PyCon Kyushu 2022 Kumamoto <https://kyushu.pycon.jp/2022/>`_
+* `PyCon Kyushu 2022 Kumamoto - connpass <https://pycon-kyushu.connpass.com/event/224167/>`_
+* `PyCon Kyushu 2022 Kumamoto - Media List - connpass <https://pycon-kyushu.connpass.com/event/224167/presentation/>`_
 
 飲みトーク
 ----------
@@ -33,4 +41,31 @@ Pythonニュース
 
 目次
 ====
-* TBD
+* `0:00:21 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=21s>`_ 配信開始(だが音がかなり小さい)
+* `0:02:02 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=122s>`_ ここから音量をアップしたが環境音が入っているとの問題
+* `0:03:39 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=219s>`_ 寺田パーソナリティがピンマイクを準備の間をつなぐ
+* `0:05:10 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=310s>`_ ピンマイクに変更
+* `0:05:40 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=340s>`_ 【Pythonニュース】Python 3.10.2、3.9.10がリリース(https://www.python.org/downloads/release/python-3102/)
+* `0:06:30 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=390s>`_ 2月18日に清水川さんがデベロッパーサミットに登壇(https://event.shoeisha.jp/devsumi/20220217/session/3731/)
+* `0:07:25 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=445s>`_ 2月18日にたかのりがLanguage Nightに登壇(https://blastengine.connpass.com/event/236962/)
+* `0:08:10 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=490s>`_ 1月29日にオープンソースカンファレンスOnline OsakaでPyCon JPメンバーが登壇した(https://event.ospn.jp/osc2022-online-osaka/session/483612)
+* `0:09:35 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=575s>`_ PyCon US 2022のチケット発売開始(https://us.pycon.org/2022/)
+* `0:11:05 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=665s>`_ PyCon JP AssociationがPSFのCommunity Service Awardに選ばれた(https://pyconjp.blogspot.com/2022/02/psf-community-service-award.html)
+* `0:13:30 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=810s>`_ PyCon JP 2022のスタッフ募集開始のお知らせ(https://pyconjp.blogspot.com/2022/02/pycon-jp-2022.html)
+* `0:16:30 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=990s>`_ 【メイントーク】PyCon Kyushu 2022 Kumamoto
+* `0:17:45 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=1065s>`_ スピーカーTシャツを披露したがなにかが変。その後イベント概要を紹介
+* `0:19:45 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=1185s>`_ 会場の様子のビデオを再生
+* `0:22:48 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=1368s>`_ 紙のパンフレットを紹介、キーノートの清水川さんの発表について
+* `0:25:05 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=1505s>`_ キーノートのスライドを紹介
+* `0:28:10 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=1690s>`_ 写真を見ながら会場の様子を紹介、オープニング、キーノートの様子
+* `0:29:50 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=1790s>`_ 長野から参加したたきのさんの発表、flake8、blackなどについて。その後ランチ
+* `0:31:28 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=1888s>`_ 午後は野中さんのCPythonの発表。ノベルティを紹介
+* `0:33:22 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=2002s>`_ 寺田の写真に変更。ローランドリチャードさんの「print("Hello World")を実行する」の紹介。山ノ内さんの医療系データの発表
+* `0:37:25 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=2245s>`_ トリプルイーさんの企業LT面白かった。西田さんの「PythonでgRPC入門」。その後LT
+* `0:40:30 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=2430s>`_ スタッフのみなさん。参加者の全体写真
+* `0:42:05 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=2525s>`_ nikkieさんの「文に立ち返ってPython再入門」の紹介
+* `0:46:25 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=2785s>`_ 濃いめの発表が多かった印象。たかのりの「Introduction to Structural Pattern Matching」を紹介
+* `0:47:45 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=2865s>`_ 【Youtubeコメントをピックアップ】
+* `0:49:30 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=2970s>`_ 【お便りコーナー】技術書は紙派？電子派？
+* `0:55:50 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=3350s>`_ 【次回予告】次回は2022年3月4日(金) 19:30から
+* `0:58:50 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=3530s>`_ 🍺カシャプシュ。Revision Reefer Truck

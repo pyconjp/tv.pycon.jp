@@ -1,21 +1,29 @@
-https://www.youtube.com/watch?v=i7S8dfok9wU
-0:00:32 配信開始
-0:01:30 呼びかけ「2022の展望」
-0:05:09 【Pythonニュース】Pytnon Boot Camp in 山口を開催した
-0:07:18 PyCon JP 2021のカンファレンスレポートがgihyo.jpで公開
-0:08:09 PyCon JP 2022の座長が決定
-0:11:10 PyCon Kyushu 2022 Kumamotoが来週(1月22日)開催
-0:14:01 PyCon JP Associationの理事募集中
-0:14:45 【メイントーク】Pythonコミュニティ2021重大ニュースと2022の展望
-0:16:15 コミュニティってどういうイメージ?
-0:18:02 Shonan.py https://shonan-py.connpass.com/
-0:23:15 飛騨高山Pythonの会 https://hida-python.connpass.com/
-0:28:20 PyConKyushu https://www.pykyushu.jp/
-0:30:35 Unagi.py https://unagi-py.connpass.com/
-0:35:45 PyLadies Tokyo https://tokyo.pyladies.com/
-0:39:54 はんなりPython https://hannari-python.connpass.com/
-0:45:27 django-ja https://djangoproject.jp/
-0:51:17 【お便りコーナー】素数大好きさんから「PyCon JPに体調不良で参加できなかった」
-0:53:30 PythonLove2022さんから「Python界隈でビッグニュースになりそうなこと」
-0:56:40 【Youtubeコメントをピックアップ】
-0:58:46 【次回予告】2022年2月4日(金) 19:30からPyConKyushu 2022
+https://www.youtube.com/watch?v=hpSWkcgYsnI
+0:00:21 配信開始(だが音がかなり小さい)
+0:02:02 ここから音量をアップしたが環境音が入っているとの問題
+0:03:39 寺田パーソナリティがピンマイクを準備の間をつなぐ
+0:05:10 ピンマイクに変更
+0:05:40 【Pythonニュース】Python 3.10.2、3.9.10がリリース(https://www.python.org/downloads/release/python-3102/)
+0:06:30 2月18日に清水川さんがデベロッパーサミットに登壇(https://event.shoeisha.jp/devsumi/20220217/session/3731/)
+0:07:25 2月18日にたかのりがLanguage Nightに登壇(https://blastengine.connpass.com/event/236962/)
+0:08:10 1月29日にオープンソースカンファレンスOnline OsakaでPyCon JPメンバーが登壇した(https://event.ospn.jp/osc2022-online-osaka/session/483612)
+0:09:35 PyCon US 2022のチケット発売開始(https://us.pycon.org/2022/)
+0:11:05 PyCon JP AssociationがPSFのCommunity Service Awardに選ばれた(https://pyconjp.blogspot.com/2022/02/psf-community-service-award.html)
+0:13:30 PyCon JP 2022のスタッフ募集開始のお知らせ(https://pyconjp.blogspot.com/2022/02/pycon-jp-2022.html)
+0:16:30 【メイントーク】PyCon Kyushu 2022 Kumamoto
+0:17:45 スピーカーTシャツを披露したがなにかが変。その後イベント概要を紹介
+0:19:45 会場の様子のビデオを再生
+0:22:48 紙のパンフレットを紹介、キーノートの清水川さんの発表について
+0:25:05 キーノートのスライドを紹介
+0:28:10 写真を見ながら会場の様子を紹介、オープニング、キーノートの様子
+0:29:50 長野から参加したたきのさんの発表、flake8、blackなどについて。その後ランチ
+0:31:28 午後は野中さんのCPythonの発表。ノベルティを紹介
+0:33:22 寺田の写真に変更。ローランドリチャードさんの「print("Hello World")を実行する」の紹介。山ノ内さんの医療系データの発表
+0:37:25 トリプルイーさんの企業LT面白かった。西田さんの「PythonでgRPC入門」。その後LT
+0:40:30 スタッフのみなさん。参加者の全体写真
+0:42:05 nikkieさんの「文に立ち返ってPython再入門」の紹介
+0:46:25 濃いめの発表が多かった印象。たかのりの「Introduction to Structural Pattern Matching」を紹介
+0:47:45 【Youtubeコメントをピックアップ】
+0:49:30 【お便りコーナー】技術書は紙派？電子派？
+0:55:50 【次回予告】次回は2022年3月4日(金) 19:30から
+0:58:50 🍺カシャプシュ。Revision Reefer Truck
