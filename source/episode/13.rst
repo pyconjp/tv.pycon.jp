@@ -37,8 +37,17 @@ PyCon Kyushu 2022 Kumamoto
 
 飲みトーク
 ----------
-* TBD
-
+* 🍺 `Reefer Truck <https://revisionbrewing.com/beers/reefer-truck/>`_
+* 🍺 `SMOG CITY IPA – Smog City Brewing <https://smogcitybrewing.com/pages/smogcity-ipa>`_
+* `PyCon Kyushu 2022 Kumamoto インタビュー - YouTube <https://www.youtube.com/watch?v=aHjR8eyoOXY>`_
+* `Amazon.co.jp: ROSENICE インタビューマイクロゴ (ホワイト) : 楽器・音響機器 <https://www.amazon.co.jp/dp/B008EULH6Y>`_
+* `阿蘇くまもと空港 オフィシャルサイト <https://www.kumamoto-airport.co.jp/>`_
+* `ブレブレ （ble'ble'） <https://tabelog.com/kumamoto/A4301/A430101/43011378/>`_
+* `天然温泉 六花の湯 ドーミーイン熊本 <https://www.hotespa.net/hotels/kumamoto/>`_
+* `くまモンスクエア <https://www.kumamon-sq.jp/>`_
+* 🍺 `グレープチョコレートスタウト <https://shop.sanktgallenbrewery.com/?pid=165990894>`_
+* 🍺 `小西酒造株式会社 <https://www.konishi.co.jp/>`_
+  
 目次
 ====
 * `0:00:21 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=21s>`_ 配信開始(だが音がかなり小さい)
@@ -69,3 +78,30 @@ PyCon Kyushu 2022 Kumamoto
 * `0:49:30 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=2970s>`_ 【お便りコーナー】技術書は紙派？電子派？
 * `0:55:50 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=3350s>`_ 【次回予告】次回は2022年3月4日(金) 19:30から
 * `0:58:50 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=3530s>`_ 🍺カシャプシュ。Revision Reefer Truck
+* `0:59:50 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=3590s>`_ Youtubeのコメントを拾っていく。前半は音に対するクレーム。熊本さんで会ったローランドさんがコメントくれてた
+* `1:02:50 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=3770s>`_ 動画を撮ると現地の様子が伝わると思ってがんばった。4人目のスタッフが合流
+* `1:08:14 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=4094s>`_ 🍺 SMOG CITY IPA
+* `1:10:13 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=4213s>`_ 【PyCon Kyushu 2022 Kumamoto現地動画を再生】入場から西田さんインタビューまで
+* `1:16:50 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=4610s>`_ 来場者、廣津留さんインタビュー
+* `1:20:06 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=4806s>`_ オープニング。座長清田さん、イクバルさんインタビュー
+* `1:24:50 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=5090s>`_ スピーカーたきのさん、たかのりインタビュー
+* `1:27:45 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=5265s>`_ 正倉さん、山之内さんインタビュー
+* `1:32:22 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=5542s>`_ スタッフHamaさんインタビュー
+* `1:40:16 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=6016s>`_ ローランド・リチャードさん
+* `1:43:53 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=6233s>`_ リモート発表の様子
+* `1:46:05 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=6365s>`_ クロージング後の即席サイン会。マイク準備の裏話
+* `1:49:26 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=6566s>`_ 動画のエンディング。その後ライブで公開
+* `1:52:02 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=6722s>`_ 動画編集の裏話。PyCon JP TVと言えばインタビューしやすい。ここからの動画力の成長に期待
+* `1:58:03 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=7083s>`_ イベントを楽しみながら撮影をするのはなかなか大変。インタビューのときはマイク1本にした方がよさそう
+* `2:01:45 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=7305s>`_ 自撮りがもっと多いとよかった。
+* `2:03:50 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=7430s>`_ たかのりの写真を見ながら熊本を振り返る。カンファレンス前日の移動。空港空港でランチ
+* `2:09:20 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=7760s>`_ 熊本2日目。カンファレンス当日。ドーミーインで初めての夜鳴き蕎麦を経験。今回はドーミーインを満喫した
+* `2:14:05 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=8045s>`_ 熊本3日目。雨なので「くまモンスクエア」を訪問。くまモンガチ勢がすごい。くまモンさんと記念撮影。ランチは馬刺しとステーキ
+* `2:25:13 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=8713s>`_ 寺田はレンタカーで天草を観光。熊本の寿司の酢飯の酢が薄い印象。刺身はコリコリ系でおいしい
+* `2:29:40 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=8980s>`_ ホテルから商店街まで動画を撮ったけど、お店が開いてないのでいまいちだった
+* `2:30:55 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=9055s>`_ 🍺サンクトガーレン グレープチョコレートスタウト
+* `2:33:10 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=9190s>`_ PyCon US 2022の話し。トークが通ったので行く気満々
+* `2:39:00 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=9540s>`_ なぜ世界は新しい試練を与えるのか
+* `2:43:55 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=9835s>`_ 日本からPyCon USの発表者が3名はすごい
+* `2:47:35 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=10055s>`_ 🍺 コニシ ショコラプレミアム
+* `2:49:50 <https://www.youtube.com/watch?v=hpSWkcgYsnI&t=10190s>`_ ピーコックさんはアメリカに行く?
