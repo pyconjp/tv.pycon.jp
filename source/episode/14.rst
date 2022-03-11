@@ -21,11 +21,16 @@
 
 Pythonニュース
 --------------
-* TBD
+* `PyCon JP Blog: PyCon Kyushu 2022 Kumamoto 開催報告 <https://pyconjp.blogspot.com/2022/02/pycon-kyushu-2022-kumamoto_17.html>`_
+* `みんなのPython勉強会#79 - connpass <https://startpython.connpass.com/event/239619/>`_
+* `PyCon JP Blog: 3月12日(土)のOSC SpringはセミナーとPyCamp相談会の2本立てです！ <https://pyconjp.blogspot.com/2022/03/pycamp-caravan-osc-2022-spring.html>`_
+* `PyCon 2022 Talks Schedule <https://us.pycon.org/2022/schedule/talks/>`_
+* `Python Software Foundation News: We are hiring contract developers to build new features in PyPI <https://pyfound.blogspot.com/2022/02/we-are-hiring-contract-developers-to.html>`_
 
-(メイントークタイトル)
-----------------------
-* TBD
+PyCon Malaysia 2019
+-------------------
+* `PyCon Malaysia – PyCon Malaysia and Python Programming Language <https://pycon.my/>`_
+* `PyConMY 2019 Programme Schedule – PyCon Malaysia <https://pycon.my/pyconmy-2019-programme-schedule/>`_
 
 飲みトーク
 ----------
@@ -33,4 +38,28 @@ Pythonニュース
 
 目次
 ====
-* TBD
+* `0:00:26 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=26s>`_ 配信開始
+* `0:01:18 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=78s>`_ コメント募集「よかった、ほしいノベルティ」
+* `0:04:39 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=279s>`_ ハッシュタグは #pyconjp
+* `0:06:44 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=404s>`_ 【Pythonニュース】
+* `0:06:54 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=414s>`_ PyCon Kyushu 2022 Kumamoto開催報告
+* `0:09:15 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=555s>`_ みんなのPython勉強会#79でtakanoryが発表
+* `0:10:38 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=638s>`_ OSC SpringでPyCon JPのセミナーとPyCamp相談会
+* `0:13:20 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=800s>`_ PyCon US 2022のスケジュールが公開
+* `0:16:39 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=999s>`_ PSFがPyPIの新機能の開発者を募集中
+* `0:18:30 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=1110s>`_ 【メイントーク】PyCon Malaysia 2019
+* `0:19:40 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=1180s>`_ PyCon Malaysia 2019の紹介、日程、場所、規模など
+* `0:23:48 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=1428s>`_ 写真で見るカンファンレンス1日目の朝
+* `0:25:01 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=1501s>`_ PSFのカンファレンスキットをNoahさんと一緒に設営
+* `0:27:40 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=1660s>`_ 会場の様子、ChairのJamesさんによるオープニング、キーノート
+* `0:31:10 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=1870s>`_ インドネシアのFarahさんの発表、ランチのビュッフェは豪華
+* `0:36:00 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=2160s>`_ GraphQLの発表が2019年から増えてきた、おやつ、日本人に遭遇、Noahさんの発表
+* `0:39:10 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=2350s>`_ カンファレンスキットの前で記念撮影する人たち、そのあとはパーティー
+* `0:41:00 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=2460s>`_ ビールを飲みに2軒目へ
+* `0:43:32 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=2612s>`_ 2日目の朝食、キーノートはCarol Willingさん
+* `0:45:43 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=2743s>`_ ランチタイムにAPAC各国のメンバーとCarolさんでディスカッション、Zopeの人の発表
+* `0:49:35 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=2975s>`_ Carolさんはtakanoryのトークを目の前で聴いてた
+* `0:51:00 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=3060s>`_ 【おたよりコーナー】企画としてPython関係の書籍の話が聞いてみたい
+* `0:54:00 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=3240s>`_ YouTubeのコメントから
+* `0:54:59 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=3299s>`_ 【次回予告】海外発表した人の経験談をまとめてお届け
+* `1:00:40 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=3640s>`_ シュポッ!!トクトクトク、🍺 サンクトガーレン 感謝ビール＜金＞
