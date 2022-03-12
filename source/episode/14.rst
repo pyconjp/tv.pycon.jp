@@ -31,22 +31,41 @@ PyCon Malaysia 2019
 -------------------
 * `PyCon Malaysia – PyCon Malaysia and Python Programming Language <https://pycon.my/>`_
 * `PyConMY 2019 Programme Schedule – PyCon Malaysia <https://pycon.my/pyconmy-2019-programme-schedule/>`_
+* `Carol Willing (@WillingCarol) <https://twitter.com/WillingCarol>`_
 
 飲みトーク
 ----------
-* TBD
+* `ビールラインナップ-感謝の生と一升瓶ビール | 元祖地ビール屋【サンクトガーレン】 <https://www.sanktgallenbrewery.com/beers/kansha/>`_
+* `名創優品 - Wikipedia <https://ja.wikipedia.org/wiki/%E5%90%8D%E5%89%B5%E5%84%AA%E5%93%81>`_
+* `ラクサ - Wikipedia <https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%AF%E3%82%B5>`_
+* `アイスカチャン - Wikipedia <https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%82%B9%E3%82%AB%E3%83%81%E3%83%A3%E3%83%B3>`_
+* `【29×網走ビール】新発売について(PDF) <https://www.takahasi.co.jp/beer/images/top/20210921.pdf>`_
+* `The Great Beer Bar <https://www.timeout.com/kuala-lumpur/bars-and-pubs/the-great-beer-bar>`_
+* `肉骨茶 - Wikipedia <https://ja.wikipedia.org/wiki/%E8%82%89%E9%AA%A8%E8%8C%B6>`_
+* `Hamleys - The Finest Toy Shop in the World <https://www.hamleys.com/>`_
+* `PyCon APAC 2022 <https://tw.pycon.org/2022/en-us>`_
+* `Mikkeller Burst IPA <https://my-beers.com/beers/4335>`_
+* `Marp: Markdown Presentation Ecosystem <https://marp.app/>`_
+* `Slidev <https://sli.dev/>`_
+* `データサイエンスの実践に必要な4つの柱とは？ ―「PyCon Malaysia 2019」レポート：レポート <https://gihyo.jp/news/report/2019/09/0901>`_
+* `Carol Willing on Twitter: "@takanory getting started with a talk on Slack bots #pyconmy2019 https://t.co/CAjTIU7TKa" / Twitter <https://twitter.com/WillingCarol/status/1165099290211049472?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1165099290211049472%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fgihyo.jp%2Fnews%2Freport%2F2019%2F09%2F0901>`_
+* `airasia <https://www.airasia.com/>`_
+* `PyCon MY on Twitter: "#pyconmy2019 https://t.co/edfFdzLYGh" / Twitter <https://twitter.com/pyconmy/status/1165461894288658435?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1165461894288658435%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fgihyo.jp%2Fnews%2Freport%2F2019%2F09%2F0901>`_
+* `サンクトガーレンさくら | 元祖地ビール屋【サンクトガーレン】 <https://www.sanktgallenbrewery.com/sakura/>`_
+* `PyCon APAC 2020 Event Calendar – PyCon Malaysia <https://pycon.my/pycon-apac-2020-event-calendar/>`_
 
 目次
 ====
+* `0:00:00 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=0s>`_ 開始
 * `0:00:26 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=26s>`_ 配信開始
 * `0:01:18 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=78s>`_ コメント募集「よかった、ほしいノベルティ」
 * `0:04:39 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=279s>`_ ハッシュタグは #pyconjp
 * `0:06:44 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=404s>`_ 【Pythonニュース】
-* `0:06:54 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=414s>`_ PyCon Kyushu 2022 Kumamoto開催報告
-* `0:09:15 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=555s>`_ みんなのPython勉強会#79でtakanoryが発表
-* `0:10:38 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=638s>`_ OSC SpringでPyCon JPのセミナーとPyCamp相談会
-* `0:13:20 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=800s>`_ PyCon US 2022のスケジュールが公開
-* `0:16:39 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=999s>`_ PSFがPyPIの新機能の開発者を募集中
+* `0:06:54 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=414s>`_ PyCon Kyushu 2022 Kumamoto開催報告: https://pyconjp.blogspot.com/2022/02/pycon-kyushu-2022-kumamoto_17.html
+* `0:09:15 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=555s>`_ みんなのPython勉強会#79でtakanoryが発表: https://startpython.connpass.com/event/239619/
+* `0:10:38 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=638s>`_ OSC SpringでPyCon JPのセミナーとPyCamp相談会: https://pyconjp.blogspot.com/2022/03/pycamp-caravan-osc-2022-spring.html
+* `0:13:20 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=800s>`_ PyCon US 2022のスケジュールが公開: https://us.pycon.org/2022/schedule/talks/
+* `0:16:39 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=999s>`_ PSFがPyPIの新機能の開発者を募集中: https://pyfound.blogspot.com/2022/02/we-are-hiring-contract-developers-to.html
 * `0:18:30 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=1110s>`_ 【メイントーク】PyCon Malaysia 2019
 * `0:19:40 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=1180s>`_ PyCon Malaysia 2019の紹介、日程、場所、規模など
 * `0:23:48 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=1428s>`_ 写真で見るカンファンレンス1日目の朝
@@ -63,3 +82,25 @@ PyCon Malaysia 2019
 * `0:54:00 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=3240s>`_ YouTubeのコメントから
 * `0:54:59 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=3299s>`_ 【次回予告】海外発表した人の経験談をまとめてお届け
 * `1:00:40 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=3640s>`_ シュポッ!!トクトクトク、🍺 サンクトガーレン 感謝ビール＜金＞
+* `1:04:48 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=3888s>`_ 【写真で振り返り】出発(カンファレンス2日前の夜)から、カンファレンスキットがデカい
+* `1:07:46 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=4066s>`_ 夜便の機内、クアラルンプール国際空港に到着、空港でお仕事、Grabでホテルに移動
+* `1:12:10 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=4330s>`_ ホテルの近所のモールを散策、日本のフード、メイソウ、ラクサを食べて、LEGOもどき
+* `1:15:42 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=4542s>`_ マレーシアのタイムゾーン話、かき氷(アイスカチャン)
+* `1:18:20 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=4700s>`_ 🍺 29×網走ビール 肉に合うビール
+* `1:19:13 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=4753s>`_ The Great Beer Barに訪問、でかい広告ディスプレイ、アイス、寺田のマレーシアの思い出
+* `1:22:17 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=4937s>`_ カンファレンス2日目の終了後から。NoahさんIvyさんとビールを飲みに行った。The Great Beer Barに再訪。8bit IPA
+* `1:24:15 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=5055s>`_ その3人でバクテー(肉骨茶)を食べに行く。注文はIvyさんにおまかせ。よくわからないけどおいしかった。スマートフォンはテーブルに置かない。茶柱を説明
+* `1:29:35 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=5375s>`_ 最終日の朝食、空港へ移動、ラウンジで休憩、カレーラクサ、Tigerビール
+* `1:31:17 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=5477s>`_ 空港内のおもちゃ屋さん(Hamleys)に訪問。HamleysのLEGO minifigがあった!!マレーシアとイギリスの関係について
+* `1:34:40 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=5680s>`_ アイスで休憩、機内でビール、食事、22:00に羽田に到着
+* `1:37:20 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=5840s>`_ マレーシアでのCarolさんとの出会いはよかった。2019のSteering Committeeの2/5を制覇。まだ紹介していないのは台湾、シンガポール、インドネシア
+* `1:43:23 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=6203s>`_ 行ってみたいアジアのPyConはどこ?
+* `1:47:00 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=6420s>`_ PyCon APAC 2022は台湾(オンライン)
+* `1:48:45 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=6525s>`_ 🍺 Mikkeller Burst IPA
+* `1:49:15 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=6555s>`_ Peacockさんの進捗確認。ツールをMarpからslidevに変えた
+* `1:53:18 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=6798s>`_ 【カンファレンスレポートから】gihyo.jp掲載のレポートから。参加費、カンファレンスキット裏話、Carolさんがツイートしたたかのりの発表の様子、質疑応答は大変
+* `1:57:02 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=7022s>`_ ランチ、GraphQLの発表。GraphQL使ってる?
+* `2:03:05 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=7385s>`_ ティーブレイク、AirAsiaはテックカンパニー
+* `2:09:24 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=7764s>`_ 2日めキーノート、アジアメンバーでランチミーティング、PyCon Malaysiaの女性参加者が増えてきた、その後ビール、バクテー
+* `2:19:50 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=8390s>`_ 🍺 サンクトガーレン さくら
+* `2:20:14 <https://www.youtube.com/watch?v=_GZ3rLMjAKo&t=8414s>`_ PyCon APAC 2020はコタキナバルの予定だったがオンラインとなって残念だった
