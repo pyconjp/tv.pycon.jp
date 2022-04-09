@@ -21,11 +21,21 @@ PyConなどの海外登壇経験者にアンケートに記入してもらった
 
 Pythonニュース
 --------------
-* TBD
+* `Python Insider: Python 3.10.3, 3.9.11, 3.8.13, and 3.7.13 are now available with security content <https://pythoninsider.blogspot.com/2022/03/python-3103-3911-3813-and-3713-are-now.html>`_
+* `PyCon JP 2022 <https://2022.pycon.jp/>`_
+* `EuroPython 2022 | July 11th-17th 2022 | Dublin Ireland & Remote <https://ep2022.europython.eu/>`_
+* `PyCon APAC 2022 <https://tw.pycon.org/2022/en-us>`_
+* `【オフライン】PyLadies Tokyo Meetup #69 Pythonライブラリー研究会 - connpass <https://pyladies-tokyo.connpass.com/event/243489/>`_
+* `DjangoCongress JP 2022 4月作業日 - connpass <https://django.connpass.com/event/241535/>`_
+* `peps.python.org <https://peps.python.org/>`_
+
+  * `PEP 676 – PEP Infrastructure Process <https://peps.python.org/pep-0676/>`_
+  * `PEP 680 – tomllib: Support for Parsing TOML in the Standard Library <https://peps.python.org/pep-0680/>`_
+  * `PEP 594 – Removing dead batteries from the standard library <https://peps.python.org/pep-0594/>`_
 
 体験談から知る海外登壇
 ----------------------
-* TBD
+* スライド: `PyCon JP TV #15: 海外登壇の体験談 <https://docs.google.com/presentation/d/1w3mcGiNNPJsyJF6d6YFCL7c1sisbNzq1a2IIGEdwCSs/edit?usp=sharing>`_
 
 飲みトーク
 ----------
@@ -33,4 +43,21 @@ Pythonニュース
 
 目次
 ====
-* TBD
+* `0:01:08 <https://www.youtube.com/watch?v=hXqAAW-t_HQ&t=68s>`_ 配信開始
+* `0:02:10 <https://www.youtube.com/watch?v=hXqAAW-t_HQ&t=130s>`_ コメント募集「Python以外で勉強したいこと」
+* `0:06:48 <https://www.youtube.com/watch?v=hXqAAW-t_HQ&t=408s>`_ 【Pythonニュース】Pythonのセキュリティアップデートがリリース
+* `0:08:44 <https://www.youtube.com/watch?v=hXqAAW-t_HQ&t=524s>`_ PyCon JP 2022のティザーサイトが公開
+* `0:10:55 <https://www.youtube.com/watch?v=hXqAAW-t_HQ&t=655s>`_ EuroPython 2022、PyCon APAC 2022のCall for Proposalがまもなく締め切り
+* `0:13:20 <https://www.youtube.com/watch?v=hXqAAW-t_HQ&t=800s>`_ PyLadies Tokyo Meetupが久しぶりにオフライン開催
+* `0:15:00 <https://www.youtube.com/watch?v=hXqAAW-t_HQ&t=900s>`_ DjangoCongress JP 2022の準備が進んでいる
+* `0:15:30 <https://www.youtube.com/watch?v=hXqAAW-t_HQ&t=930s>`_ PEPのページが新しくなった。PEP 676 – PEP Infrastructure Process、PEP 680 – tomllib、PEP 594 – Removing dead batteriesを紹介
+* `0:19:50 <https://www.youtube.com/watch?v=hXqAAW-t_HQ&t=1190s>`_ 【メイントーク】体験談から知る海外登壇
+* `0:21:42 <https://www.youtube.com/watch?v=hXqAAW-t_HQ&t=1302s>`_ どんな準備をしましたか?
+* `0:26:50 <https://www.youtube.com/watch?v=hXqAAW-t_HQ&t=1610s>`_ 外国語の準備はしましたか?
+* `0:32:12 <https://www.youtube.com/watch?v=hXqAAW-t_HQ&t=1932s>`_ 海外登壇で大変だったこと
+* `0:37:18 <https://www.youtube.com/watch?v=hXqAAW-t_HQ&t=2238s>`_ 海外登壇で得られたこと、よかったこと
+* `0:44:15 <https://www.youtube.com/watch?v=hXqAAW-t_HQ&t=2655s>`_ 海外登壇に関して伝えたいこと
+* `0:51:03 <https://www.youtube.com/watch?v=hXqAAW-t_HQ&t=3063s>`_ その他エピソード
+* `0:56:04 <https://www.youtube.com/watch?v=hXqAAW-t_HQ&t=3364s>`_ 【次回予告】PyCon US 2022の振り返り
+* `0:59:00 <https://www.youtube.com/watch?v=hXqAAW-t_HQ&t=3540s>`_ コメントを確認
+* `1:01:35 <https://www.youtube.com/watch?v=hXqAAW-t_HQ&t=3695s>`_ シュポッ!!トクトクトク、🍺 SUNMAI ハニーラガー
