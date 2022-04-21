@@ -39,7 +39,11 @@ Pythonニュース
 
 飲みトーク
 ----------
-* TBD
+* `SUNMAI ハニーラガー <http://www.sunmai.com/%E8%9C%82%E8%9C%9C%E7%B3%BB%E5%88%97/?lang=ja>`_
+* `PyCon US 2022 <https://us.pycon.org/2022/>`_
+* `KABREW KUMIHO I.P.A <http://kabrew.co.kr/en/kabrewbeer/can-beer?tpf=board/view&board_code=12&code=88>`_
+* `Grapefruit and Hefeweizen | Schöfferhofer <https://www.schoefferhofer.com/schoefferhofer-grapefruit/>`_
+* `Incase Hardshell Case for MacBook Pro 14インチ 2021 Dots - ピンク - Apple（日本） <https://www.apple.com/jp/shop/product/HPZY2ZM/A/incase-hardshell-case-for-macbook-pro-14%E3%82%A4%E3%83%B3%E3%83%81-2021-dots>`_
 
 目次
 ====
@@ -60,4 +64,22 @@ Pythonニュース
 * `0:51:03 <https://www.youtube.com/watch?v=hXqAAW-t_HQ&t=3063s>`_ その他エピソード
 * `0:56:04 <https://www.youtube.com/watch?v=hXqAAW-t_HQ&t=3364s>`_ 【次回予告】PyCon US 2022の振り返り
 * `0:59:00 <https://www.youtube.com/watch?v=hXqAAW-t_HQ&t=3540s>`_ コメントを確認
-* `1:01:35 <https://www.youtube.com/watch?v=hXqAAW-t_HQ&t=3695s>`_ シュポッ!!トクトクトク、🍺 SUNMAI ハニーラガー
+* `1:01:35 <https://www.youtube.com/watch?v=hXqAAW-t_HQ&t=3695s>`_ シュポッ!!トクトクトク、🍺 SUNMAI ハニーラガー。PyCon開催国のビール特集
+* `1:02:55 <https://www.youtube.com/watch?v=hXqAAW-t_HQ&t=3775s>`_ YouTubeのチャットからピックアップ
+* `1:19:30 <https://www.youtube.com/watch?v=hXqAAW-t_HQ&t=4770s>`_ 今日は4月1日ですが、嘘つきました?3月は終わりましたか?
+* `1:23:00 <https://www.youtube.com/watch?v=hXqAAW-t_HQ&t=4980s>`_ PyCon USの発表準備の進捗どうですか
+* `1:28:45 <https://www.youtube.com/watch?v=hXqAAW-t_HQ&t=5325s>`_ 【体験談を再度ピックアップ】どんな準備をしましたか?
+* `1:29:07 <https://www.youtube.com/watch?v=hXqAAW-t_HQ&t=5347s>`_ 🍺 Kabrew Indea Pale Ale
+* `1:34:26 <https://www.youtube.com/watch?v=hXqAAW-t_HQ&t=5666s>`_ 海外登壇で大変だったこと
+* `1:39:50 <https://www.youtube.com/watch?v=hXqAAW-t_HQ&t=5990s>`_ PyCon US 2019のポスターの思い出、英語の質疑応答は大変
+* `1:45:30 <https://www.youtube.com/watch?v=hXqAAW-t_HQ&t=6330s>`_ 海外登壇で得られたこと、よかったこと
+* `1:49:45 <https://www.youtube.com/watch?v=hXqAAW-t_HQ&t=6585s>`_ 【業務連絡】PyCon JP TVのスタッフジャンパーを作ろう
+* `1:54:13 <https://www.youtube.com/watch?v=hXqAAW-t_HQ&t=6853s>`_ 海外登壇に関して伝えたいこと
+* `1:57:25 <https://www.youtube.com/watch?v=hXqAAW-t_HQ&t=7045s>`_ その他エピソード
+* `2:05:15 <https://www.youtube.com/watch?v=hXqAAW-t_HQ&t=7515s>`_ 🍺 Schöfferhofer Grapefruit
+* `2:05:55 <https://www.youtube.com/watch?v=hXqAAW-t_HQ&t=7555s>`_ 今日の内容で、参考になるとこありました?
+* `2:10:35 <https://www.youtube.com/watch?v=hXqAAW-t_HQ&t=7835s>`_ 寺田パーソナリティーの新ネタを考える
+* `2:15:30 <https://www.youtube.com/watch?v=hXqAAW-t_HQ&t=8130s>`_ トークが通ったらEuroPython 2022でダブリンに行こう
+* `2:20:32 <https://www.youtube.com/watch?v=hXqAAW-t_HQ&t=8432s>`_ MacBook Pro 14インチのincaseのハードケースを買った
+* `2:24:30 <https://www.youtube.com/watch?v=hXqAAW-t_HQ&t=8670s>`_ 「ジャンパー了解」、PyCon USに持っていく撮影機材と録画プラン、PyLadiesオークションは楽しい
+* `2:32:50 <https://www.youtube.com/watch?v=hXqAAW-t_HQ&t=9170s>`_ 大長編PyCon US 2022
