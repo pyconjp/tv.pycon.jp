@@ -1,6 +1,6 @@
-=========================================
- #16: PyCon US 2022振り返り - 2022-05-13
-=========================================
+================================================
+ #16: PyCon US 2022振り返り Part.1 - 2022-05-13
+================================================
 
 2022年4月27日から5月3日に開催された `PyCon US 2022 <https://us.pycon.org/2022/>`_ の様子を、参加者の目線で振り返ります。
 
@@ -21,11 +21,23 @@
 
 Pythonニュース
 --------------
-* TBD
+* `Python Release Python 3.11.0b1 <https://www.python.org/downloads/release/python-3110b1/>`_
 
-(メイントークタイトル)
-----------------------
-* TBD
+  * `PEP 664 – Python 3.11 Release Schedule <https://peps.python.org/pep-0664/>`_
+* `PyCon JP Blog: PyCon JP 2022プロポーザル募集開始 <https://pyconjp.blogspot.com/2022/05/httpspyconjp.blogspot.com202205proposal.html>`_
+* `PyCon JP 2022 :: pretalx <https://pretalx.com/pyconjp2022/cfp>`_
+* 5月19日(木) `一般社団法人PyCon JP Association運営会議 #53 <https://pyconjp-staff.connpass.com/event/241801/>`_
+* 5月22日(日) `【オフライン】PyLadies Tokyo Meetup #70 開発環境座談会 <https://pyladies-tokyo.connpass.com/event/247365/>`_
+* 5月28日(土) `Python Boot Camp in 佐賀 <https://pyconjp.connpass.com/event/244411/>`_
+* `PyScript | Run Python in your HTML <https://pyscript.net/>`_
+
+  * `PyScript demo <https://pyscript.net/examples/>`_
+
+PyCon US 2022振り返り Part.1
+----------------------------
+* `PyCon 2022 Welcome to PyCon US 2022 <https://us.pycon.org/2022/>`_
+* `PyCon 2022 - Newcomer Orientation <https://us.pycon.org/2022/events/newcomer-orientation/>`_
+* `The Pac-Man Rule <https://accu.org/conf-menu-overviews/pacman_rule/>`_
 
 飲みトーク
 ----------
@@ -33,4 +45,24 @@ Pythonニュース
 
 目次
 ====
-* TBD
+* `0:00:28 <https://www.youtube.com/watch?v=Vi1D_xFEMNk&t=28s>`_ 配信開始
+* `0:01:55 <https://www.youtube.com/watch?v=Vi1D_xFEMNk&t=115s>`_ コメント募集「ゴールデンウィークどう過ごしてました?」
+* `0:04:35 <https://www.youtube.com/watch?v=Vi1D_xFEMNk&t=275s>`_ 【Pythonニュース】Python 3.11.0b1がリリース
+* `0:06:03 <https://www.youtube.com/watch?v=Vi1D_xFEMNk&t=363s>`_ PyCon JP 2022のプロポーザルの募集開始
+* `0:08:32 <https://www.youtube.com/watch?v=Vi1D_xFEMNk&t=512s>`_ 5月19日(木) にPyCon JP Association運営会議
+* `0:09:12 <https://www.youtube.com/watch?v=Vi1D_xFEMNk&t=552s>`_ 5月22日(日) PyLadis Tokyo Meetupが葛西臨海公園でピクニックがてら開催
+* `0:10:20 <https://www.youtube.com/watch?v=Vi1D_xFEMNk&t=620s>`_ 5月28日(土) Python Boot Camp in 佐賀が開催予定
+* `0:11:37 <https://www.youtube.com/watch?v=Vi1D_xFEMNk&t=697s>`_ WebブラウザでPythonが動く「PyScript」がPyCon US 2022で発表された
+* `0:13:48 <https://www.youtube.com/watch?v=Vi1D_xFEMNk&t=828s>`_ 【メイントーク】PyCon US 2022振り返り Part.1、イベント概要を紹介
+* `0:18:00 <https://www.youtube.com/watch?v=Vi1D_xFEMNk&t=1080s>`_ PyCon USの参加人数と初参加者の比率
+* `0:20:00 <https://www.youtube.com/watch?v=Vi1D_xFEMNk&t=1200s>`_ Day.0 会場の外観、受付、メイン会場
+* `0:24:45 <https://www.youtube.com/watch?v=Vi1D_xFEMNk&t=1485s>`_ 会場入り、メイン会場でのNewcomer Orientation、スポンサーブースの動画
+* `0:32:15 <https://www.youtube.com/watch?v=Vi1D_xFEMNk&t=1935s>`_ スポンサーブースは全体的にゆるい感じだった?
+* `0:35:30 <https://www.youtube.com/watch?v=Vi1D_xFEMNk&t=2130s>`_ Day.1 オープニング、Łukasz Langa氏のキーノート
+* `0:42:10 <https://www.youtube.com/watch?v=Vi1D_xFEMNk&t=2530s>`_ トーク会場、会場の外で質疑応答
+* `0:45:23 <https://www.youtube.com/watch?v=Vi1D_xFEMNk&t=2723s>`_ ライトニングトークの紹介
+* `0:52:40 <https://www.youtube.com/watch?v=Vi1D_xFEMNk&t=3160s>`_ カンファレンス1日目の終了後は企業のパーティーに参加
+* `0:54:30 <https://www.youtube.com/watch?v=Vi1D_xFEMNk&t=3270s>`_ PyCon US 2022ステッカー、バッジ、Tシャツ
+* `0:55:28 <https://www.youtube.com/watch?v=Vi1D_xFEMNk&t=3328s>`_ 【次回予告】PyCon US 2022の振り返り Part.2
+* `0:57:21 <https://www.youtube.com/watch?v=Vi1D_xFEMNk&t=3441s>`_ パックマンルールとは
+* `1:01:40 <https://www.youtube.com/watch?v=Vi1D_xFEMNk&t=3700s>`_ カシャプシュ 🍺 Bewilder Vitruvian Lager
