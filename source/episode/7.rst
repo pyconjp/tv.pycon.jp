@@ -1,3 +1,7 @@
+:og:image: https://tv.pycon.jp/_images/episode7.jpg
+
+.. |cover| image:: images/episode7.jpg
+
 ==================================
  #7: PyCon APAC 2019 - 2021-08-04
 ==================================

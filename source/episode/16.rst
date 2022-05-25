@@ -1,3 +1,7 @@
+:og:image: https://tv.pycon.jp/_images/episode16.jpg
+    
+.. |cover| image:: images/episode16.jpg
+
 ================================================
  #16: PyCon US 2022振り返り Part.1 - 2022-05-13
 ================================================

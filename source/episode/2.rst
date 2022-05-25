@@ -1,3 +1,7 @@
+:og:image: https://tv.pycon.jp/_images/episode2.jpg
+
+.. |cover| image:: images/episode2.jpg
+
 =============================================
 #2: Python Charity Talks振り返り - 2021-03-04
 =============================================
