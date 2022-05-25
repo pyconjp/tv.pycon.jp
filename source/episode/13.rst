@@ -1,3 +1,7 @@
+:og:image: https://tv.pycon.jp/_images/episode13.jpg
+    
+.. |cover| image:: images/episode13.jpg
+
 ==============================================
  #13: PyCon Kyushu 2022 Kumamoto - 2022-02-04
 ==============================================

@@ -1,3 +1,7 @@
+:og:image: https://tv.pycon.jp/_images/episode10.jpg
+    
+.. |cover| image:: images/episode10.jpg
+
 =========================================
  #10: PyCon JP 2021振り返り - 2021-11-05
 =========================================

@@ -1,3 +1,7 @@
+:og:image: https://tv.pycon.jp/_images/episode11.jpg
+    
+.. |cover| image:: images/episode11.jpg
+
 ===================================
  #11: EuroPython 2019 - 2021-12-03
 ===================================

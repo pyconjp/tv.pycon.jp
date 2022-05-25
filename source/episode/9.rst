@@ -1,3 +1,7 @@
+:og:image: https://tv.pycon.jp/_images/episode9.jpg
+    
+.. |cover| image:: images/episode9.jpg
+
 ======================================
  #9: PyCon Thailand 2019 - 2021-10-01
 ======================================
