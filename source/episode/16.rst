@@ -45,7 +45,17 @@ PyCon US 2022振り返り Part.1
 
 飲みトーク
 ----------
-* TBD
+* `Bewilder Vitruvian Lager <https://bewilderbrewing.com/pages/vitruvian-lager>`_
+* `Bewilder Deseret IPA <https://bewilderbrewing.com/pages/deseret-ipa>`_
+* `Shades Brewing <https://www.shadesbrewing.beer/>`_
+* `Masaki Kagesawa影澤正輝 (@Masakikage) / Twitter <https://twitter.com/Masakikage>`_
+* `Tzu-ping Chung (@uranusjr) / Twitter <https://twitter.com/uranusjr>`_
+* `Bewilder Tripel <https://bewilderbrewing.com/pages/tripel>`_
+* `DuckDB - An in-process SQL OLAP database management system <https://duckdb.org/>`_
+* `Paul Everitt (@paulweveritt) / Twitter <https://twitter.com/paulweveritt>`_
+* `Jason Wirth (@Jason_Wirth) / Twitter <https://twitter.com/Jason_Wirth>`_
+* `Hassan Sami Adnan (@hsami) / Twitter <https://twitter.com/hsami>`_
+* `Ee Durbin (@EWDurbin) / Twitter <https://twitter.com/EWDurbin>`_
 
 目次
 ====
@@ -70,3 +80,23 @@ PyCon US 2022振り返り Part.1
 * `0:55:28 <https://www.youtube.com/watch?v=Vi1D_xFEMNk&t=3328s>`_ 【次回予告】PyCon US 2022の振り返り Part.2
 * `0:57:21 <https://www.youtube.com/watch?v=Vi1D_xFEMNk&t=3441s>`_ パックマンルールとは
 * `1:01:40 <https://www.youtube.com/watch?v=Vi1D_xFEMNk&t=3700s>`_ カシャプシュ 🍺 Bewilder Vitruvian Lager
+* `1:06:30 <https://www.youtube.com/watch?v=Vi1D_xFEMNk&t=3990s>`_ 寺田の帰りの荷物が重たかった理由
+* `1:09:30 <https://www.youtube.com/watch?v=Vi1D_xFEMNk&t=4170s>`_ アメリカに到着するまでが大変だという話、🍺 Bewilder Deseret IPA
+* `1:14:40 <https://www.youtube.com/watch?v=Vi1D_xFEMNk&t=4480s>`_ PyCon US 2022に入るために3回予防接種が必須ルールだった。当日の受付動画
+* `1:18:45 <https://www.youtube.com/watch?v=Vi1D_xFEMNk&t=4725s>`_ 行きのサンフランシスコの待ち時間にマウンテンビューを観光した
+* `1:23:20 <https://www.youtube.com/watch?v=Vi1D_xFEMNk&t=5000s>`_ 🍺 Shades Brewing Kviek Pina Colada、カンファレンスの2日前にpeacockとご飯を食べに行った
+* `1:26:34 <https://www.youtube.com/watch?v=Vi1D_xFEMNk&t=5194s>`_ カンファレンス前日はKagesawaさん、台湾のTzu-pingさんと飲みに行った。Tzu-pingさんの登場シーン。マスクをしているから見つけるの大変
+* `1:32:30 <https://www.youtube.com/watch?v=Vi1D_xFEMNk&t=5550s>`_ ユタにいる日本の人と連絡をとって、その人とも一緒に飲みに行った
+* `1:35:40 <https://www.youtube.com/watch?v=Vi1D_xFEMNk&t=5740s>`_ 動画: Tシャツ受け取り、朝食の様子
+* `1:40:30 <https://www.youtube.com/watch?v=Vi1D_xFEMNk&t=6030s>`_ 動画: キーノート、トーク会場へ移動、オープンスペースの様子
+* `1:43:10 <https://www.youtube.com/watch?v=Vi1D_xFEMNk&t=6190s>`_ 🍺 Bewilder Belgian Tripel (9.5%)。全然5%以上のビールあるじゃん
+* `1:44:55 <https://www.youtube.com/watch?v=Vi1D_xFEMNk&t=6295s>`_ Peacockさんの空港でのトランジットで外に出ちゃう
+* `1:46:54 <https://www.youtube.com/watch?v=Vi1D_xFEMNk&t=6414s>`_ DuckDBの話
+* `1:53:30 <https://www.youtube.com/watch?v=Vi1D_xFEMNk&t=6810s>`_ YouTubeのコメントを振り返る、メイン会場の設備はどんな感じ?
+* `2:00:00 <https://www.youtube.com/watch?v=Vi1D_xFEMNk&t=7200s>`_ 1日目にとったインタビュー動画: Paul Everittさん
+* `2:04:58 <https://www.youtube.com/watch?v=Vi1D_xFEMNk&t=7498s>`_ インタビュー動画: Jason Wirthさん、Microsoftブース
+* `2:08:25 <https://www.youtube.com/watch?v=Vi1D_xFEMNk&t=7705s>`_ インタビュー動画: バングラデシュ出身のグループ
+* `2:12:50 <https://www.youtube.com/watch?v=Vi1D_xFEMNk&t=7970s>`_ インタビュー動画: Ernest W. Durbin IIIさん。3年間で音楽のジャンルが変わった
+* `2:17:45 <https://www.youtube.com/watch?v=Vi1D_xFEMNk&t=8265s>`_ インタビューで日本からの寄付の話をしてくれた。現地開催はin-personって言うらしい
+* `2:24:30 <https://www.youtube.com/watch?v=Vi1D_xFEMNk&t=8670s>`_ ソルトレイクシティの気候、ユタ在住の人の話
+* `2:29:35 <https://www.youtube.com/watch?v=Vi1D_xFEMNk&t=8975s>`_ DirectorのEwaさんがいなくなった。新しいPSFスタッフにインタビューした
