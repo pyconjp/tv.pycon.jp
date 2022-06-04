@@ -41,6 +41,7 @@ PyCon US 2022振り返り Part.1
 ----------------------------
 * `PyCon 2022 Welcome to PyCon US 2022 <https://us.pycon.org/2022/>`_
 * `PyCon 2022 - Newcomer Orientation <https://us.pycon.org/2022/events/newcomer-orientation/>`_
+* `Keynote - Łukasz Langa - YouTube <https://www.youtube.com/watch?v=wbohVjhqg7c>`_
 * `The Pac-Man Rule <https://accu.org/conf-menu-overviews/pacman_rule/>`_
 
 飲みトーク

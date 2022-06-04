@@ -21,11 +21,43 @@
 
 Pythonニュース
 --------------
-* TBD
+* PyCon JP 2022
+
+  * `PyCon JP Blog: PyCon JP 2022 のロゴが決定しました！ <https://pyconjp.blogspot.com/2022/05/pyconjp2022-logo-ja.html>`_
+  * `PyCon JP Blog: PyCon JP 2022 スポンサーシップパッケージ内容事前公開 <https://pyconjp.blogspot.com/2022/05/pyconjp2022-pre-sponsorship.html>`_
+* 海外PyCon
+
+  * `Ticket Info | PyCon APAC 2022 <https://tw.pycon.org/2022/en-us/registration/tickets>`_
+  * `PyCon Korea 2022 <https://2022.pycon.kr/en>`_
+* 国内イベント
+
+  * `Python Boot Camp in 広島2nd - connpass <https://pyconjp.connpass.com/event/248048/>`_
+  * `DjangoCongress JP 2022 <https://djangocongress.jp/>`_
+* Community Service Awards
+
+  * `PyCon JP Blog: PyCon US 2022でCommunity Service Awardsを受賞してきました <https://pyconjp.blogspot.com/2022/06/pyconjp-win-awards.html>`_
+  * `Python Software Foundation News: PyCon JP Association Awarded the PSF Community Service Award for Q4 2021 <https://pyfound.blogspot.com/2022/05/pycon-jp-association-awarded-psf.html>`_
 
 PyCon US 2022振り返り Part.2
 ----------------------------
-* TBD
+* `Welcome to PyCon US 2022 <https://us.pycon.org/2022/>`_
+
+  * `PyCon US 2022 Talks Schedule <https://us.pycon.org/2022/schedule/talks/>`_
+* Day 2
+
+  * `Lightning Talks - Day 2 AM - YouTube <https://www.youtube.com/watch?v=r-rpo4Xm_lM>`_ (寺田さんの発表は25:44から)
+  * `Keynote - Sara Issaoun - YouTube <https://www.youtube.com/watch?v=x6SWPjdxvEI>`_
+  * `Keynote - Peter Wang - YouTube <https://www.youtube.com/watch?v=qKfkCY7cmBQ>`_
+* Day 3
+
+  * `Lightning Talks - Day 3 - YouTube <https://www.youtube.com/watch?v=tF5SD-JlGo4>`_ (PyCon JP 2022は35:56から)
+  * `Diversity & Inclusion Workgroup - YouTube <https://www.youtube.com/watch?v=WcbnJA2ah6U>`_
+  * `Keynote - Steering Council Panel - YouTube <https://www.youtube.com/watch?v=m2R5shF1pLc>`_
+  * `Talk - Peacock: Getting Started with Statically Typed Programming in Python 3.10 - YouTube <https://www.youtube.com/watch?v=ZUIK9hxyi7Y>`_
+  * `Talk - Tetsuya Jesse Hirata: Productionize Research Oriented Code By Python - YouTube <https://www.youtube.com/watch?v=bJPov74qjb8>`_
+  * `Keynote - Naomi Ceder - YouTube <https://www.youtube.com/watch?v=sFmwGQu0cQU>`_
+  * `Keynote - Python Software Foundation Update - YouTube <https://www.youtube.com/watch?v=nQq8d24eWmk>`_ (表彰は11:37から)
+  * `Keynote - Closing: Mariatta - YouTube <https://www.youtube.com/watch?v=iOUtQyKBzLo>`_
 
 飲みトーク
 ----------
@@ -33,4 +65,28 @@ PyCon US 2022振り返り Part.2
 
 目次
 ====
-* TBD
+* `0:00:33 <https://www.youtube.com/watch?v=xvVMXfHfRSg&t=33s>`_ 配信開始
+* `0:01:16 <https://www.youtube.com/watch?v=xvVMXfHfRSg&t=76s>`_ コメント募集「アメリカ行ったことあるところ」
+* `0:04:34 <https://www.youtube.com/watch?v=xvVMXfHfRSg&t=274s>`_ 【Pythonニュース】PyCon JP 2022のロゴデザインが決定
+* `0:05:30 <https://www.youtube.com/watch?v=xvVMXfHfRSg&t=330s>`_ PyCon JP 2022のスポンサーパッケージが公開
+* `0:07:01 <https://www.youtube.com/watch?v=xvVMXfHfRSg&t=421s>`_ PyCon APAC 2022のチケット発売中
+* `0:08:43 <https://www.youtube.com/watch?v=xvVMXfHfRSg&t=523s>`_ PyCon Korea 2022が10月1日、2日に開催
+* `0:09:42 <https://www.youtube.com/watch?v=xvVMXfHfRSg&t=582s>`_ Python Boot Camp in 広島 2ndが7月9日に開催
+* `0:12:12 <https://www.youtube.com/watch?v=xvVMXfHfRSg&t=732s>`_ DjangoCongress JP 2022が11月12日に東京で開催
+* `0:13:59 <https://www.youtube.com/watch?v=xvVMXfHfRSg&t=839s>`_ PyCon US 2022でCommunity Service Awardsを受賞してきた
+* `0:16:15 <https://www.youtube.com/watch?v=xvVMXfHfRSg&t=975s>`_ 【メイントーク】PyCon JP 2022 振り返り Part.2
+* `0:16:55 <https://www.youtube.com/watch?v=xvVMXfHfRSg&t=1015s>`_ Day.2 朝のLTで寺田さんがPyCon JP Associationの活動を紹介
+* `0:20:36 <https://www.youtube.com/watch?v=xvVMXfHfRSg&t=1236s>`_ キーノート: Sara Issaoun
+* `0:24:10 <https://www.youtube.com/watch?v=xvVMXfHfRSg&t=1450s>`_ キーノート: Peter Wang
+* `0:30:27 <https://www.youtube.com/watch?v=xvVMXfHfRSg&t=1827s>`_ PSF Member Lunch
+* `0:33:44 <https://www.youtube.com/watch?v=xvVMXfHfRSg&t=2024s>`_ オープンスペースのボードにPyCon  JP TVの枠を確保
+* `0:35:13 <https://www.youtube.com/watch?v=xvVMXfHfRSg&t=2113s>`_ みんなで記念撮影
+* `0:37:00 <https://www.youtube.com/watch?v=xvVMXfHfRSg&t=2220s>`_ PyLadiesオークション
+* `0:44:15 <https://www.youtube.com/watch?v=xvVMXfHfRSg&t=2655s>`_ Day.3 朝のLTでPyCon JP 2022を紹介
+* `0:46:20 <https://www.youtube.com/watch?v=xvVMXfHfRSg&t=2780s>`_ Diversity & Inclusion Workgroup パネル
+* `0:48:25 <https://www.youtube.com/watch?v=xvVMXfHfRSg&t=2905s>`_ キーノート Steering Council Panel
+* `0:50:30 <https://www.youtube.com/watch?v=xvVMXfHfRSg&t=3030s>`_ 日本人の発表: Peacockさん、Hirataさん
+* `0:53:06 <https://www.youtube.com/watch?v=xvVMXfHfRSg&t=3186s>`_ キーノート: Naomi Ceder、クロージングでAwardを受賞、クロージング
+* `0:59:20 <https://www.youtube.com/watch?v=xvVMXfHfRSg&t=3560s>`_ 【次回予告】内容未定
+* `1:02:10 <https://www.youtube.com/watch?v=xvVMXfHfRSg&t=3730s>`_ カシャプシュ 🍺 Bewilder Kolsh Style
+
