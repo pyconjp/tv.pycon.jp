@@ -61,7 +61,16 @@ PyCon US 2022振り返り Part.2
 
 飲みトーク
 ----------
-* TBD
+* `Bewilder Kolsch - Bewilder Brewing Co - Untappd <https://untappd.com/b/bewilder-brewing-co-bewilder-kolsch/3824016>`_
+* `Belgian Wit - Bewilder Brewing Co - Untappd <https://untappd.com/b/bewilder-brewing-co-belgian-wit/4724695>`_
+* `Pale Ale Beer - Our Craft Citrus Pale Ale - Sierra Nevada Brewing Co. <https://sierranevada.com/beer/pale-ale/>`_
+* `PyCon 2022 Posters <https://us.pycon.org/2022/schedule/posters/list/>`_
+* `「至福のキレ」ファミリーマート限定 | ビアサプライズ | サッポロビール <https://www.sapporobeer.jp/beersurprise/kire/>`_
+* `11th Anniversary IPA 16oz 4-pack – Smog City Brewing <https://smogcitybrewing.com/products/11th-anniversary-ipa-16oz-4-pack>`_
+* `LOVE Hazy IPA - Almanac Beer Company - Untappd <https://untappd.com/b/almanac-beer-company-love-hazy-ipa/2762971>`_
+* `3年ぶりリアル開催の「PyCon US」現地リポート、Pythonの明日を知る | 日経クロステック（xTECH） <https://xtech.nikkei.com/atcl/nxt/column/18/00157/052300087/>`_
+* `Software Design 2022年7月号｜技術評論社 <https://gihyo.jp/magazine/SD/archive/2022/202207>`_
+* `#57 US PyCon 2022 に行ってきた速報ひとり語り 渡米と再入国の大変さを振り返り | terapyon channel podcast <https://podcast.terapyon.net/episodes/0066.html>`_
 
 目次
 ====
@@ -89,4 +98,25 @@ PyCon US 2022振り返り Part.2
 * `0:53:06 <https://www.youtube.com/watch?v=xvVMXfHfRSg&t=3186s>`_ キーノート: Naomi Ceder、クロージングでAwardを受賞、クロージング
 * `0:59:20 <https://www.youtube.com/watch?v=xvVMXfHfRSg&t=3560s>`_ 【次回予告】内容未定
 * `1:02:10 <https://www.youtube.com/watch?v=xvVMXfHfRSg&t=3730s>`_ カシャプシュ 🍺 Bewilder Kolsh Style
-
+* `1:08:10 <https://www.youtube.com/watch?v=xvVMXfHfRSg&t=4090s>`_ 🍕到着
+* `1:10:35 <https://www.youtube.com/watch?v=xvVMXfHfRSg&t=4235s>`_ 🍺 Bewilder Belgian Wit、PyCon USも2回目なので流れがわかる、いろいろやって忙しかった
+* `1:15:40 <https://www.youtube.com/watch?v=xvVMXfHfRSg&t=4540s>`_ 今回、寺田が聞いたトーク、スポーツのトラッキング、Python環境の話など
+* `1:21:58 <https://www.youtube.com/watch?v=xvVMXfHfRSg&t=4918s>`_ 面白かったキーノートはどれ?動画の字幕がすごい
+* `1:27:25 <https://www.youtube.com/watch?v=xvVMXfHfRSg&t=5245s>`_ 🍺 Sierra Nevada Pale Ale(缶がデカい)、 🎥 ポスターセッションの様子
+* `1:31:09 <https://www.youtube.com/watch?v=xvVMXfHfRSg&t=5469s>`_ 🎥 ジョブフェアの様子。アメリカでPythonの仕事探したいならPyCon USのジョブフェアに行くのがガチでおすすめ
+* `1:35:35 <https://www.youtube.com/watch?v=xvVMXfHfRSg&t=5735s>`_ 🎥 インタビュー動画2本
+* `1:43:30 <https://www.youtube.com/watch?v=xvVMXfHfRSg&t=6210s>`_ 🍺 サッポロ ビアサプライズ 至福のキレ、🍺 Smog City Brewing 11th Anniversary IPA
+* `1:44:35 <https://www.youtube.com/watch?v=xvVMXfHfRSg&t=6275s>`_ カンファレンス2日目は元気なのでPyLadiesオークションでたくさん飲み、それから一人で飲みに行った
+* `1:51:50 <https://www.youtube.com/watch?v=xvVMXfHfRSg&t=6710s>`_ 寺田のLT発表中のハプニング、Larry Hastingさんはいい人
+* `1:57:24 <https://www.youtube.com/watch?v=xvVMXfHfRSg&t=7044s>`_ 帰り用のCOVID-19検査。結局、日本メンバーは全員同じ病院で検査
+* `2:03:35 <https://www.youtube.com/watch?v=xvVMXfHfRSg&t=7415s>`_ PSFのインタビューをどうしようかな。Tzu-pingさんPythonスニーカーをゲットできず。カンファレンス3日目のあとにみんなで食事に
+* `2:11:00 <https://www.youtube.com/watch?v=xvVMXfHfRSg&t=7860s>`_ 来年はPyCon APACブースを出したい!
+* `2:17:56 <https://www.youtube.com/watch?v=xvVMXfHfRSg&t=8276s>`_ 🎥 インタビュー動画(Kojoさん、Jayさん、コアデベロッパーのPaul Ganssleさん)。コアデベロッパーの人が超面白い
+* `2:28:13 <https://www.youtube.com/watch?v=xvVMXfHfRSg&t=8893s>`_ 🎥 インタビュー動画(Anthony Shawさん)。オープンスペースのインタビューはいい企画
+* `2:33:13 <https://www.youtube.com/watch?v=xvVMXfHfRSg&t=9193s>`_ 🍺 Almanac Beer Company LOVE Hazy IPA。Youtubeでコラボしたいと言われた。動画撮影はいいツール
+* `2:40:00 <https://www.youtube.com/watch?v=xvVMXfHfRSg&t=9600s>`_ カンファレンス動画を撮るのは楽しかった。写真撮影はちょっと大変
+* `2:45:40 <https://www.youtube.com/watch?v=xvVMXfHfRSg&t=9940s>`_ 日本への入国は大変だった
+* `2:59:12 <https://www.youtube.com/watch?v=xvVMXfHfRSg&t=10752s>`_ 宣伝: 日経クロステックに記事を書いた。Software Designに記事が掲載予定。 terapyon channelで語っている。雑誌の記事にまとめるのは大変
+* `3:08:00 <https://www.youtube.com/watch?v=xvVMXfHfRSg&t=11280s>`_ たかのりが行けなくなってどうするか悩んだ。LTもやろうか悩んだ
+* `3:12:30 <https://www.youtube.com/watch?v=xvVMXfHfRSg&t=11550s>`_ オープンスペースのインタビュー時はPeacockディレクターが撮影してくれてた。インタビューは話したい人が来るので面白い
+* `3:19:35 <https://www.youtube.com/watch?v=xvVMXfHfRSg&t=11975s>`_ 動画系は提案時はピンと来ない、やってみないとイメージがつかない
