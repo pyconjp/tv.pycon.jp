@@ -6,7 +6,7 @@ PyCon US 2022のキーノートでお披露目された、ブラウザでPython�
 
 .. raw:: html
 
-   (YouTubeの埋め込みリンク)
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/jhOlDDfVxak" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 関連リンク
 ==========
@@ -25,7 +25,7 @@ Pythonニュース
 
 ブラウザでPythonが動くPyScriptを解説
 ------------------------------------
-* TBD
+* `PyScript | Run Python in your HTML <https://pyscript.net/>`_
 
 飲みトーク
 ----------
