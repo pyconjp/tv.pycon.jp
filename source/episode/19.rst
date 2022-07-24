@@ -5,9 +5,9 @@
 
 2022年7月に開催されたEuroPython 2022の現地の様子をお伝えします。
 
-.. .. raw:: html
+.. raw:: html
 
-   (YouTubeの埋め込みリンク)
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/MyoimjKNQVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 関連リンク
 ==========
