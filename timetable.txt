@@ -1,48 +1,24 @@
-https://www.youtube.com/watch?v=xvVMXfHfRSg
-0:00:00 開始
-0:00:33 配信開始
-0:01:16 コメント募集「アメリカ行ったことあるところ」
-0:04:34 【Pythonニュース】PyCon JP 2022のロゴデザインが決定
-0:05:30 PyCon JP 2022のスポンサーパッケージが公開
-0:07:01 PyCon APAC 2022のチケット発売中
-0:08:43 PyCon Korea 2022が10月1日、2日に開催
-0:09:42 Python Boot Camp in 広島 2ndが7月9日に開催
-0:12:12 DjangoCongress JP 2022が11月12日に東京で開催
-0:13:59 PyCon US 2022でCommunity Service Awardsを受賞してきた
-0:16:15 【メイントーク】PyCon JP 2022 振り返り Part.2
-0:16:55 Day.2 朝のLTで寺田さんがPyCon JP Associationの活動を紹介
-0:20:36 キーノート: Sara Issaoun
-0:24:10 キーノート: Peter Wang
-0:30:27 PSF Member Lunch
-0:33:44 オープンスペースのボードにPyCon  JP TVの枠を確保
-0:35:13 みんなで記念撮影
-0:37:00 PyLadiesオークション
-0:44:15 Day.3 朝のLTでPyCon JP 2022を紹介
-0:46:20 Diversity & Inclusion Workgroup パネル
-0:48:25 キーノート Steering Council Panel
-0:50:30 日本人の発表: Peacockさん、Hirataさん
-0:53:06 キーノート: Naomi Ceder、クロージングでAwardを受賞、クロージング
-0:59:20 【次回予告】内容未定
-1:02:10 カシャプシュ 🍺 Bewilder Kolsh Style
-1:08:10 🍕到着
-1:10:35 🍺 Bewilder Belgian Wit、PyCon USも2回目なので流れがわかる、いろいろやって忙しかった
-1:15:40 今回、寺田が聞いたトーク、スポーツのトラッキング、Python環境の話など
-1:21:58 面白かったキーノートはどれ?動画の字幕がすごい
-1:27:25 🍺 Sierra Nevada Pale Ale(缶がデカい)、 🎥 ポスターセッションの様子
-1:31:09 🎥 ジョブフェアの様子。アメリカでPythonの仕事探したいならPyCon USのジョブフェアに行くのがガチでおすすめ
-1:35:35 🎥 インタビュー動画2本
-1:43:30 🍺 サッポロ ビアサプライズ 至福のキレ、🍺 Smog City Brewing 11th Anniversary IPA
-1:44:35 カンファレンス2日目は元気なのでPyLadiesオークションでたくさん飲み、それから一人で飲みに行った
-1:51:50 寺田のLT発表中のハプニング、Larry Hastingさんはいい人
-1:57:24 帰り用のCOVID-19検査。結局、日本メンバーは全員同じ病院で検査
-2:03:35 PSFのインタビューをどうしようかな。Tzu-pingさんPythonスニーカーをゲットできず。カンファレンス3日目のあとにみんなで食事に
-2:11:00 来年はPyCon APACブースを出したい!
-2:17:56  🎥 インタビュー動画(Kojoさん、Jayさん、コアデベロッパーのPaul Ganssleさん)。コアデベロッパーの人が超面白い
-2:28:13  🎥 インタビュー動画(Anthony Shawさん)。オープンスペースのインタビューはいい企画
-2:33:13 🍺 Almanac Beer Company LOVE Hazy IPA。Youtubeでコラボしたいと言われた。動画撮影はいいツール
-2:40:00 カンファレンス動画を撮るのは楽しかった。写真撮影はちょっと大変
-2:45:40 日本への入国は大変だった
-2:59:12 宣伝: 日経クロステックに記事を書いた。Software Designに記事が掲載予定。 terapyon channelで語っている。雑誌の記事にまとめるのは大変
-3:08:00 たかのりが行けなくなってどうするか悩んだ。LTもやろうか悩んだ
-3:12:30 オープンスペースのインタビュー時はPeacockディレクターが撮影してくれてた。インタビューは話したい人が来るので面白い
-3:19:35 動画系は提案時はピンと来ない、やってみないとイメージがつかない
+https://www.youtube.com/watch?v=jhOlDDfVxak 
+0:00:17 配信開始
+0:01:26 コメント募集「暑さ対策」
+0:05:12 【Pythonニュース】7月9日(土) Python Boot Camp in 広島2ndを開催予定
+0:06:00 9月3日(土) Python Boot Camp in 静岡県沼津市で開催予定
+0:07:04 8月6日(土) PyLadies Carava in 愛媛リターンズ!開催予定
+0:08:46 DjangoCongress JPのトークを募集中。締め切りは8月12日
+0:09:50 PyCon JP 2022のプロポーザル募集を終了。トーク採択ミーティングを実施予定
+0:12:27 2021年Python開発者アンケートの結果が公開された
+0:13:48 Python Software Foundationの理事の投票受け付け中
+0:16:23 EuroPython 2022が7月11-17日にアイルランドで開催予定
+0:17:24 PyCon KR 2022のトークを募集中。締め切りは7月14日
+0:19:45 【メイントーク】ブラウザでPythonが動くPyScriptを解説
+0:20:35 PyScriptのキーノート、PyScriptとはどういうものか?
+0:23:30 PyScriptのデモを動かす。ソースを見たり、REPLを動かしたり、グラフを描画したり
+0:29:32 裏側はPyodide、WASM(WebAssembly)をベースにしている(らしい)
+0:31:05 チュートリアル「Getting started with PyScript」に沿ってやってみる。datetimeモジュールで日時を表示
+0:36:08 pyscript.write()を使って任意のタグに値を挿入する
+0:39:00 py-envタグを使ってサードパーティ製のライブラリを読み込める。グラフの画像はどうやって表示されているのか?
+0:44:31 py-envでローカルに置いたwheelファイルを読み込む
+0:51:16 Pythonモジュールを読み込む
+0:54:47 まだ他にも機能がありそう。PyScriptの可能性
+0:58:05 【次回予告】EuroPython 2022の振り返り
+1:01:15 カシャプシュ 🍺 オリオン 78BEER

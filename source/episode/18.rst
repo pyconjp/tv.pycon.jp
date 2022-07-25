@@ -21,11 +21,30 @@ PyCon US 2022のキーノートでお披露目された、ブラウザでPython�
 
 Pythonニュース
 --------------
-* TBD
+* 国内イベント
+
+  * `Python Boot Camp in 広島2nd - connpass <https://pyconjp.connpass.com/event/248048/>`_
+  * `Python Boot Camp in 静岡県沼津市 - connpass <https://pyconjp.connpass.com/event/251468/>`_
+  * `[オフライン] PyLadies Caravan in 愛媛 リターンズ! - connpass <https://pyladies-tokyo.connpass.com/event/251328/>`_
+  * `DjangoCongress JP 2022 <https://djangocongress.jp/>`_
+* PyCon JP 2022
+
+  * `PyCon JP Blog: プロポーザルの募集を終了しました。 <https://pyconjp.blogspot.com/2022/06/pyconjp2022-proposal-details-jp.html>`_
+  * `PyCon JP 2022 トーク採択MTG - connpass <https://pyconjp-staff.connpass.com/event/252902/>`_
+* 海外コミュニティ関連
+
+  * `2021 年 Python 開発者アンケートの結果 <https://lp.jetbrains.com/ja-jp/python-developers-survey-2021/>`_
+  * `2022 Python Software Foundation Board Elections | Python.org <https://www.python.org/nominations/elections/>`_
+  * `EuroPython 2022 | July 11th-17th 2022 | Dublin Ireland & Remote <https://ep2022.europython.eu/>`_
+  * `Call for Proposal : PyCon Korea 2022 <https://2022.pycon.kr/en/contribute/cfp>`_
 
 ブラウザでPythonが動くPyScriptを解説
 ------------------------------------
 * `PyScript | Run Python in your HTML <https://pyscript.net/>`_
+* `PyScript demo <https://pyscript.net/examples/>`_
+* `Pyodide — Version 0.20.0 <https://pyodide.org/en/stable/>`_
+* `Getting started with PyScript — PyScript documentation <https://docs.pyscript.net/latest/tutorials/getting-started.html>`_
+* `pyscript/getting-started.md at main · pyscript/pyscript <https://github.com/pyscript/pyscript/blob/main/docs/tutorials/getting-started.md>`_
 
 飲みトーク
 ----------
@@ -33,4 +52,26 @@ Pythonニュース
 
 目次
 ====
-* TBD
+* `0:00:17 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=17s>`_ 配信開始
+* `0:01:26 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=86s>`_ コメント募集「暑さ対策」
+* `0:05:12 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=312s>`_ 【Pythonニュース】7月9日(土) Python Boot Camp in 広島2ndを開催予定
+* `0:06:00 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=360s>`_ 9月3日(土) Python Boot Camp in 静岡県沼津市で開催予定
+* `0:07:04 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=424s>`_ 8月6日(土) PyLadies Carava in 愛媛リターンズ!開催予定
+* `0:08:46 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=526s>`_ DjangoCongress JPのトークを募集中。締め切りは8月12日
+* `0:09:50 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=590s>`_ PyCon JP 2022のプロポーザル募集を終了。トーク採択ミーティングを実施予定
+* `0:12:27 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=747s>`_ 2021年Python開発者アンケートの結果が公開された
+* `0:13:48 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=828s>`_ Python Software Foundationの理事の投票受け付け中
+* `0:16:23 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=983s>`_ EuroPython 2022が7月11-17日にアイルランドで開催予定
+* `0:17:24 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=1044s>`_ PyCon KR 2022のトークを募集中。締め切りは7月14日
+* `0:19:45 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=1185s>`_ 【メイントーク】ブラウザでPythonが動くPyScriptを解説
+* `0:20:35 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=1235s>`_ PyScriptのキーノート、PyScriptとはどういうものか?
+* `0:23:30 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=1410s>`_ PyScriptのデモを動かす。ソースを見たり、REPLを動かしたり、グラフを描画したり
+* `0:29:32 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=1772s>`_ 裏側はPyodide、WASM(WebAssembly)をベースにしている(らしい)
+* `0:31:05 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=1865s>`_ チュートリアル「Getting started with PyScript」に沿ってやってみる。datetimeモジュールで日時を表示
+* `0:36:08 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=2168s>`_ pyscript.write()を使って任意のタグに値を挿入する
+* `0:39:00 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=2340s>`_ py-envタグを使ってサードパーティ製のライブラリを読み込める。グラフの画像はどうやって表示されているのか?
+* `0:44:31 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=2671s>`_ py-envでローカルに置いたwheelファイルを読み込む
+* `0:51:16 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=3076s>`_ Pythonモジュールを読み込む
+* `0:54:47 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=3287s>`_ まだ他にも機能がありそう。PyScriptの可能性
+* `0:58:05 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=3485s>`_ 【次回予告】EuroPython 2022の振り返り
+* `1:01:15 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=3675s>`_ カシャプシュ 🍺 オリオン 78BEER
