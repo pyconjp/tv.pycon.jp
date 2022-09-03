@@ -48,7 +48,16 @@ Pythonニュース
 
 飲みトーク
 ----------
-* TBD
+* 🍺 `オリオン 78BEER Pale Ale <https://www.orionbeer.co.jp/brand/78beer/>`_
+* `Python Boot Camp テキスト <https://pycamp.pycon.jp/textbook/index.html>`_
+* 🍺 `瀬戸内ビール <https://setouchibeer.myshopify.com/>`_ せとうち2022 Lager
+* 🍺 `羊蹄山麓ビール NISECOISE <https://www.lupicia.com/shop/g/g32520178/>`_
+* 🍺 `Repubrew 69IPA <https://www.repubrew.com/basement-beers/69IPA>`_
+* 🍺 ``麗人酒造 <http://www.reijin.com/>`_ 善光寺浪漫 しらかば
+* 🍺 `軽井沢高原ビール <https://karuizawa-kogen-beer.com/lineup.html>`_ 2022年限定
+* 🍺 `REVO BREWING ONE <https://revobrewing.shop/?mode=f10>`_
+* `EuroPython 2022 <https://ep2022.europython.eu/>`_
+* 🍺 `Beer Cafe VERTERE <http://verterebrew.com/beercafe/>`_
 
 目次
 ====
@@ -74,4 +83,33 @@ Pythonニュース
 * `0:51:16 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=3076s>`_ Pythonモジュールを読み込む
 * `0:54:47 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=3287s>`_ まだ他にも機能がありそう。PyScriptの可能性
 * `0:58:05 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=3485s>`_ 【次回予告】EuroPython 2022の振り返り
-* `1:01:15 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=3675s>`_ カシャプシュ 🍺 オリオン 78BEER
+* `1:01:15 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=3675s>`_ カシャプシュ 🍺 オリオン 78BEER。pyscriptのリポジトリを見に行こう
+* `1:10:12 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=4212s>`_ 久しぶりのPyhon Boot Camp講師の準備
+* `1:12:23 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=4343s>`_ 🍺せとうち2022 LAGER
+* `1:16:28 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=4588s>`_ 久しぶりの海外カンファレンスで準備は大丈夫?
+* `1:20:05 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=4805s>`_ ヨーロッパの空港で荷物を預けるとヤバいので荷物は機内持ち込みで
+* `1:25:14 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=5114s>`_ 🍺 羊蹄山麓ビール NISECOISE。ニセコは外国の人戻ってきてるのかな?
+* `1:27:40 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=5260s>`_ 【Python開発者アンケート】を細かく見ていく
+* `1:31:50 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=5510s>`_ Pythonの使用目的
+* `1:35:30 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=5730s>`_ Pythonのバージョン
+* `1:40:37 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=6037s>`_ フレームワークとライブラリ
+* `1:48:24 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=6504s>`_ クラウドプラットフォーム
+* `1:56:28 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=6988s>`_ 🍺善光寺浪漫 しらかば、一旦休憩、アンケート結果おもしろい
+* `2:01:08 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=7268s>`_ Webメディアで2022年7月から連載がはじまります！Pythonの発表ネタがない。Codespacesのはなし
+* `2:12:15 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=7935s>`_ Python Boot Camp in 静岡沼津の懇親会が魅力的。
+* `2:15:23 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=8123s>`_ 🍺 Repubrew 69 IPA。ハンマーヘッドのセブンイレブンでビールを買ってきた。長野駅でもクラフトビールのブリュワリー
+* `2:20:15 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=8415s>`_ 「寺田パーソナリティの最新のpodcastが面白かった」というコメント
+* `2:21:30 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=8490s>`_ 【Python開発者アンケート】の続きを見ていく。開発ツールの続きから
+* `2:37:22 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=9442s>`_ 🍺 軽井沢高原ビール 2022年限定
+* `2:40:47 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=9647s>`_ Pythonの改善
+* `2:42:34 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=9754s>`_ Pythonのパッケージ
+* `2:49:05 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=10145s>`_ 回答者に関する情報(ここで最後)
+* `2:55:08 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=10508s>`_ 事件発生！
+* `2:56:23 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=10583s>`_ 🍺 REVO BREWING ONE IPA。ヤツがいる！
+* `3:01:26 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=10886s>`_ 寺田パーソナリティが戦闘中。音声のみでお送りします
+* `3:04:10 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=11050s>`_ 行方不明に。精神がやられてる。ヤツを再発見！戦闘再開
+* `3:07:40 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=11260s>`_ 事件解決！なにを配信しているのか...
+* `3:09:30 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=11370s>`_ 違う話をすすために、無理矢理EuroPythonの話
+* `3:15:42 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=11742s>`_ EuroPythonのカンファレンス3日目の夜に移動
+* `3:19:50 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=11990s>`_ キーノートとタイムテーブルを見てみる
+* `3:30:25 <https://www.youtube.com/watch?v=jhOlDDfVxak&t=12625s>`_ 3日目の移動で空港にどのくらい前に入るのか？明日は奥多摩のVERTERにビールを飲みに行く
