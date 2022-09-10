@@ -21,16 +21,54 @@
 
 Pythonニュース
 --------------
-* TBD
+* PyCon JP 2022
+
+  * `PyCon JP 2022 <https://2022.pycon.jp/>`_
+  * `PyCon JP 2022 カンファレンス - connpass <https://pyconjp.connpass.com/event/255827/>`_
+* 国内イベント
+
+  * 9月3日(土) `Python Boot Camp in 静岡県沼津市 - connpass <https://pyconjp.connpass.com/event/251468/>`_
+  * 9月17日(土) `Python Boot Camp in 新潟2nd - connpass <https://pyconjp.connpass.com/event/255600/>`_
+  * 11月12日(土) `DjangoCongress JP 2022 <https://djangocongress.jp/#program>`_
+* 海外イベント
+
+  * `PYCON HK 2022 Calls For Proposals is now open! - PyCon Hong Kong <https://pycon.hk/2022/pycon-hk-2022-calls-for-proposals-is-now-open/>`_
+  * `Pyjamas 2022 <https://pyjamas.live/>`_
+  * `PyData Global 2022 <https://pydata.org/global2022/>`_
 
 PyCon JP 2022の楽しみ方
 -----------------------
-* TBD
+* `PyCon JP 2022 <https://2022.pycon.jp/>`_
+* `PyCon JP 2022 カンファレンス - connpass <https://pyconjp.connpass.com/event/255827/>`_
+
 
 飲みトーク
 ----------
-* TBD
+* `t0ki brewery (トキブルワリー) <https://www.t0ki.beer/>`_
 
 目次
 ====
-* TBD
+* `0:01:10 <https://www.youtube.com/watch?v=40rFWLYqgks&t=70s>`_ 配信開始
+* `0:05:40 <https://www.youtube.com/watch?v=40rFWLYqgks&t=340s>`_ 【Pythonニュース】PyCon JP 2022サイト公開、チケット発売開始
+* `0:07:00 <https://www.youtube.com/watch?v=40rFWLYqgks&t=420s>`_ 9月3日(土) Python Boot Camp in 静岡県沼津市、9月17日(土) 新潟2nd
+* `0:08:50 <https://www.youtube.com/watch?v=40rFWLYqgks&t=530s>`_ DjangoCongress JP 2022のプログラムが公開
+* `0:10:05 <https://www.youtube.com/watch?v=40rFWLYqgks&t=605s>`_ PyCon HK 2022 プロポーザル募集中
+* `0:12:08 <https://www.youtube.com/watch?v=40rFWLYqgks&t=728s>`_ Pyjamas Conf 2022 プロポーザル募集中
+* `0:13:20 <https://www.youtube.com/watch?v=40rFWLYqgks&t=800s>`_ PyData Global 2022 プロポーザル募集中
+* `0:14:35 <https://www.youtube.com/watch?v=40rFWLYqgks&t=875s>`_ PyPIでフィッシングがあったのでご注意ください
+* `0:15:20 <https://www.youtube.com/watch?v=40rFWLYqgks&t=920s>`_ PyPAからパッケージングについてアンケート募集中
+* `0:18:45 <https://www.youtube.com/watch?v=40rFWLYqgks&t=1125s>`_ 【メイントーク】PyCon JP 2022の楽しみ方。イベント概要の紹介
+* `0:22:00 <https://www.youtube.com/watch?v=40rFWLYqgks&t=1320s>`_ チケットの種類や内容を紹介
+* `0:31:35 <https://www.youtube.com/watch?v=40rFWLYqgks&t=1895s>`_ 遠方参加者の支援制度を紹介
+* `0:35:15 <https://www.youtube.com/watch?v=40rFWLYqgks&t=2115s>`_ 2名のキーノートスピーカーを紹介
+* `0:38:45 <https://www.youtube.com/watch?v=40rFWLYqgks&t=2325s>`_ 公開前のタイムテーブルをチラ見せ
+* `0:44:35 <https://www.youtube.com/watch?v=40rFWLYqgks&t=2675s>`_ カンファレンス1日目の楽しみ方。オープニングに間に合うように行こう
+* `0:47:10 <https://www.youtube.com/watch?v=40rFWLYqgks&t=2830s>`_ ランチのあとはスポンサーブースを回ろう
+* `0:49:10 <https://www.youtube.com/watch?v=40rFWLYqgks&t=2950s>`_ ライトニングトークは色んな話題が出るので面白い。トークは全部聞くと疲れるので休む時間も作ろう
+* `0:51:00 <https://www.youtube.com/watch?v=40rFWLYqgks&t=3060s>`_ 2日目も基調講演から聞こう。どうしても聞きたいトークだけ参加する
+* `0:52:20 <https://www.youtube.com/watch?v=40rFWLYqgks&t=3140s>`_ 初めてPyCon JPに参加した人は、ぜひ知り合いを作ってほしい。スピーカー、スタッフ、私たちに声をかけて下ください
+* `0:55:15 <https://www.youtube.com/watch?v=40rFWLYqgks&t=3315s>`_ コメント紹介 「コーヒーブレイクのスケジュールを見てオンサイトが帰ってきたと感じた」「現地開催なので友達になれるきっかけを作ってほしい」
+* `0:56:00 <https://www.youtube.com/watch?v=40rFWLYqgks&t=3360s>`_ スタッフはきさくなので声をかけてみましょう
+* `0:58:13 <https://www.youtube.com/watch?v=40rFWLYqgks&t=3493s>`_ 開発スプリントの紹介
+* `1:00:12 <https://www.youtube.com/watch?v=40rFWLYqgks&t=3612s>`_ 【次回予告】10月7日(金)19:30からPython 3.11の新機能の紹介
+* `1:02:40 <https://www.youtube.com/watch?v=40rFWLYqgks&t=3760s>`_ カシャプシュ 🍺 t0ki brewery Clean Code
