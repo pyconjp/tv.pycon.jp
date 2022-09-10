@@ -35,12 +35,15 @@ Pythonニュース
   * `PYCON HK 2022 Calls For Proposals is now open! - PyCon Hong Kong <https://pycon.hk/2022/pycon-hk-2022-calls-for-proposals-is-now-open/>`_
   * `Pyjamas 2022 <https://pyjamas.live/>`_
   * `PyData Global 2022 <https://pydata.org/global2022/>`_
+* Twitterからの情報
+
+  * `Python Package Index on Twitter: "Today we received reports of a phishing campaign targeting PyPI users. This is the first known phishing attack against PyPI. We’re publishing the details here to raise awareness of what is likely an ongoing threat." <https://twitter.com/pypi/status/1562442188285308929>`_
+  * `Nicole Harris on Twitter: "こんにちは @python_japan! I'm Nicole - PyPA member and PyPI maintainer. We have just published a survey to collect community feedback about Python packaging and would love it if you could share it with your followers in Japan! ありがとうございました https://t.co/8QkalLhtYr" <https://twitter.com/nlhkabu/status/1565465309645086720>`_
 
 PyCon JP 2022の楽しみ方
 -----------------------
 * `PyCon JP 2022 <https://2022.pycon.jp/>`_
 * `PyCon JP 2022 カンファレンス - connpass <https://pyconjp.connpass.com/event/255827/>`_
-
 
 飲みトーク
 ----------
