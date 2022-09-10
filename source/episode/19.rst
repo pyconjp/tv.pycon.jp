@@ -1,3 +1,6 @@
+:og:image: https://tv.pycon.jp/_images/episode19.jpg
+    
+.. |cover| image:: images/episode19.jpg
 
 ===========================================
  #19: EuroPython 2022振り返り - 2022-08-05
