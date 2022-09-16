@@ -2,11 +2,11 @@
  #21: Python 3.11の新機能を試す - 2022-10-07
 =============================================
 
-2022年10月3日にリリース予定の、Python 3.11の新機能を試しながら解説します。
+2022年10月24日にリリース予定の、Python 3.11の新機能を試しながら解説します。
 
 .. raw:: html
 
-   (YouTubeの埋め込みリンク)
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/gz5kcS9zdAc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 関連リンク
 ==========
