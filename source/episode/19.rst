@@ -84,4 +84,18 @@ EuroPython 2022振り返り
 * `0:52:40 <https://www.youtube.com/watch?v=MyoimjKNQVs&t=3160s>`_ 【カンファレンス3日目】LT申し込み、キーノート、ランチ、takanoryのライトニングトーク、クロージング
 * `0:57:10 <https://www.youtube.com/watch?v=MyoimjKNQVs&t=3430s>`_ 空港で夕食、飛行機で移動、デンマークに到着
 * `0:59:00 <https://www.youtube.com/watch?v=MyoimjKNQVs&t=3540s>`_ 【次回予告】PyCon JP 2022の楽しみ方
-* `1:02:24 <https://www.youtube.com/watch?v=MyoimjKNQVs&t=3744s>`_ カシャプシュ 🍺 サッポロビール園サマーピルス
+* `1:02:24 <https://www.youtube.com/watch?v=MyoimjKNQVs&t=3744s>`_ カシャプシュ 🍺 サッポロビール園サマーピルス 。日本から3人参加できてよかった
+* `1:09:25 <https://www.youtube.com/watch?v=MyoimjKNQVs&t=4165s>`_ 参加者数。ヨーロッパの都市ならどこでも変わらなそう。
+* `1:13:11 <https://www.youtube.com/watch?v=MyoimjKNQVs&t=4391s>`_ 🍺 羊蹄山麓ビール Eglish Pale Ale、夏休みはとった?近場の旅行が増えてそう、SciPy 2022の話
+* `1:20:05 <https://www.youtube.com/watch?v=MyoimjKNQVs&t=4805s>`_ takanoryのライトニングトーク裏話。サインアップのために早起き
+* `1:26:04 <https://www.youtube.com/watch?v=MyoimjKNQVs&t=5164s>`_ ライトニングトークの時に寺田は飲みながら開発合宿の会場で見ていた。寺田のUSでのLTをオマージュ。日本で見ていた人はどんな感じだった?
+* `1:34:10 <https://www.youtube.com/watch?v=MyoimjKNQVs&t=5650s>`_ 🍺 t0ki brewery CLEAN CODE、ライトニングトークで現地からも拍手がもらえて暖かかった。トークの反応はどうだった?
+* `1:40:17 <https://www.youtube.com/watch?v=MyoimjKNQVs&t=6017s>`_ 写真で振り返るEuroPython 2022、出発からホテル到着まで。カンファレンスでどれくらい前に到着するか
+* `1:49:40 <https://www.youtube.com/watch?v=MyoimjKNQVs&t=6580s>`_ カンファレンス前日の様子。ダブリンを散策、落ち着いてて治安がよさそう。BREW DOCKで飲んでいたらMarcさんと偶然遭遇
+* `2:02:20 <https://www.youtube.com/watch?v=MyoimjKNQVs&t=7340s>`_ カンファレンスの次の日はデンマークのビルン、この日はLEGO House観光
+* `2:09:49 <https://www.youtube.com/watch?v=MyoimjKNQVs&t=7789s>`_ LEGO Houseに到着、システムがすごい。6個のレゴの組み合わせカード。アトラクションの設計がすごい
+* `2:14:30 <https://www.youtube.com/watch?v=MyoimjKNQVs&t=8070s>`_ ヒストリーミュージアム、カフェ、中央の巨大な樹、マスターピースギャラリー
+* `2:23:50 <https://www.youtube.com/watch?v=MyoimjKNQVs&t=8630s>`_ LEGO Brick Builder、外で休憩、自分のminifigを作る、ランチ(Build your own meal)
+* `2:28:59 <https://www.youtube.com/watch?v=MyoimjKNQVs&t=8939s>`_ 車を作る、街を作る、Modie Mixer、魚を作る、ヒストリーミュージアムの内側を見てなかった!!
+* `2:33:18 <https://www.youtube.com/watch?v=MyoimjKNQVs&t=9198s>`_ LEGOストアに戻る。LEGO Houseの限定レゴが売っていた。このあとLEGOLANDに2日間行った
+* `2:37:47 <https://www.youtube.com/watch?v=MyoimjKNQVs&t=9467s>`_ いろんなイベントが近づいてきた。リアルカンファレンス楽しいねー
