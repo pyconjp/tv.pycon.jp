@@ -56,7 +56,20 @@ EuroPython 2022振り返り
 
 飲みトーク
 ----------
-* `サッポロビール園サマーピルス <https://www.sapporobeer.jp/product/beer/summer_pils/>`_
+* 🍺 `サッポロビール園サマーピルス <https://www.sapporobeer.jp/product/beer/summer_pils/>`_
+* 🍺 `羊蹄山麓ビール ENGLISH PALE ALE <https://www.lupicia.com/shop/g/g32520174/>`_
+* `SciPy Conference 2022 <https://www.scipy2022.scipy.org/>`_
+
+  * `#63 小山さんをゲストに SciPy con参加と PyVistaの話を深く聞く | terapyon channel podcast <https://podcast.terapyon.net/episodes/0072.html>`_
+* `たかのりのライトニングトークのビデオ <https://youtu.be/EZCtpnc0IJA?t=27728>`_
+
+  * `寺田のPyCon US 2022でのライトニングトークのビデオ <https://youtu.be/r-rpo4Xm_lM?t=1544>`_
+* 🍺 `t0ki brewery <https://www.t0ki.beer/>`_ CLEAN CODE
+* `The Brew Dock <https://galwaybaybrewery.com/brewdock/>`_
+* `LEGO House <https://legohouse.com/en-gb/>`_
+
+  * `MINI CHEF <https://legohouse.com/en-gb/explore/eateries/>`_
+  * `LEGO Store <https://legohouse.com/en-gb/explore/lego-store/>`_
 
 目次
 ====
