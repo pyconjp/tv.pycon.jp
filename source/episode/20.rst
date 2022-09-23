@@ -44,10 +44,20 @@ PyCon JP 2022の楽しみ方
 -----------------------
 * `PyCon JP 2022 <https://2022.pycon.jp/>`_
 * `PyCon JP 2022 カンファレンス - connpass <https://pyconjp.connpass.com/event/255827/>`_
-
+* `PyCon JP 2022 タイムテーブル <https://2022.pycon.jp/timetable>`_
+* `PyCon JP 2022 :: pretalx <https://pretalx.com/pyconjp2022/schedule/>`_
+  
 飲みトーク
 ----------
-* `t0ki brewery (トキブルワリー) <https://www.t0ki.beer/>`_
+* 🍺 `t0ki brewery (トキブルワリー) <https://www.t0ki.beer/>`_
+* `PyCon JP Blog: PyCon JP 2022 遠方参加者の支援制度について <https://pyconjp.blogspot.com/2022/08/financial-aid-ja.html>`_
+* `PyCon JP Blog: Python Boot Camp & PyLadies Caravan 遠方参加者支援募集のお知らせ(PyCon JP 2022) <https://pyconjp.blogspot.com/2022/08/pycamp-and-pyledies-caravan-support2022.html>`_
+* 🍺 `志賀高原 RIDE A WHITE SWAN / また1t IPA <http://www.tamamura-honten.co.jp/?pid=169931545>`_
+* 🍺 `忽布古丹醸造 nonno <http://hopkotan.com/originals/nonno/>`_
+* 🍺 `SHIGA KOGEN HELLES!? <http://tamamura-honten.co.jp/?pid=163015355>`_
+* `faster-cpython <https://github.com/faster-cpython>`_
+* 🍺 `羊蹄山麓ビール <https://www.lupicia.com/shop/e/ebeer/>`_ IPA
+* `JR東日本トレインシミュレータ <https://www.jreast.co.jp/simulator/>`_
 
 目次
 ====
@@ -74,4 +84,28 @@ PyCon JP 2022の楽しみ方
 * `0:56:00 <https://www.youtube.com/watch?v=40rFWLYqgks&t=3360s>`_ スタッフはきさくなので声をかけてみましょう
 * `0:58:13 <https://www.youtube.com/watch?v=40rFWLYqgks&t=3493s>`_ 開発スプリントの紹介
 * `1:00:12 <https://www.youtube.com/watch?v=40rFWLYqgks&t=3612s>`_ 【次回予告】10月7日(金)19:30からPython 3.11の新機能の紹介
-* `1:02:40 <https://www.youtube.com/watch?v=40rFWLYqgks&t=3760s>`_ カシャプシュ 🍺 t0ki brewery Clean Code
+* `1:02:40 <https://www.youtube.com/watch?v=40rFWLYqgks&t=3760s>`_ カシャプシュ 🍺 t0ki brewery Clean Code、2回前のPython Developers surveyを肴に話しているのが面白かったとのこと
+* `1:05:40 <https://www.youtube.com/watch?v=40rFWLYqgks&t=3940s>`_ PyCon JPの遠方支援を使って、遠くの人にたくさん参加してほしい。ピザ到着
+* `1:10:10 <https://www.youtube.com/watch?v=40rFWLYqgks&t=4210s>`_ DjangoCongress JP 2022のタイムテーブルを確認
+* `1:18:28 <https://www.youtube.com/watch?v=40rFWLYqgks&t=4708s>`_ 「カンファレンスで疲れるから全部は見ない」という話。早送りしたら現地でも2倍見れる
+* `1:22:30 <https://www.youtube.com/watch?v=40rFWLYqgks&t=4950s>`_ PyCon JP 2022のおやつが楽しみ。今回はピザハット。カンファレンスでの食べ物の配り方
+* `1:26:50 <https://www.youtube.com/watch?v=40rFWLYqgks&t=5210s>`_ 🍺 志賀高原 Ride a White Swan また1t IPA、長野限定。Pythonビールを作りたい
+* `1:29:05 <https://www.youtube.com/watch?v=40rFWLYqgks&t=5345s>`_ Day 1のタイムテーブルを深掘り。Geo系の発表が増えてる、自然言語処理も熱い
+* `1:42:18 <https://www.youtube.com/watch?v=40rFWLYqgks&t=6138s>`_ Day 2のタイムテーブルを深掘り。濃すぎてお腹いっぱい
+* `1:55:50 <https://www.youtube.com/watch?v=40rFWLYqgks&t=6950s>`_ トークを選ぶのはすごい大変そうだ。タイムテーブルをしっかり見るだけでぐったり
+* `2:00:16 <https://www.youtube.com/watch?v=40rFWLYqgks&t=7216s>`_ リアルのスポンサーブースが久しぶりなので、どういうことをやるといいんだろう?EuroPython 2022のブースの話
+* `2:08:28 <https://www.youtube.com/watch?v=40rFWLYqgks&t=7708s>`_ トークで見たいものが一杯ある。別途一緒に見る会とかやりたい。知り合いをどう作る?
+* `2:12:56 <https://www.youtube.com/watch?v=40rFWLYqgks&t=7976s>`_ 「話しかけていいですよ」とアピールする仕組みがほしい。EuroPythonだとQuiet Roomがあった
+* `2:15:43 <https://www.youtube.com/watch?v=40rFWLYqgks&t=8143s>`_ 🍺 忽布古丹醸 nonno。以前ランチにコミュニティーブースがあるのはよかった。新しい出会い、発見がほしい。カンファレンス会場からどこに飲みに行く?
+* `2:23:50 <https://www.youtube.com/watch?v=40rFWLYqgks&t=8630s>`_ ハード系の発表は今年少ない。時代を先取っている?今年はGeo系がホット
+* `2:32:55 <https://www.youtube.com/watch?v=40rFWLYqgks&t=9175s>`_ キーノートの1人が統計。統計が一般的になってきている。動物のPython本で挫折、今はたくさん本がある
+* `2:38:15 <https://www.youtube.com/watch?v=40rFWLYqgks&t=9495s>`_ スタッフも東京だけじゃなくなった。イベントで初めてリアルで会う。以前はPython本をすべて買っていた
+* `2:44:19 <https://www.youtube.com/watch?v=40rFWLYqgks&t=9859s>`_ 最近はFlask、Django、FastAPI?Flask本は問合せが多い。今のWebは非同期が当たり前?
+* `2:50:25 <https://www.youtube.com/watch?v=40rFWLYqgks&t=10225s>`_ 🍺 志賀高原 Shiga Kogen Helles!?。Cloudflare Pagesとか使っていると勝手にHTTP/2になってそう。ベーシックな内容は書籍やWebコンテンツで学ぶ感じで、カンファレンスでは新しいキーワードを押さえたい
+* `2:55:20 <https://www.youtube.com/watch?v=40rFWLYqgks&t=10520s>`_ 次回はPython 3.11、Faster CPythonは2021年から動き始めた。PythonのCore Developerに新しい人がちゃんと入っていってる
+* `3:03:42 <https://www.youtube.com/watch?v=40rFWLYqgks&t=11022s>`_ 参加者のコメントを拾う。コメントが盛り上がっている
+* `3:09:25 <https://www.youtube.com/watch?v=40rFWLYqgks&t=11365s>`_ 🍺 要諦山麓ビール IPA。先生もコロナになって授業が大変そう。物理的なものを使う授業はたいへん。どこまでシミュレーションで訓練ができるのか?
+* `3:18:00 <https://www.youtube.com/watch?v=40rFWLYqgks&t=11880s>`_ JR東日本がSteamでシミュレーターを出す。車掌側、駅員のシミュレーターはないの?
+* `3:22:35 <https://www.youtube.com/watch?v=40rFWLYqgks&t=12155s>`_ みなさんPyCon JP 2022に来ますか?
+* `3:26:10 <https://www.youtube.com/watch?v=40rFWLYqgks&t=12370s>`_ Youtubeは誰かと一緒に見ると内容を補完しあえて面白い
+* `3:31:50 <https://www.youtube.com/watch?v=40rFWLYqgks&t=12710s>`_ 今回は後半コメントが盛り上がった、また来月お会いしましょう〜
