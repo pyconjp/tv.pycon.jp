@@ -1,49 +1,25 @@
-https://www.youtube.com/watch?v=40rFWLYqgks
-0:01:10 配信開始
-0:05:40 【Pythonニュース】PyCon JP 2022サイト公開、チケット発売開始
-0:07:00 9月3日(土) Python Boot Camp in 静岡県沼津市、9月17日(土) 新潟2nd
-0:08:50 DjangoCongress JP 2022のプログラムが公開
-0:10:05 PyCon HK 2022 プロポーザル募集中
-0:12:08 Pyjamas Conf 2022 プロポーザル募集中
-0:13:20 PyData Global 2022 プロポーザル募集中
-0:14:35 PyPIでフィッシングがあったのでご注意ください
-0:15:20 PyPAからパッケージングについてアンケート募集中
-0:18:45 【メイントーク】PyCon JP 2022の楽しみ方。イベント概要の紹介
-0:22:00 チケットの種類や内容を紹介
-0:31:35 遠方参加者の支援制度を紹介
-0:35:15 2名のキーノートスピーカーを紹介
-0:38:45 公開前のタイムテーブルをチラ見せ
-0:44:35 カンファレンス1日目の楽しみ方。オープニングに間に合うように行こう
-0:47:10 ランチのあとはスポンサーブースを回ろう
-0:49:10 ライトニングトークは色んな話題が出るので面白い。トークは全部聞くと疲れるので休む時間も作ろう
-0:51:00 2日目も基調講演から聞こう。どうしても聞きたいトークだけ参加する
-0:52:20 初めてPyCon JPに参加した人は、ぜひ知り合いを作ってほしい。スピーカー、スタッフ、私たちに声をかけて下ください
-0:55:15 コメント紹介 「コーヒーブレイクのスケジュールを見てオンサイトが帰ってきたと感じた」「現地開催なので友達になれるきっかけを作ってほしい」
-0:56:00 スタッフはきさくなので声をかけてみましょう
-0:58:13 開発スプリントの紹介
-1:00:12 【次回予告】10月7日(金)19:30からPython 3.11の新機能の紹介
-1:02:40  カシャプシュ 🍺 t0ki brewery Clean Code、2回前のPython Developers surveyを肴に話しているのが面白かったとのこと
-1:05:40 PyCon JPの遠方支援を使って、遠くの人にたくさん参加してほしい。ピザ到着
-1:10:10 DjangoCongress JP 2022のタイムテーブルを確認
-1:18:28 「カンファレンスで疲れるから全部は見ない」という話。早送りしたら現地でも2倍見れる
-1:22:30 PyCon JP 2022のおやつが楽しみ。今回はピザハット。カンファレンスでの食べ物の配り方
-1:26:50 🍺 志賀高原 Ride a White Swan また1t IPA、長野限定。Pythonビールを作りたい
-1:29:05 Day 1のタイムテーブルを深掘り。Geo系の発表が増えてる、自然言語処理も熱い
-1:42:18 Day 2のタイムテーブルを深掘り。濃すぎてお腹いっぱい
-1:55:50 トークを選ぶのはすごい大変そうだ。タイムテーブルをしっかり見るだけでぐったり
-2:00:16 リアルのスポンサーブースが久しぶりなので、どういうことをやるといいんだろう?EuroPython 2022のブースの話
-2:08:28 トークで見たいものが一杯ある。別途一緒に見る会とかやりたい。知り合いをどう作る?
-2:12:56 「話しかけていいですよ」とアピールする仕組みがほしい。EuroPythonだとQuiet Roomがあった
-2:15:43 🍺 忽布古丹醸 nonno。以前ランチにコミュニティーブースがあるのはよかった。新しい出会い、発見がほしい。カンファレンス会場からどこに飲みに行く?
-2:23:50 ハード系の発表は今年少ない。時代を先取っている?今年はGeo系がホット
-2:32:55 キーノートの1人が統計。統計が一般的になってきている。動物のPython本で挫折、今はたくさん本がある
-2:38:15 スタッフも東京だけじゃなくなった。イベントで初めてリアルで会う。以前はPython本をすべて買っていた
-2:44:19 最近はFlask、Django、FastAPI?Flask本は問合せが多い。今のWebは非同期が当たり前?
-2:50:25 🍺 志賀高原 Shiga Kogen Helles!?。Cloudflare Pagesとか使っていると勝手にHTTP/2になってそう。ベーシックな内容は書籍やWebコンテンツで学ぶ感じで、カンファレンスでは新しいキーワードを押さえたい
-2:55:20 次回はPython 3.11、Faster CPythonは2021年から動き始めた。PythonのCore Developerに新しい人がちゃんと入っていってる
-3:03:42 参加者のコメントを拾う。コメントが盛り上がっている
-3:09:25 🍺 要諦山麓ビール IPA。先生もコロナになって授業が大変そう。物理的なものを使う授業はたいへん。どこまでシミュレーションで訓練ができるのか?
-3:18:00 JR東日本がSteamでシミュレーターを出す。車掌側、駅員のシミュレーターはないの?
-3:22:35 みなさんPyCon JP 2022に来ますか?
-3:26:10 Youtubeは誰かと一緒に見ると内容を補完しあえて面白い
-3:31:50 今回は後半コメントが盛り上がった、また来月お会いしましょう〜
+https://www.youtube.com/watch?v=gz5kcS9zdAc
+0:00:28 配信開始
+0:04:09 【Pythonニュース】PyCon JP 2022チケット発売中 https://pyconjp.connpass.com/event/255827/
+0:06:07 10月16日(日) Developer & Community Sprint https://pyconjp.connpass.com/event/260219/
+0:08:01 10月15日(土) PyCon JP 2022 Official Partyチケット https://pyconjp.connpass.com/event/261187/
+0:09:17 10月14日(金) PyLadies Caravan & Python Boot Campミートアップ 2022 https://pyconjp.connpass.com/event/260381/
+0:11:03 当日スタッフ募集中 https://pyconjp.blogspot.com/2022/09/pyconjp2022-conf-day-of-staff.html
+0:12:45 参加者Tシャツ発売中 https://pyconjp.blogspot.com/2022/09/PyConJP2022TshirtJ.html
+0:14:02 Python Boot Camp in 静岡県沼津市、新潟2ndを開催
+0:15:37 11月19日(土) PyLadies Caravan in 愛知 リターンズ!開催予定 https://pyladies-tokyo.connpass.com/event/260718/
+0:18:32 【メイントーク】Python 3.11の新機能を試す
+0:19:20 PEP 664 – Python 3.11のリリーススケジュール https://peps.python.org/pep-0664/
+0:22:12 What's New in Python 3.11のリリースハイライト https://docs.python.org/ja/3.11/whatsnew/3.11.html
+0:30:05 dead batteriesはPython 3.11からDeprecationWariningが出るようになる
+0:32:00 PEP 657: Enhanced error locations in tracebacks: エラーの発生した箇所がわかりやすくなる
+0:37:24 PEP 654: Exception Groups and except*: 複数の例外をまとめて出して受け取れるようになった
+0:41:48 PEP 678: Exceptions can be enriched with notes: 例外に備考が追加できるようになる
+0:46:20 Windows py.exe launcher improvements: Windowsのpyコマンドで色んなPythonが呼び出せるようになる
+0:47:50 標準ライブラリにtomllibが追加
+0:48:55 Faster CPython。平均でPython 3.10より25%高速化
+0:51:10 pyperformanceを手元で動作させた結果を共有
+0:57:20 Faster CPythonの中身としてどんなことをしたのか?
+1:01:20 【お便りコーナー】PyCon JP久しぶりのオンサイト開催で緊張しているが、うまくのりきるコツは?
+1:04:30 【次回予告】11月4日(金) 19:30から。テーマは「PyCon JP 2022振り返り」
+1:08:11 カシャプシュ 🍺 Hofbräu Oktoberfestbier
