@@ -53,7 +53,7 @@ Pythonニュース
 * 🍺 `瀬戸内ビール <https://setouchibeer.myshopify.com/>`_ せとうち2022 Lager
 * 🍺 `羊蹄山麓ビール NISECOISE <https://www.lupicia.com/shop/g/g32520178/>`_
 * 🍺 `Repubrew 69IPA <https://www.repubrew.com/basement-beers/69IPA>`_
-* 🍺 ``麗人酒造 <http://www.reijin.com/>`_ 善光寺浪漫 しらかば
+* 🍺 `麗人酒造 <http://www.reijin.com/>`_ 善光寺浪漫 しらかば
 * 🍺 `軽井沢高原ビール <https://karuizawa-kogen-beer.com/lineup.html>`_ 2022年限定
 * 🍺 `REVO BREWING ONE <https://revobrewing.shop/?mode=f10>`_
 * `EuroPython 2022 <https://ep2022.europython.eu/>`_
