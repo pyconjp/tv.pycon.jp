@@ -1,3 +1,7 @@
+:og:image: https://tv.pycon.jp/_images/episode21.jpg
+    
+.. |cover| image:: images/episode21.jpg
+
 =============================================
  #21: Python 3.11の新機能を試す - 2022-10-07
 =============================================
