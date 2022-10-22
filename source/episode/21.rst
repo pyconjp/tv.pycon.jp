@@ -61,6 +61,22 @@ Python 3.11の新機能を試す
 飲みトーク
 ----------
 * 🍺 `Hofbräu Oktoberfestbier <https://www.hofbraeu-muenchen.de/en/beer/hofbrau-oktoberfestbier>`_
+* `Python Boot Camp in 新潟2nd - connpass <https://pyconjp.connpass.com/event/255600/>`_
+* `にいがた総おどり <https://www.soh-odori.net/>`_
+* 🍺 `Stone Enjoy By 10.31.22 Hazy IPA | Stone Brewing <https://www.stonebrewing.com/beer/stone-enjoy-ipa-series/stone-enjoy-103122-hazy-ipa#ageGatePassed>`_
+* `PEP 646 – Variadic Generics <https://peps.python.org/pep-0646/>`_
+* `PEP 655 – Marking individual TypedDict items as required or potentially-missing <https://peps.python.org/pep-0655/>`_
+* `PEP 673 – Self Type <https://peps.python.org/pep-0673/>`_
+* `PEP 675 – Arbitrary Literal String Type <https://peps.python.org/pep-0675/>`_
+* `PEP 681 – Data Class Transforms <https://peps.python.org/pep-0681/>`_
+* `What's New In Python 3.12 <https://docs.python.org/3.12/whatsnew/3.12.html>`_
+* `What's new in Python 3.11 and beyond <https://2022.pycon.jp/timetable?id=NKRG7V>`_
+* `mypy - Optional Static Typing for Python <http://mypy-lang.org/>`_
+* `Anthony Shaw 🇦🇺🤝🇺🇦 on Twitter: "Any overseas people going to #pyconJP next week— you can add “Pasmo” to your Apple or Google wallet to tap onto the public transport system and preload it with Yen to get around easily 👍🏻👍🏻if you don’t spend it all, you can use the credits at convenience stores to buy Meiji 🍫" / Twitter <https://twitter.com/anthonypjshaw/status/1577931590889803778>`_
+* `PEP 594 – Removing dead batteries from the standard library <https://peps.python.org/pep-0594/>`_
+* https://docs.python.org/3.11/whatsnew/3.11.html#re
+* `str.removeprefix <https://docs.python.org/ja/3/library/stdtypes.html#str.removeprefix>`_
+* `str.removesuffix <https://docs.python.org/ja/3/library/stdtypes.html#str.removesuffix>`_
 
 目次
 ====
@@ -87,4 +103,24 @@ Python 3.11の新機能を試す
 * `0:57:20 <https://www.youtube.com/watch?v=gz5kcS9zdAc&t=3440s>`_ Faster CPythonの中身としてどんなことをしたのか?
 * `1:01:20 <https://www.youtube.com/watch?v=gz5kcS9zdAc&t=3680s>`_ 【お便りコーナー】PyCon JP久しぶりのオンサイト開催で緊張しているが、うまくのりきるコツは?
 * `1:04:30 <https://www.youtube.com/watch?v=gz5kcS9zdAc&t=3870s>`_ 【次回予告】11月4日(金) 19:30から。テーマは「PyCon JP 2022振り返り」
-* `1:08:11 <https://www.youtube.com/watch?v=gz5kcS9zdAc&t=4091s>`_ カシャプシュ 🍺 Hofbräu Oktoberfestbier
+* `1:08:11 <https://www.youtube.com/watch?v=gz5kcS9zdAc&t=4091s>`_ カシャプシュ 🍺 Hofbräu Oktoberfestbier。Python 3.11の使いたいポイントは?
+* `1:17:10 <https://www.youtube.com/watch?v=gz5kcS9zdAc&t=4630s>`_ tracebackのわかりやすさも実装面倒そうだけどとてもよい
+* `1:23:15 <https://www.youtube.com/watch?v=gz5kcS9zdAc&t=4995s>`_ 型ヒントって書いてる?
+* `1:27:28 <https://www.youtube.com/watch?v=gz5kcS9zdAc&t=5248s>`_ Python Boot Camp in 新潟2ndの懇親会、イベントそのものの思い出
+* `1:39:05 <https://www.youtube.com/watch?v=gz5kcS9zdAc&t=5945s>`_ Python Boot Campの講師としてペース配分が難しい
+* `1:43:20 <https://www.youtube.com/watch?v=gz5kcS9zdAc&t=6200s>`_ 🍺 Stone Enjoy By 10.31.22。新潟でpycampの次の日におどりのイベント(にいがた総おどり)があった
+* `1:51:45 <https://www.youtube.com/watch?v=gz5kcS9zdAc&t=6705s>`_ 最近のコンサートはブラボー禁止。ボディービル大会のかけ声。ブラボーのタイミング早い人やめてほしい
+* `2:03:27 <https://www.youtube.com/watch?v=gz5kcS9zdAc&t=7407s>`_ What’s New In Python 3.11の続きで型ヒントまわりを読む。PEP 646: Variadic generics
+* `2:07:40 <https://www.youtube.com/watch?v=gz5kcS9zdAc&t=7660s>`_ PEP 655: Marking individual TypedDict items as required or not-required
+* `2:09:20 <https://www.youtube.com/watch?v=gz5kcS9zdAc&t=7760s>`_ PEP 673: Selft type
+* `2:10:36 <https://www.youtube.com/watch?v=gz5kcS9zdAc&t=7836s>`_ PEP 675: Arbitrary literal string type
+* `2:15:19 <https://www.youtube.com/watch?v=gz5kcS9zdAc&t=8119s>`_ PEP 681: Data class transforms
+* `2:22:12 <https://www.youtube.com/watch?v=gz5kcS9zdAc&t=8532s>`_ What's New In Pythonの読み方は人それぞれだが、慣れないと読み方がわからない。最初からスラスラ読めるわけじゃない
+* `2:24:43 <https://www.youtube.com/watch?v=gz5kcS9zdAc&t=8683s>`_ Python 3.12に期待することは?PyCon JP 2022でAnthony Shawさんが「What's new in Python 3.11 and beyond」という発表が注目
+* `2:29:40 <https://www.youtube.com/watch?v=gz5kcS9zdAc&t=8980s>`_ AnthonyさんがツイッターでPyCon JPに行く人に「Pasmoを入れろ」「明治のチョコを買え」と書いてた。日本のお菓子は海外で人気?
+* `2:34:22 <https://www.youtube.com/watch?v=gz5kcS9zdAc&t=9262s>`_ 新しい型ヒントはmypyはいつ対応するんだろう?
+* `2:36:50 <https://www.youtube.com/watch?v=gz5kcS9zdAc&t=9410s>`_ 今後削除される標準ライブラリ
+* `2:45:14 <https://www.youtube.com/watch?v=gz5kcS9zdAc&t=9914s>`_ 今日のTシャツはアストロめくドロイドのTシャツ。「3.11でreモジュールにどんな機能が追加になったの?」
+* `2:58:20 <https://www.youtube.com/watch?v=gz5kcS9zdAc&t=10700s>`_ Python Boot Campにも正規表現が少しある。正規表現は難しい。正規表現を勉強したので仕事ではうるさい
+* `3:06:24 <https://www.youtube.com/watch?v=gz5kcS9zdAc&t=11184s>`_ Python 3.11でもライブラリの細かい変更がある。strのremovesuffix() removeprefix()は使う
+* `3:10:09 <https://www.youtube.com/watch?v=gz5kcS9zdAc&t=11409s>`_ PythonのWhat's Newだけでずっとしゃべっているのはマニアックだねよ

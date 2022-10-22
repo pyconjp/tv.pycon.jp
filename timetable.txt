@@ -22,4 +22,24 @@ https://www.youtube.com/watch?v=gz5kcS9zdAc
 0:57:20 Faster CPythonの中身としてどんなことをしたのか?
 1:01:20 【お便りコーナー】PyCon JP久しぶりのオンサイト開催で緊張しているが、うまくのりきるコツは?
 1:04:30 【次回予告】11月4日(金) 19:30から。テーマは「PyCon JP 2022振り返り」
-1:08:11 カシャプシュ 🍺 Hofbräu Oktoberfestbier
+1:08:11 カシャプシュ 🍺 Hofbräu Oktoberfestbier。Python 3.11の使いたいポイントは?
+1:17:10 tracebackのわかりやすさも実装面倒そうだけどとてもよい
+1:23:15 型ヒントって書いてる?
+1:27:28 Python Boot Camp in 新潟2ndの懇親会、イベントそのものの思い出
+1:39:05 Python Boot Campの講師としてペース配分が難しい
+1:43:20 🍺 Stone Enjoy By 10.31.22。新潟でpycampの次の日におどりのイベント(にいがた総おどり)があった
+1:51:45 最近のコンサートはブラボー禁止。ボディービル大会のかけ声。ブラボーのタイミング早い人やめてほしい
+2:03:27 What’s New In Python 3.11の続きで型ヒントまわりを読む。PEP 646: Variadic generics
+2:07:40 PEP 655: Marking individual TypedDict items as required or not-required
+2:09:20 PEP673: Selft type
+2:10:36 PEP 675: Arbitrary literal string type
+2:15:19 PEP 681: Data class transforms
+2:22:12 What's New In Pythonの読み方は人それぞれだが、慣れないと読み方がわからない。最初からスラスラ読めるわけじゃない
+2:24:43 Python 3.12に期待することは?PyCon JP 2022でAnthony Shawさんが「What's new in Python 3.11 and beyond」という発表が注目
+2:29:40 AnthonyさんがツイッターでPyCon JPに行く人に「Pasmoを入れろ」「明治のチョコを買え」と書いてた。日本のお菓子は海外で人気?
+2:34:22 新しい型ヒントはmypyはいつ対応するんだろう?
+2:36:50 今後削除される標準ライブラリ
+2:45:14 今日のTシャツはアストロめくドロイドのTシャツ。「3.11でreモジュールにどんな機能が追加になったの?」
+2:58:20 Python Boot Campにも正規表現が少しある。正規表現は難しい。正規表現を勉強したので仕事ではうるさい
+3:06:24 Python 3.11でもライブラリの細かい変更がある。strのremovesuffix() removeprefix()は使う
+3:10:09 PythonのWhat's Newだけでずっとしゃべっているのはマニアックだよね
