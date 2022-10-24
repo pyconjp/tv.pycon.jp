@@ -4,7 +4,9 @@
 
 2022年10月14日〜16日に開催されたPyCon JP 2022の様子をお伝えします。
 
-.. .. raw:: html
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/5tT4zNbKLHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
    
 
