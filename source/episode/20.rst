@@ -1,3 +1,7 @@
+:og:image: https://tv.pycon.jp/_images/episode20.jpg
+    
+.. |cover| image:: images/episode20.jpg
+
 ==========================================
  #20: PyCon JP 2022の楽しみ方 - 2022-09-02
 ==========================================

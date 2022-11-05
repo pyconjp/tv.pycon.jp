@@ -1,3 +1,7 @@
+:og:image: https://tv.pycon.jp/_images/episode22.jpg
+    
+.. |cover| image:: images/episode22.jpg
+
 =========================================
  #22: PyCon JP 2022振り返り - 2022-11-04
 =========================================
