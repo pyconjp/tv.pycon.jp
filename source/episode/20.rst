@@ -1,5 +1,5 @@
 :og:image: https://tv.pycon.jp/_images/episode20.jpg
-    
+
 .. |cover| image:: images/episode20.jpg
 
 ==========================================
