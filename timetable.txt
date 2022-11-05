@@ -1,45 +1,21 @@
-https://www.youtube.com/watch?v=gz5kcS9zdAc
-0:00:28 配信開始
-0:04:09 【Pythonニュース】PyCon JP 2022チケット発売中 https://pyconjp.connpass.com/event/255827/
-0:06:07 10月16日(日) Developer & Community Sprint https://pyconjp.connpass.com/event/260219/
-0:08:01 10月15日(土) PyCon JP 2022 Official Partyチケット https://pyconjp.connpass.com/event/261187/
-0:09:17 10月14日(金) PyLadies Caravan & Python Boot Campミートアップ 2022 https://pyconjp.connpass.com/event/260381/
-0:11:03 当日スタッフ募集中 https://pyconjp.blogspot.com/2022/09/pyconjp2022-conf-day-of-staff.html
-0:12:45 参加者Tシャツ発売中 https://pyconjp.blogspot.com/2022/09/PyConJP2022TshirtJ.html
-0:14:02 Python Boot Camp in 静岡県沼津市、新潟2ndを開催
-0:15:37 11月19日(土) PyLadies Caravan in 愛知 リターンズ!開催予定 https://pyladies-tokyo.connpass.com/event/260718/
-0:18:32 【メイントーク】Python 3.11の新機能を試す
-0:19:20 PEP 664 – Python 3.11のリリーススケジュール https://peps.python.org/pep-0664/
-0:22:12 What's New in Python 3.11のリリースハイライト https://docs.python.org/ja/3.11/whatsnew/3.11.html
-0:30:05 dead batteriesはPython 3.11からDeprecationWariningが出るようになる
-0:32:00 PEP 657: Enhanced error locations in tracebacks: エラーの発生した箇所がわかりやすくなる
-0:37:24 PEP 654: Exception Groups and except*: 複数の例外をまとめて出して受け取れるようになった
-0:41:48 PEP 678: Exceptions can be enriched with notes: 例外に備考が追加できるようになる
-0:46:20 Windows py.exe launcher improvements: Windowsのpyコマンドで色んなPythonが呼び出せるようになる
-0:47:50 標準ライブラリにtomllibが追加
-0:48:55 Faster CPython。平均でPython 3.10より25%高速化
-0:51:10 pyperformanceを手元で動作させた結果を共有
-0:57:20 Faster CPythonの中身としてどんなことをしたのか?
-1:01:20 【お便りコーナー】PyCon JP久しぶりのオンサイト開催で緊張しているが、うまくのりきるコツは?
-1:04:30 【次回予告】11月4日(金) 19:30から。テーマは「PyCon JP 2022振り返り」
-1:08:11 カシャプシュ 🍺 Hofbräu Oktoberfestbier。Python 3.11の使いたいポイントは?
-1:17:10 tracebackのわかりやすさも実装面倒そうだけどとてもよい
-1:23:15 型ヒントって書いてる?
-1:27:28 Python Boot Camp in 新潟2ndの懇親会、イベントそのものの思い出
-1:39:05 Python Boot Campの講師としてペース配分が難しい
-1:43:20 🍺 Stone Enjoy By 10.31.22。新潟でpycampの次の日におどりのイベント(にいがた総おどり)があった
-1:51:45 最近のコンサートはブラボー禁止。ボディービル大会のかけ声。ブラボーのタイミング早い人やめてほしい
-2:03:27 What’s New In Python 3.11の続きで型ヒントまわりを読む。PEP 646: Variadic generics
-2:07:40 PEP 655: Marking individual TypedDict items as required or not-required
-2:09:20 PEP673: Selft type
-2:10:36 PEP 675: Arbitrary literal string type
-2:15:19 PEP 681: Data class transforms
-2:22:12 What's New In Pythonの読み方は人それぞれだが、慣れないと読み方がわからない。最初からスラスラ読めるわけじゃない
-2:24:43 Python 3.12に期待することは?PyCon JP 2022でAnthony Shawさんが「What's new in Python 3.11 and beyond」という発表が注目
-2:29:40 AnthonyさんがツイッターでPyCon JPに行く人に「Pasmoを入れろ」「明治のチョコを買え」と書いてた。日本のお菓子は海外で人気?
-2:34:22 新しい型ヒントはmypyはいつ対応するんだろう?
-2:36:50 今後削除される標準ライブラリ
-2:45:14 今日のTシャツはアストロめくドロイドのTシャツ。「3.11でreモジュールにどんな機能が追加になったの?」
-2:58:20 Python Boot Campにも正規表現が少しある。正規表現は難しい。正規表現を勉強したので仕事ではうるさい
-3:06:24 Python 3.11でもライブラリの細かい変更がある。strのremovesuffix() removeprefix()は使う
-3:10:09 PythonのWhat's Newだけでずっとしゃべっているのはマニアックだよね
+https://www.youtube.com/watch?v=5tT4zNbKLHo
+0:00:47 配信開始
+0:04:30 【Pythonニュース】Python 3.11.0がリリース
+0:07:14  11月12日(土) DjangoCongress JPが開催予定
+0:08:18 11月17日(木) PyCon JP Associationの運営会議
+0:09:00 11月19日(土) Python Boot Camp in 香川2nd
+0:10:24 11月19日(土) PyLadies Caravan in 愛知 リターンズ!
+0:11:37 11月19日(土) PyLadies Tokyo - 8周年記念オンラインパーティ
+0:12:54 PyCon US 2023のProposal募集中
+0:14:40 Python Developers Survey 2022の回答募集中
+0:16:50 Python Software Foundation Fellow Members for Q3 2022にアジアから3名が選ばれた
+0:20:45 【メイントーク】PyCon JP 2022振り返り
+0:23:19 カンファレンス前日の様子。写真を見ながら、前日準備、Welcome Partyについて
+0:29:42 カンファレンス1日目の様子。会場の様子など
+0:35:15 カンファレンス1日目の夜。Python Boot Camp、PyLadiesパーティの様子。1日目どうでした?
+0:39:14 カンファレンス2日目。キーノート、歴代PyCon JP座長全員集合、クロージング、パーティーの様子
+0:46:20 2日目どうでした?発表とsli.doでの質疑応答、機材トラブル
+0:52:20 PyCon JP 2022 Reportビデオの紹介。写真、ビデオはオフィシャルで今後公開予定
+0:54:08 PyCon JP 2022 TシャツとスピーカーTシャツ
+0:56:47 【次回予告】12月2日(金) 19:30。テーマは「Python Boot Campのテキスト」を紹介
+1:00:54 カシャプシュ 🍺 志賀高原 Fresh Hop IPA 2022
