@@ -46,7 +46,16 @@ PyCon JP 2022振り返り
 
 飲みトーク
 ----------
-* 🍺 `Fresh Hop IPA <http://tamamura-honten.co.jp/?pid=163410035>`_
+* 🍺 志賀高原 `Fresh Hop IPA <http://tamamura-honten.co.jp/?pid=163410035>`_
+* `Thule <https://www.thule.com/ja-jp/>`_  
+* 🍺 `澄川麦酒 セッションIPA <https://www.sumikawa-beer.co.jp/intro/session-ipa/>`_
+* 🍺 `サッポロビール ファイブスター <https://www.sapporobeer.jp/product/beer/fivestar/>`_
+* `COEDO BREWERY <https://coedobrewery.com/>`_
+* 🍺 `サンクトガーレン タップルーム1周年記念ビール「Arigato Nya～ England IPA」 <https://www.sanktgallenbrewery.com/index.php?d=blog&type=article&art_id=1795>`_
+* ビデオ `PyCon JP 2022 Report <https://www.youtube.com/watch?v=VbOgBIhdbf4>`_
+* 🍺 `北海道麦酒醸造 <http://hokkaidobeer.com/>`_ オタルエール
+* `ドキュメント72時間 - NHK <https://www.nhk.jp/p/72hours/ts/W3W8WRN8M3/>`_
+* `キヤノンの自動撮影カメラ｜PowerShot PICK <https://cweb.canon.jp/camera/dcam/lineup/powershot/pick/>`_
 
 目次
 ====
@@ -69,5 +78,29 @@ PyCon JP 2022振り返り
 * `0:52:20 <https://www.youtube.com/watch?v=5tT4zNbKLHo&t=3140s>`_ PyCon JP 2022 Reportビデオの紹介。写真、ビデオはオフィシャルで今後公開予定
 * `0:54:08 <https://www.youtube.com/watch?v=5tT4zNbKLHo&t=3248s>`_ PyCon JP 2022 TシャツとスピーカーTシャツ
 * `0:56:47 <https://www.youtube.com/watch?v=5tT4zNbKLHo&t=3407s>`_ 【次回予告】12月2日(金) 19:30。テーマは「Python Boot Campのテキスト」を紹介
-* `1:00:54 <https://www.youtube.com/watch?v=5tT4zNbKLHo&t=3654s>`_ カシャプシュ 🍺 志賀高原 Fresh Hop IPA 2022
+* `1:00:54 <https://www.youtube.com/watch?v=5tT4zNbKLHo&t=3654s>`_ カシャプシュ 🍺 志賀高原 Fresh Hop IPA 2022、2日目はブースにいたのでなにも撮影していない
+* `1:04:08 <https://www.youtube.com/watch?v=5tT4zNbKLHo&t=3848s>`_ PyCon JP 2022ステッカーとパンフレット。デカいステッカーはなにに使うの?
+* `1:05:45 <https://www.youtube.com/watch?v=5tT4zNbKLHo&t=3945s>`_ Thule(スーリー)のジッパータブがヨーロッパで壊れた取り寄せてくれてうれしい。軽い大きなスーツケースを買った。撮影機材が増えたので国内でも荷物が多い
+* `1:12:10 <https://www.youtube.com/watch?v=5tT4zNbKLHo&t=4330s>`_ 🍺 澄川麦酒 セッションIPA
+* `1:13:56 <https://www.youtube.com/watch?v=5tT4zNbKLHo&t=4436s>`_ PyCon JP 2022中は毎晩飲みました
+* `1:16:40 <https://www.youtube.com/watch?v=5tT4zNbKLHo&t=4600s>`_ 【たかのりの写真】カンファレンス前日。Welcome Partyのだんどりは大変
+* `1:19:41 <https://www.youtube.com/watch?v=5tT4zNbKLHo&t=4781s>`_ カンファレンス1日目。会場近くに飲める店がない。当日偶然集まったメンツで飲みに行くのいいよね
+* `1:26:44 <https://www.youtube.com/watch?v=5tT4zNbKLHo&t=5204s>`_ 1日目の飲み以外の話。Mark Shannonさんのキーノート
+* `1:30:00 <https://www.youtube.com/watch?v=5tT4zNbKLHo&t=5400s>`_ 🍺 サッポロビール ファイブスター。キーノートの話の続き
+* `1:35:40 <https://www.youtube.com/watch?v=5tT4zNbKLHo&t=5740s>`_ カンファレンス2日目。パーティーのコエドビールは一瞬で消えた。二次会のあとさらに飲みに行った
+* `1:52:30 <https://www.youtube.com/watch?v=5tT4zNbKLHo&t=6750s>`_ 🍺 サンクトガーレン Arigato Nya～ England IPA
+* `1:55:53 <https://www.youtube.com/watch?v=5tT4zNbKLHo&t=6953s>`_ カンファレンス3日目。スプリント会場の様子。夜は和風居酒屋へ
+* `2:05:15 <https://www.youtube.com/watch?v=5tT4zNbKLHo&t=7515s>`_ チャットのコメントを拾う。マスクだと誰が誰かわからない。イベントTシャツに名前を入れよう
+* `2:15:51 <https://www.youtube.com/watch?v=5tT4zNbKLHo&t=8151s>`_ 【レポートビデオ】前日会場準備、Welcome Party、Day 1
+* `2:28:49 <https://www.youtube.com/watch?v=5tT4zNbKLHo&t=8929s>`_ ビデオ後半。撮影は楽しいが練習は大変。動画編集の進め方。テロップが大変
+* `2:38:23 <https://www.youtube.com/watch?v=5tT4zNbKLHo&t=9503s>`_ ステッカー貼ってください！MacBook Pro 14inch仲間
+* `2:40:25 <https://www.youtube.com/watch?v=5tT4zNbKLHo&t=9625s>`_ 🍺 北海道麦酒醸造 オタルエール。🍺 West Coast Brewing Campfire Stories
+* `2:40:43 <https://www.youtube.com/watch?v=5tT4zNbKLHo&t=9643s>`_ インタービュー動画の練習。どういうインタビュー動画が面白いか
+* `2:54:42 <https://www.youtube.com/watch?v=5tT4zNbKLHo&t=10482s>`_ 固定カメラを置いて一言動画を撮るのはどうか？カチンコがあると便利そう
+* `3:01:06 <https://www.youtube.com/watch?v=5tT4zNbKLHo&t=10866s>`_ ヒーローインタビューで誘導する感じは面白くないよね
+* `3:07:45 <https://www.youtube.com/watch?v=5tT4zNbKLHo&t=11265s>`_ インタビューの経験が足りない。しゃべりたい人に来てもらう仕組みもできるといいな
+* `3:14:36 <https://www.youtube.com/watch?v=5tT4zNbKLHo&t=11676s>`_ まだ見ぬ面白い人と出会いたい。NHKの「ドキュメント72時間」のイメージ。USのオープンスペースでしゃべってもらうの良かった
+* `3:21:10 <https://www.youtube.com/watch?v=5tT4zNbKLHo&t=12070s>`_ キャノンの置いておくだけのカメラをパーティーに置いておくとか？プリントもしよう
+* `3:25:01 <https://www.youtube.com/watch?v=5tT4zNbKLHo&t=12301s>`_ 来月はどんな感じでやろうか？
+
 
