@@ -4,9 +4,9 @@
 
 Python Boot Campのテキスト前半の内容を主に使いながら、プログラミング言語Pythonの入門的な内容について解説します。
 
-.. .. raw:: html
+.. raw:: html
 
-   (YouTubeの埋め込みリンク)
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/VF61wAwDpbY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 関連リンク
 ==========
