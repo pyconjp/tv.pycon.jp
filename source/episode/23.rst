@@ -21,12 +21,22 @@ Python Boot Campのテキスト前半の内容を主に使いながら、プロ�
 
 Pythonニュース
 --------------
-* TBD
+* `PyCon JP Blog: PyCon JP 2023 座長決定 <https://pyconjp.blogspot.com/2022/11/pyconjp-2023-chair.html>`_
+* `PyCon JP Blog: PyLadies Caravan in 愛知 リターンズ！！ を開催しました！ <https://pyconjp.blogspot.com/2022/11/pyladies-caravan-aichi2.html>`_
+* `PyCon JP Blog: 「Python Boot Camp in 香川 2nd」を開催しました！ <https://pyconjp.blogspot.com/2022/11/pycamp-in-kagawa-2nd.html>`_
+* `PyCon JP Blog: PyCon JP 2022 会場風景とインタビュー動画の公開 <https://pyconjp.blogspot.com/2022/11/pycon-jp-2022-report-video.html>`_
+* `Pythonのカレンダー | Advent Calendar 2022 - Qiita <https://qiita.com/advent-calendar/2022/python>`_
+* `We are now accepting talk and workshop proposals for PyCon PH 2023! We're looking forward to all your submissions 🤩 🔗 https://t.co/GkW6nM1OR8 #pythonph #pycon #pyconph #pyconph2023 <https://twitter.com/pythonph/status/1594659387678855168>`_
+* `Proposal Guidelines - PyCon US 2023 <https://us.pycon.org/2023/speaking/guidelines/>`_
+* `Python Insider: Python 3.12.0 alpha 2 released <https://pythoninsider.blogspot.com/2022/11/python-3120-alpha-2-released.html>`_
 
 Python Boot CampテキストでPythonに入門しよう
 --------------------------------------------
 * `Python Boot Camp(初心者向けPythonチュートリアル) <https://www.pycon.jp/support/bootcamp.html>`_
 * `Python Boot Camp Text ドキュメント <https://pycamp.pycon.jp/index.html>`_
+
+  * `1. Pythonをはじめる前に <https://pycamp.pycon.jp/textbook/1_install.html>`_
+  * `2. Pythonをはじめよう <https://pycamp.pycon.jp/textbook/2_intro.html>`_
 
 飲みトーク
 ----------
@@ -34,4 +44,29 @@ Python Boot CampテキストでPythonに入門しよう
 
 目次
 ====
-* TBD
+* `0:01:04 <https://www.youtube.com/watch?v=VF61wAwDpbY&t=64s>`_ 配信開始
+* `0:06:00 <https://www.youtube.com/watch?v=VF61wAwDpbY&t=360s>`_ 【Pythonニュース】PyCon JP 2023の座長が決定
+* `0:07:30 <https://www.youtube.com/watch?v=VF61wAwDpbY&t=450s>`_ PyLadies Caravan in 愛知リータンズ！！が開催
+* `0:08:45 <https://www.youtube.com/watch?v=VF61wAwDpbY&t=525s>`_ Python Boot Camp in 香川2ndが開催
+* `0:09:20 <https://www.youtube.com/watch?v=VF61wAwDpbY&t=560s>`_ PyCon JP 2022 会場風景とインタビューの動画を公開
+* `0:10:14 <https://www.youtube.com/watch?v=VF61wAwDpbY&t=614s>`_ Python Advent Calendar 2022が開催
+* `0:11:26 <https://www.youtube.com/watch?v=VF61wAwDpbY&t=686s>`_ PyCon Philippines 2023のプロポーザル募集中
+* `0:13:20 <https://www.youtube.com/watch?v=VF61wAwDpbY&t=800s>`_ PyCon US 2023プロポーザルまもなく締め切り
+* `0:14:05 <https://www.youtube.com/watch?v=VF61wAwDpbY&t=845s>`_ PyThon 3.12.0 alpha 2がリリース
+* `0:15:30 <https://www.youtube.com/watch?v=VF61wAwDpbY&t=930s>`_ 【メイントーク】 Python Boot CampテキストでPythonに入門しよう
+* `0:16:33 <https://www.youtube.com/watch?v=VF61wAwDpbY&t=993s>`_ Python Boot Campのテキスト( https://pycamp.pycon.jp/ )を紹介
+* `0:18:35 <https://www.youtube.com/watch?v=VF61wAwDpbY&t=1115s>`_ 講師の時ってどういう画面構成にしている?
+* `0:20:07 <https://www.youtube.com/watch?v=VF61wAwDpbY&t=1207s>`_ 「1. Pythonをはじめる前に」事前準備のテキストについて。ターミナルなにを使う?
+* `0:23:30 <https://www.youtube.com/watch?v=VF61wAwDpbY&t=1410s>`_ Windowsのインストールで「Add python.exe to PATH」のチェック忘れがち
+* `0:28:23 <https://www.youtube.com/watch?v=VF61wAwDpbY&t=1703s>`_ 「2. Pythonをはじめよう」の解説
+* `0:30:40 <https://www.youtube.com/watch?v=VF61wAwDpbY&t=1840s>`_ pythonの対話モードを立ち上げる、数値の計算、変数
+* `0:34:15 <https://www.youtube.com/watch?v=VF61wAwDpbY&t=2055s>`_ 文字列、リスト、コメントを紹介
+* `0:39:15 <https://www.youtube.com/watch?v=VF61wAwDpbY&t=2355s>`_ 最初の山場「関数」。インデントの説明、記号、書き方が初めてだと難しい
+* `0:44:52 <https://www.youtube.com/watch?v=VF61wAwDpbY&t=2692s>`_ 便利な「組み込み関数」。たくさんあるので「こんなのないかな?」と探すのが大事
+* `0:47:22 <https://www.youtube.com/watch?v=VF61wAwDpbY&t=2842s>`_ 参加者コメント「Excel関数でハードルが下がっているのでは」「defの1文字目を大文字にする人」
+* `0:48:15 <https://www.youtube.com/watch?v=VF61wAwDpbY&t=2895s>`_ 「FizzBuzz」はTA、スタッフと一緒にやっている
+* `0:50:10 <https://www.youtube.com/watch?v=VF61wAwDpbY&t=3010s>`_ テキストエディターが初めて出てくる、参加者がハマるのでTAの出番
+* `0:53:18 <https://www.youtube.com/watch?v=VF61wAwDpbY&t=3198s>`_ Pythonの世界(対話モード)とOSの世界のどっちにいるのかがわかりにくい
+* `0:55:20 <https://www.youtube.com/watch?v=VF61wAwDpbY&t=3320s>`_ fizzbuzzを作っていく流れ。Python Tutorを使っての動作の説明
+* `1:00:10 <https://www.youtube.com/watch?v=VF61wAwDpbY&t=3610s>`_ メイントークまとめ。この次はデータ型
+* `1:01:45 <https://www.youtube.com/watch?v=VF61wAwDpbY&t=3705s>`_ 【次回予告】1月13日(金) 20:00。2022どうだったか、2023の展望をアンケートをもとに
