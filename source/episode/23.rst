@@ -40,7 +40,16 @@ Python Boot CampテキストでPythonに入門しよう
 
 飲みトーク
 ----------
-* TBD
+* 🍺 `Budweiser <https://www.budweiser.jp/>`_
+* 🍺 `オリオン ザ・プレミアム <https://www.orionbeer.co.jp/brand/thepremium/>`_
+* `Welcome - Sphinx documentation <https://www.sphinx-doc.org/en/master/>`_
+* 🍺 `サンクトガーレン 感謝の生 <https://www.sanktgallenbrewery.com/beers/kansha/#unit-6428>`_
+* `sphinxext-opengraph 1.0 documentation <https://sphinxext-opengraph.readthedocs.io/en/latest/>`_
+* `myst-parser <https://myst-parser.readthedocs.io/en/latest/>`_
+* 🍺 `サントリー ビアボール <https://www.suntory.co.jp/beer/beerball/>`_
+* 🍺 `サンクトガーレン un Angel <https://www.sanktgallenbrewery.com/beers/wheat-wine/>`_
+* 🍺 `サンクトガーレン el Diablo <https://www.sanktgallenbrewery.com/beers/el-diablo/>`_
+* `道後オレンジ・エール <https://www.dogobeer.co.jp/product05/>`_
 
 目次
 ====
@@ -70,3 +79,28 @@ Python Boot CampテキストでPythonに入門しよう
 * `0:55:20 <https://www.youtube.com/watch?v=VF61wAwDpbY&t=3320s>`_ fizzbuzzを作っていく流れ。Python Tutorを使っての動作の説明
 * `1:00:10 <https://www.youtube.com/watch?v=VF61wAwDpbY&t=3610s>`_ メイントークまとめ。この次はデータ型
 * `1:01:45 <https://www.youtube.com/watch?v=VF61wAwDpbY&t=3705s>`_ 【次回予告】1月13日(金) 20:00。2022どうだったか、2023の展望をアンケートをもとに
+* `1:05:30 <https://www.youtube.com/watch?v=VF61wAwDpbY&t=3930s>`_ カシャプシュ 🍺 バドワイザー。ワールドカップの日本スペイン戦見ました?
+* `1:09:55 <https://www.youtube.com/watch?v=VF61wAwDpbY&t=4195s>`_ 2022年のPython Boot Campの話。2023年もたくさん開催したい。北海道全部制覇したい
+* `1:19:40 <https://www.youtube.com/watch?v=VF61wAwDpbY&t=4780s>`_ Python Boot Campの都道府県ごとの開催回数
+* `1:23:20 <https://www.youtube.com/watch?v=VF61wAwDpbY&t=5000s>`_ Python Boot Camp in 香川のスタッフ、参加者はどんな感じ?
+* `1:25:35 <https://www.youtube.com/watch?v=VF61wAwDpbY&t=5135s>`_ 🍺 オリオン ザ・プレミアム。沖縄の酵母を使っているビール。あちこちでビールが売っていてお土産にいいよね
+* `1:30:30 <https://www.youtube.com/watch?v=VF61wAwDpbY&t=5430s>`_ 駅に現地のお酒が飲んで変える店が増えている
+* `1:32:35 <https://www.youtube.com/watch?v=VF61wAwDpbY&t=5555s>`_ 質問「Python Boot CampのページはDjangoでできているんですか?」→Sphinxで書いてread the docsでホストしています
+* `1:39:15 <https://www.youtube.com/watch?v=VF61wAwDpbY&t=5955s>`_ 🍺 サンクトガーレン 感謝ビール＜黒＞。Python Boot Camp裏話、どうやって回しているか
+* `1:45:40 <https://www.youtube.com/watch?v=VF61wAwDpbY&t=6340s>`_ 質問「read the docsは無料で公開できるのか?」→リポジトリが公開であれば公開できます
+* `1:48:28 <https://www.youtube.com/watch?v=VF61wAwDpbY&t=6508s>`_ 拡張機能の sphinxext-opengraph が便利。og:descriptionとかがいい感じに入る
+* `1:52:45 <https://www.youtube.com/watch?v=VF61wAwDpbY&t=6765s>`_ myst-parserを入れてmarkdownで書けるようにするのがおすすめ
+* `1:54:20 <https://www.youtube.com/watch?v=VF61wAwDpbY&t=6860s>`_ 🍺 サントリー ビアボール。炭酸水で割るビール。不思議な味わい
+* `2:04:15 <https://www.youtube.com/watch?v=VF61wAwDpbY&t=7455s>`_ 泡盛のミニボトル飲み比べ。スタッフのnanaがPython Boot Campに参加してスイッチが入った。参加してみた感想
+* `2:08:20 <https://www.youtube.com/watch?v=VF61wAwDpbY&t=7700s>`_ 講義だとlistとtupleの重要さの温度感が伝えやすい。読み返すと読めるようになるページがほしい。たとえ話をTAに振ってアイデアをもらう
+* `2:15:00 <https://www.youtube.com/watch?v=VF61wAwDpbY&t=8100s>`_ 最初の受講者の自己紹介のネタを使って「ここで使えるよね」という話をしている。Python対話モードの終了方法。venvの無効化はわかりにくいよね
+* `2:19:25 <https://www.youtube.com/watch?v=VF61wAwDpbY&t=8365s>`_ Raspberry Piで講義をやるとしたら、ハードをどう用意するか?環境にColaboratory、Codespacesとかを使う?
+* `2:23:20 <https://www.youtube.com/watch?v=VF61wAwDpbY&t=8600s>`_ ビアボールをストレートで飲む。ストレートの方がおいしい。サンクトガーレンのウルアンヘルとエアディアブロの話
+* `2:28:10 <https://www.youtube.com/watch?v=VF61wAwDpbY&t=8890s>`_ そのうちビアボールの缶が出るのでは。檸檬堂のバリエーション。ビアボールはプレミアムとかは名前に入れていない
+* `2:35:48 <https://www.youtube.com/watch?v=VF61wAwDpbY&t=9348s>`_ Python Boot Camp Tシャツはかわいい。TA、現地スタッフとして2回貢献してくれるとTシャツを渡している。pycamp Tシャツ持っている人はみんな着てくる
+* `2:39:30 <https://www.youtube.com/watch?v=VF61wAwDpbY&t=9570s>`_ 2022バージョンは背中のデザインに悩んだ。背中のコードはスクレイピング
+* `2:42:08 <https://www.youtube.com/watch?v=VF61wAwDpbY&t=9728s>`_ 🍺 道後オレンジ・エール。はだか麦ってなに?
+* `2:44:30 <https://www.youtube.com/watch?v=VF61wAwDpbY&t=9870s>`_ 「どうやったらPyCon JPとつながれるか?」→PyCon JP TVも接点の一つ。PyCon JPのスタッフになるなど→PyCon JPはPython関連の全コミュニティの受け皿
+* `2:50:50 <https://www.youtube.com/watch?v=VF61wAwDpbY&t=10250s>`_ PyCon JP、PyCon USはメタコミュニティ
+* `2:56:01 <https://www.youtube.com/watch?v=VF61wAwDpbY&t=10561s>`_ 今日は酒トークが盛り上がった。ワールドカップの話
+* `3:01:00 <https://www.youtube.com/watch?v=VF61wAwDpbY&t=10860s>`_ 年末ですね
