@@ -7,9 +7,9 @@
 
 Sphinxの紹介、インストールから、カスタマイズをして実際にWebサイトとして公開するまでの手順をデモを中心に紹介します。
 
-.. .. raw:: html
+.. raw:: html
 
-   (YouTubeの埋め込みリンク)
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/U8nW6FMUPvE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 関連リンク
 ==========
