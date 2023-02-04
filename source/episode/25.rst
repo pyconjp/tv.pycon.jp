@@ -24,16 +24,79 @@ Sphinxの紹介、インストールから、カスタマイズをして実際�
 
 Pythonニュース
 --------------
-* TBD
+* 国内イベント関連
+
+  * `PyCon JP Blog: PyCon JP 2023 スタッフ募集のお知らせ <https://pyconjp.blogspot.com/2023/01/pycon-jp-2023.html>`_
+  * `PyCon JP Blog: 一般社団法人PyCon JP Associationの理事を募集します(2023年2月改選) <https://pyconjp.blogspot.com/2023/02/ecruitment-of-board-mmbers.html>`_
+  * `PyCon JP Blog: PyCon JP地域開催サポートプログラムが始動します。 <https://pyconjp.blogspot.com/2023/01/pycon-jp-regional-event-support.html>`_
+* 海外イベント関連
+
+  * PyCon US 2023のアーリーバードが売り切れ: `Registration Information - PyCon US 2023 <https://us.pycon.org/2023/attend/information/>`_
+  * `EuroPython 2023 | July 17th-23rd 2023 | Prague, Czech Republic & Remote <https://ep2023.europython.eu/>`_
+* その他
+
+  * `Python Software Foundation News: The PSF is hiring a Security Developer-in-Residence! <https://pyfound.blogspot.com/2023/01/the-psf-is-hiring-security-developer-in.html>`_
+  * `Blog - SQLAlchemy <https://www.sqlalchemy.org/blog/2023/01/26/sqlalchemy-2.0.0-released/>`_
 
 Sphinxライブデモ
 ----------------
-* TBD
+* Sphinxとは
 
+  * `ようこそ! — Sphinx documentation <https://www.sphinx-doc.org/ja/master/>`_
+  * `Sphinxを使用しているプロジェクト — Sphinx documentation <https://www.sphinx-doc.org/ja/master/examples.html>`_
+  * `3.11.1 Documentation <https://docs.python.org/ja/3/>`_
+  * `Flake8: Your Tool For Style Guide Enforcement — flake8 6.0.0 documentation <https://flake8.pycqa.org/en/latest/>`_
+  * `PEP 0 – Index of Python Enhancement Proposals (PEPs) | peps.python.org <https://peps.python.org/>`_
+  * `takanory slides <https://slides.takanory.net/>`_
+* Quickstart
+
+  * `reStructuredText入門 — Sphinx documentation <https://www.sphinx-doc.org/ja/master/usage/restructuredtext/basics.html>`_
+* Sphinxカスタマイズ
+
+  * `HTML Theming — Sphinx documentation <https://www.sphinx-doc.org/en/master/usage/theming.html>`_
+* markdown対応
+
+  * `MyST - Markedly Structured Text - Parser <https://myst-parser.readthedocs.io/en/latest/>`_
+* サードパーティのテーマを利用
+
+  * `Sphinx Themes Gallery <https://sphinx-themes.org/>`_
+  * `Read the Docs Sphinx Theme <https://sphinx-rtd-theme.readthedocs.io/en/stable/index.html>`_
+  * `Furo <https://pradyunsg.me/furo/#>`_
+* Read the Docsにデプロイ
+
+  * `Home | Read the Docs <https://readthedocs.org/>`_
+* Sphinxを拡張
+
+  * `Extensions — Sphinx documentation <https://www.sphinx-doc.org/en/master/usage/extensions/index.html>`_
+  * `yoloseem/awesome-sphinxdoc: A curated list of awesome tools for Sphinx Python Documentation Generator <https://github.com/yoloseem/awesome-sphinxdoc>`_
+  * `sphinxext-opengraph 1.0 documentation <https://sphinxext-opengraph.readthedocs.io/en/latest/>`_
+  * `Sphinx-copybutton — Sphinx Copybutton <https://sphinx-copybutton.readthedocs.io/en/latest/>`_
+    
 飲みトーク
 ----------
 * TBD
 
 目次
 ====
-* TBD
+* `0:00:31 <https://www.youtube.com/watch?v=U8nW6FMUPvE&t=31s>`_ 配信開始、コメント募集「開発ドキュメントは何で書いてる？」
+* `0:06:03 <https://www.youtube.com/watch?v=U8nW6FMUPvE&t=363s>`_ 【Pythonニュース】PyCon JP 2023スタッフ募集のお知らせ
+* `0:07:51 <https://www.youtube.com/watch?v=U8nW6FMUPvE&t=471s>`_ 一瞬切断して設定調整
+* `0:09:53 <https://www.youtube.com/watch?v=U8nW6FMUPvE&t=593s>`_ PyCon JP Associationの理事募集
+* `0:11:40 <https://www.youtube.com/watch?v=U8nW6FMUPvE&t=700s>`_ PyCon JP地域開催サポートプログラムが始動
+* `0:13:08 <https://www.youtube.com/watch?v=U8nW6FMUPvE&t=788s>`_ PyCon US 2023のアーリーバードチケットが売り切れ
+* `0:14:16 <https://www.youtube.com/watch?v=U8nW6FMUPvE&t=856s>`_ EuroPython 2023の開催地はチェコ、プラハに決定
+* `0:15:42 <https://www.youtube.com/watch?v=U8nW6FMUPvE&t=942s>`_ PSFがSecurity Developer-in-Residenceを募集中
+* `0:17:52 <https://www.youtube.com/watch?v=U8nW6FMUPvE&t=1072s>`_ SQLAlchemy 2.0がリリース
+* `0:20:42 <https://www.youtube.com/watch?v=U8nW6FMUPvE&t=1242s>`_ 【メイントーク】Sphinxライブデモ
+* `0:22:04 <https://www.youtube.com/watch?v=U8nW6FMUPvE&t=1324s>`_ Sphinxの紹介、利用しているWebサイトの例
+* `0:25:11 <https://www.youtube.com/watch?v=U8nW6FMUPvE&t=1511s>`_ GitHubでリポジトリ作成、clone、Sphinxインストール、quickstart、make htmlまで
+* `0:30:59 <https://www.youtube.com/watch?v=U8nW6FMUPvE&t=1859s>`_ Sphinxカスタマイズ: テーマ変更、ロゴ追加
+* `0:33:43 <https://www.youtube.com/watch?v=U8nW6FMUPvE&t=2023s>`_ myst-parserでmarkdown対応
+* `0:38:23 <https://www.youtube.com/watch?v=U8nW6FMUPvE&t=2303s>`_ サードパーティのテーマを利用: Read the Docs Sphinx Theme、Furo
+* `0:41:45 <https://www.youtube.com/watch?v=U8nW6FMUPvE&t=2505s>`_ GitHubにpush、Read the Docsにデプロイ
+* `0:50:37 <https://www.youtube.com/watch?v=U8nW6FMUPvE&t=3037s>`_ Sphinxを拡張: sphinxet-opengraph、sphinx-copybutton
+* `0:55:12 <https://www.youtube.com/watch?v=U8nW6FMUPvE&t=3312s>`_ Read the DocsでビルドされてWebサイトができた！
+* `0:58:29 <https://www.youtube.com/watch?v=U8nW6FMUPvE&t=3509s>`_ Sphinxライブデモまとめ
+* `1:00:23 <https://www.youtube.com/watch?v=U8nW6FMUPvE&t=3623s>`_ ピザ到着
+* `1:01:21 <https://www.youtube.com/watch?v=U8nW6FMUPvE&t=3681s>`_ 次回は3月3日(金)内容は未定
+* `1:03:08 <https://www.youtube.com/watch?v=U8nW6FMUPvE&t=3788s>`_ カシャプシュ 🍺 ゆずフレッシュ
