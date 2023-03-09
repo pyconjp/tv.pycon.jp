@@ -21,3 +21,14 @@ https://www.youtube.com/watch?v=U8nW6FMUPvE
 1:00:23 ピザ到着
 1:01:21 次回は3月3日(金)内容は未定
 1:03:08 カシャプシュ 🍺 ゆずフレッシュ
+1:06:39 編集ボタンを押すとGitHubで編集できる。docstring書いておくとAPIドキュメントが作れる
+1:11:03 PDFのビルド。Kindleのmobiは作れる？
+1:14:55 ハンバーガーピザ
+1:17:21 VuePressのはなし。sphinxのbuildはどこで実行する？
+1:22:49 Sphinxの検索とread the docsでの検索
+1:25:59 Sphinxを使ったドキュメントの翻訳
+1:29:39 🍺 フェストビール。reStructredTextでは書かない？自分用reSTチートシート作りましょう
+1:39:21 PyCon JP 2023のスタッフ業。本を書くときもSphinx。TraceryはMarkdown
+1:44:49 markdownの拡張方法。GitHubのmarkdown方言
+1:47:11 Sphinxのおすすめ拡張sphinx_design、sphinx-pyscript
+1:57:03 myst-parserがすごい話

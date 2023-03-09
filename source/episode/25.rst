@@ -104,3 +104,14 @@ Sphinxライブデモ
 * `1:00:23 <https://www.youtube.com/watch?v=U8nW6FMUPvE&t=3623s>`_ ピザ到着
 * `1:01:21 <https://www.youtube.com/watch?v=U8nW6FMUPvE&t=3681s>`_ 次回は3月3日(金)内容は未定
 * `1:03:08 <https://www.youtube.com/watch?v=U8nW6FMUPvE&t=3788s>`_ カシャプシュ 🍺 ゆずフレッシュ
+* `1:06:39 <https://www.youtube.com/watch?v=U8nW6FMUPvE&t=3999s>`_ 編集ボタンを押すとGitHubで編集できる。docstring書いておくとAPIドキュメントが作れる
+* `1:11:03 <https://www.youtube.com/watch?v=U8nW6FMUPvE&t=4263s>`_ PDFのビルド。Kindleのmobiは作れる？
+* `1:14:55 <https://www.youtube.com/watch?v=U8nW6FMUPvE&t=4495s>`_ ハンバーガーピザ
+* `1:17:21 <https://www.youtube.com/watch?v=U8nW6FMUPvE&t=4641s>`_ VuePressのはなし。sphinxのbuildはどこで実行する？
+* `1:22:49 <https://www.youtube.com/watch?v=U8nW6FMUPvE&t=4969s>`_ Sphinxの検索とread the docsでの検索
+* `1:25:59 <https://www.youtube.com/watch?v=U8nW6FMUPvE&t=5159s>`_ Sphinxを使ったドキュメントの翻訳
+* `1:29:39 <https://www.youtube.com/watch?v=U8nW6FMUPvE&t=5379s>`_ 🍺 フェストビール。reStructredTextでは書かない？自分用reSTチートシート作りましょう
+* `1:39:21 <https://www.youtube.com/watch?v=U8nW6FMUPvE&t=5961s>`_ PyCon JP 2023のスタッフ業。本を書くときもSphinx。TraceryはMarkdown
+* `1:44:49 <https://www.youtube.com/watch?v=U8nW6FMUPvE&t=6289s>`_ markdownの拡張方法。GitHubのmarkdown方言
+* `1:47:11 <https://www.youtube.com/watch?v=U8nW6FMUPvE&t=6431s>`_ Sphinxのおすすめ拡張sphinx_design、sphinx-pyscript
+* `1:57:03 <https://www.youtube.com/watch?v=U8nW6FMUPvE&t=7023s>`_ myst-parserがすごい話
