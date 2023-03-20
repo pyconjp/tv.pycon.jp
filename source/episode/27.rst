@@ -7,9 +7,9 @@
 そこで、今回のPyCon JP TVでは、パーソナリティの寺田が実際にPython 公式ドキュメントを調べながら、サンプルとなるプログラムを実装するところをお伝えします。
 開発時にドキュメントの探し方などのヒントになればと思います。
 
-.. .. raw:: html
+.. raw:: html
 
-   (YouTubeの埋め込みリンク)
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/MYUsAS3heuQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 関連リンク
 ==========
