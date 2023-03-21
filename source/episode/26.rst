@@ -21,16 +21,54 @@
 
 Pythonニュース
 --------------
-* TBD
+* 国内イベント
 
-(メイントークタイトル)
-----------------------
-* TBD
+  * `PyCon JP Blog: オープンソースカンファレンスでPython初心者向けミーティングを実施します <https://pyconjp.blogspot.com/2023/02/pycamp-caravan-osc-2023-spring.html>`_
+  * `PyLadies Tokyo Meetup #79 [共同開催]PyLadies Caravan - connpass <https://pyladies-tokyo.connpass.com/event/275929/>`_
+* 海外イベント
+
+  * `PyCon US 2023 のタイムテーブル <https://us.pycon.org/2023/schedule/>`_
+  * `CFP - EuroPython 2023 | Prague, Czech Republic & Remote <https://ep2023.europython.eu/cfp>`_
+  * `Call for Proposals | PyCon TW 2023 <https://tw.pycon.org/2023/en-us/speaking/cfp>`_
+  * `PyCon AU 2023 <https://2023.pycon.org.au/>`_
+  * `PyCon KR 2023 <https://2023.pycon.kr/>`_
+* その他
+
+  * `Python Insider: Python 3.11.2, Python 3.10.10 and 3.12.0 alpha 5 are available <https://blog.python.org/2023/02/python-3112-python-31010-and-3120-alpha.html>`_
+  * `Python Insider: Python 3.12.0 alpha 6 released <https://blog.python.org/2023/03/python-3120-alpha-6-released.html>`_
+
+PyCon JP Association 理事ってどんなことしてるの？
+-------------------------------------------------
+* `一般社団法人PyCon JP Associationについて <https://www.pycon.jp/committee/index.html>`_
+* `一般社団法人PyCon JP Association理事インタビュー2023 ダイジェスト版 - YouTube <https://www.youtube.com/watch?v=gr9t-P9CrsM>`_
+* `一般社団法人PyCon JP Association理事インタビュー2023 ノーカット版 - YouTube <https://www.youtube.com/watch?v=f1IUl10xvE0>`_
 
 飲みトーク
 ----------
-* TBD
+* 🍺 `旅のはじまりのビール <https://tabibeer.theshop.jp/>`_
 
 目次
 ====
-* TBD
+* `0:00:18 <https://www.youtube.com/watch?v=Ixf7A1gIEO8&t=18s>`_ 配信開始。コメント募集「10年前は何やってましたか？」
+* `0:03:59 <https://www.youtube.com/watch?v=Ixf7A1gIEO8&t=239s>`_ 【Pythonニュース】オープンソースカンファレンスで「Python初心者向けミーティング」開催予定
+* `0:05:51 <https://www.youtube.com/watch?v=Ixf7A1gIEO8&t=351s>`_ PyLadies Tokyo Meetup［共同開催］PyLadies Caravan開催
+* `0:07:02 <https://www.youtube.com/watch?v=Ixf7A1gIEO8&t=422s>`_ PyCon US 2023のタイムテーブルが公開
+* `0:08:38 <https://www.youtube.com/watch?v=Ixf7A1gIEO8&t=518s>`_ EuroPython 2023のプロポーザル募集中
+* `0:09:35 <https://www.youtube.com/watch?v=Ixf7A1gIEO8&t=575s>`_ PyCon Taiwan 2023のプロポーザル募集中
+* `0:10:31 <https://www.youtube.com/watch?v=Ixf7A1gIEO8&t=631s>`_ PyCon AU 2023（オーストラリア）がアデレードで開催
+* `0:11:09 <https://www.youtube.com/watch?v=Ixf7A1gIEO8&t=669s>`_ PyCon Korea 2023が8月にソウルで開催
+* `0:12:39 <https://www.youtube.com/watch?v=Ixf7A1gIEO8&t=759s>`_ Python 3.11.10、3.11.2、3.12.0α6がリリース
+* `0:15:05 <https://www.youtube.com/watch?v=Ixf7A1gIEO8&t=905s>`_ 【メイントーク】PyCon JP Associationの理事ってどんなことしているの？
+* `0:16:59 <https://www.youtube.com/watch?v=Ixf7A1gIEO8&t=1019s>`_ そもそも一般社団法人の理事って何？
+* `0:20:15 <https://www.youtube.com/watch?v=Ixf7A1gIEO8&t=1215s>`_ 今回のPyCon JP TVをこのテーマにした理由
+* `0:23:51 <https://www.youtube.com/watch?v=Ixf7A1gIEO8&t=1431s>`_ 残り3人の理事にインタビューを取ってきた
+* `0:25:15 <https://www.youtube.com/watch?v=Ixf7A1gIEO8&t=1515s>`_ インタビュー：理事3名の自己紹介
+* `0:28:13 <https://www.youtube.com/watch?v=Ixf7A1gIEO8&t=1693s>`_ インタビュー：担当している主なタスク
+* `0:35:09 <https://www.youtube.com/watch?v=Ixf7A1gIEO8&t=2109s>`_ インタビュー：やろうと思ったきっかけ
+* `0:38:59 <https://www.youtube.com/watch?v=Ixf7A1gIEO8&t=2339s>`_ インタビュー：やっていてよかったこと
+* `0:44:25 <https://www.youtube.com/watch?v=Ixf7A1gIEO8&t=2665s>`_ インタビュー：やっていて大変だったこと
+* `0:47:00 <https://www.youtube.com/watch?v=Ixf7A1gIEO8&t=2820s>`_ インタビュー：継続しているモチベーション
+* `0:50:34 <https://www.youtube.com/watch?v=Ixf7A1gIEO8&t=3034s>`_ インタビュー：どんな人が理事になるといい？
+* `0:56:10 <https://www.youtube.com/watch?v=Ixf7A1gIEO8&t=3370s>`_ ピッツァが届いた。次回予告。今回の振り返り
+* `1:01:10 <https://www.youtube.com/watch?v=Ixf7A1gIEO8&t=3670s>`_ シュポッ 🍺 旅のはじまりのビール
+

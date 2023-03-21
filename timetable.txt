@@ -1,34 +1,23 @@
-https://www.youtube.com/watch?v=U8nW6FMUPvE
-0:00:31 配信開始、コメント募集「開発ドキュメントは何で書いてる？」
-0:06:03 【Pythonニュース】PyCon JP 2023スタッフ募集のお知らせ
-0:07:51 一瞬切断して設定調整
-0:09:53 PyCon JP Associationの理事募集
-0:11:40 PyCon JP地域開催サポートプログラムが始動
-0:13:08 PyCon US 2023のアーリーバードチケットが売り切れ
-0:14:16 EuroPython 2023の開催地はチェコ、プラハに決定
-0:15:42 PSFがSecurity Developer-in-Residenceを募集中
-0:17:52 SQLAlchemy 2.0がリリース
-0:20:42 【メイントーク】Sphinxライブデモ
-0:22:04 Sphinxの紹介、利用しているWebサイトの例
-0:25:11 GitHubでリポジトリ作成、crone、Sphinxインストール、quickstart、make htmlまで
-0:30:59 Sphinxカスタマイズ: テーマ変更、ロゴ追加
-0:33:43 myst-parserでmarkdown対応
-0:38:23 サードパーティのテーマを利用: Read the Docs Sphinx Theme、Furo
-0:41:45 GitHubにpush、Read the Docsにデプロイ
-0:50:37 Sphinxを拡張: sphinxet-opengraph、sphinx-copybutton
-0:55:12 Read the DocsでビルドされてWebサイトができた！
-0:58:29 Sphinxライブデモまとめ
-1:00:23 ピザ到着
-1:01:21 次回は3月3日(金)内容は未定
-1:03:08 カシャプシュ 🍺 ゆずフレッシュ
-1:06:39 編集ボタンを押すとGitHubで編集できる。docstring書いておくとAPIドキュメントが作れる
-1:11:03 PDFのビルド。Kindleのmobiは作れる？
-1:14:55 ハンバーガーピザ
-1:17:21 VuePressのはなし。sphinxのbuildはどこで実行する？
-1:22:49 Sphinxの検索とread the docsでの検索
-1:25:59 Sphinxを使ったドキュメントの翻訳
-1:29:39 🍺 フェストビール。reStructredTextでは書かない？自分用reSTチートシート作りましょう
-1:39:21 PyCon JP 2023のスタッフ業。本を書くときもSphinx。TraceryはMarkdown
-1:44:49 markdownの拡張方法。GitHubのmarkdown方言
-1:47:11 Sphinxのおすすめ拡張sphinx_design、sphinx-pyscript
-1:57:03 myst-parserがすごい話
+https://www.youtube.com/watch?v=Ixf7A1gIEO8
+0:00:18 配信開始。コメント募集「10年前は何やってましたか？」
+0:03:59 【Pythonニュース】オープンソースカンファレンスで「Python初心者向けミーティング」開催予定
+0:05:51 PyLadies Tokyo Meetup［共同開催］PyLadies Caravan開催
+0:07:02 PyCon US 2023のタイムテーブルが公開
+0:08:38 EuroPython 2023のプロポーザル募集中
+0:09:35 PyCon Taiwan 2023のプロポーザル募集中
+0:10:31 PyCon AU 2023（オーストラリア）がアデレードで開催
+0:11:09 PyCon Korea 2023が8月にソウルで開催
+0:12:39 Python 3.11.10、3.11.2、3.12.0α6がリリース
+0:15:05 【メイントーク】PyCon JP Associationの理事ってどんなことしているの？
+0:16:59 そもそも一般社団法人の理事って何？
+0:20:15 今回のPyCon JP TVをこのテーマにした理由
+0:23:51 残り3人の理事にインタビューを取ってきた
+0:25:15 インタビュー：理事3名の自己紹介
+0:28:13 インタビュー：担当している主なタスク
+0:35:09 インタビュー：やろうと思ったきっかけ
+0:38:59 インタビュー：やっていてよかったこと
+0:44:25 インタビュー：やっていて大変だったこと
+0:47:00 インタビュー：継続しているモチベーション
+0:50:34 インタビュー：どんな人が理事になるといい？
+0:56:10 ピッツァが届いた。次回予告。今回の振り返り
+1:01:10 シュポッ 🍺 旅のはじまりのビール
