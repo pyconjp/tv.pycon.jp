@@ -46,6 +46,11 @@ PyCon JP Association 理事ってどんなことしてるの？
 飲みトーク
 ----------
 * 🍺 `旅のはじまりのビール <https://tabibeer.theshop.jp/>`_
+* `大平原４個入 | 六花亭 <https://www.rokkatei-eshop.com/store/ProductDetail.aspx?sku=10070>`_
+* `#70 PyCon JP Association代表理事退任と今後の展望をIqbalさんと語る | terapyon channel podcast <https://podcast.terapyon.net/episodes/0079.html>`_
+* 🍺 `ホップの煌めき｜国分北海道 <https://www.kokubu.co.jp/brand/104/8502080.html>`_
+* 🍺 `お知らせ一覧-エチゴビール株式会社 <https://echigobeer.com/news.php>`_
+* `openai/whisper: Robust Speech Recognition via Large-Scale Weak Supervision <https://github.com/openai/whisper>`_
 
 目次
 ====
@@ -70,5 +75,20 @@ PyCon JP Association 理事ってどんなことしてるの？
 * `0:47:00 <https://www.youtube.com/watch?v=Ixf7A1gIEO8&t=2820s>`_ インタビュー：継続しているモチベーション
 * `0:50:34 <https://www.youtube.com/watch?v=Ixf7A1gIEO8&t=3034s>`_ インタビュー：どんな人が理事になるといい？
 * `0:56:10 <https://www.youtube.com/watch?v=Ixf7A1gIEO8&t=3370s>`_ ピッツァが届いた。次回予告。今回の振り返り
-* `1:01:10 <https://www.youtube.com/watch?v=Ixf7A1gIEO8&t=3670s>`_ シュポッ 🍺 旅のはじまりのビール
-
+* `1:01:12 <https://www.youtube.com/watch?v=Ixf7A1gIEO8&t=3672s>`_ 【飲みトーク】シュポッ 🍺 旅のはじまりのビール。北海道の帯広で買ってきたビール
+* `1:04:02 <https://www.youtube.com/watch?v=Ixf7A1gIEO8&t=3842s>`_ 理事について語るのは難しい、会社の社長とも違う
+* `1:08:14 <https://www.youtube.com/watch?v=Ixf7A1gIEO8&t=4094s>`_ 理事を継続しているモチベーション。帯広お土産は六花亭の大平原
+* `1:11:22 <https://www.youtube.com/watch?v=Ixf7A1gIEO8&t=4282s>`_ 寺田個人のPodcastでも理事のことについて語った
+* `1:13:26 <https://www.youtube.com/watch?v=Ixf7A1gIEO8&t=4406s>`_ 🍺 網走ビール ホップの煌めき。王冠が北海道マーク
+* `1:15:26 <https://www.youtube.com/watch?v=Ixf7A1gIEO8&t=4526s>`_ 寺田が継続しているモチベーション
+* `1:21:54 <https://www.youtube.com/watch?v=Ixf7A1gIEO8&t=4914s>`_ インタビューのリモート収録について
+* `1:25:02 <https://www.youtube.com/watch?v=Ixf7A1gIEO8&t=5102s>`_ 顔を合わせたミーティングのスピード感や距離感はリモートでは無理
+* `1:27:12 <https://www.youtube.com/watch?v=Ixf7A1gIEO8&t=5232s>`_ リモートインタビューにディレクターは必要？もっとざっくばらんに話したい
+* `1:29:50 <https://www.youtube.com/watch?v=Ixf7A1gIEO8&t=5390s>`_ 🍺 エチゴビール 林檎とハーブの微笑みエール。ソルトレイクでビールのお店が見つけられなかった。鶴居村のビールを買って帰れなかった
+* `1:32:04 <https://www.youtube.com/watch?v=Ixf7A1gIEO8&t=5524s>`_ 瓶は割れるので機内に持ち込む。PC2台、iPad、ビール2本でリュックが重い
+* `1:33:50 <https://www.youtube.com/watch?v=Ixf7A1gIEO8&t=5630s>`_ 動画の編集でOpenAI Whisperでの文字起こしが便利
+* `1:42:22 <https://www.youtube.com/watch?v=Ixf7A1gIEO8&t=6142s>`_ インタビューの前に前説を入れる？理事には直前に伝えてすぐにインタビューした
+* `1:45:06 <https://www.youtube.com/watch?v=Ixf7A1gIEO8&t=6306s>`_ インタビューは違う視点になって面白い。人の発言をカットするのは難しい
+* `1:48:00 <https://www.youtube.com/watch?v=Ixf7A1gIEO8&t=6480s>`_ Zoomでのインタビューでもある程度形にはなる
+* `1:50:16 <https://www.youtube.com/watch?v=Ixf7A1gIEO8&t=6616s>`_ 寺田は代表理事を退任したけど、理事としては継続します。法務的なことについてアウトプットできると役に立ちそう
+* `1:57:10 <https://www.youtube.com/watch?v=Ixf7A1gIEO8&t=7030s>`_ 終わりのあいさつ
