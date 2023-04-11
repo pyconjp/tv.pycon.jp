@@ -24,16 +24,57 @@
 
 Pythonニュース
 --------------
-* TBD
+* 国内イベント
 
-(メイントークタイトル)
-----------------------
-* TBD
+  * `PyCon JP Blog: PyCon JP 2023はPyCon APAC 2023として開催します <https://pyconjp.blogspot.com/2023/04/pyconapac2023-ja.html>`_
+  * 10月27日(金)-29日(日) `PyCon APAC 2023 <https://2023-apac.pycon.jp/>`_
+  * 5月10日(水) `一般社団法人PyCon JP Association運営会議 #60 - connpass <https://pyconjp-staff.connpass.com/event/277360/>`_
+  * 5月20日(土) `Python Boot Camp in 鹿児島2nd - connpass <https://pyconjp.connpass.com/event/278007/>`_
+* 海外イベント
+
+  * `PyCon JP Blog: 久しぶりの海外PyCon情報(2023年3月版) <https://pyconjp.blogspot.com/2023/03/blog-post_27.html>`_
+* その他
+
+  * `Welcome to the PyPI Blog - The Python Package Index <https://blog.pypi.org/posts/2023-03-21-welcome-to-the-pypi-blog/>`_
+  * `Django 4.2 release notes | Django documentation | Django <https://docs.djangoproject.com/en/dev/releases/4.2/>`_
+  * `What's new in 2.0.0 (April 3, 2023) - pandas 2.0.0 documentation <https://pandas.pydata.org/pandas-docs/version/2.0/whatsnew/v2.0.0.html>`_
+  * `PyTorch 2.0: Our next generation release that is faster, more Pythonic and Dynamic as ever | PyTorch <https://pytorch.org/blog/pytorch-2.0-release/>`_
+  * `Python Insider: Python 3.11.3, Python 3.10.11 and 3.12.0 alpha 7 are available <https://blog.python.org/2023/04/its-time-for-another-set-of-python.html>`_
+
+Python公式ドキュメントを読みながら開発しよう！
+----------------------------------------------
+* `pathlib --- オブジェクト指向のファイルシステムパス - Python 3.11.3 ドキュメント <https://docs.python.org/ja/3/library/pathlib.html>`_
+* `csv --- CSV ファイルの読み書き - Python 3.11.3 ドキュメント <https://docs.python.org/ja/3/library/csv.html>`_
+* `str.removesuffix() <https://docs.python.org/ja/3/library/stdtypes.html#str.removesuffix>`_
 
 飲みトーク
 ----------
-* TBD
+* 🍺 `Stone Enjoy By 04.20.23 Hazy IPA | Stone Brewing <https://www.stonebrewing.com/beer/stone-enjoy-ipa-series/stone-enjoy-042023-hazy-ipa>`_
+* 🍺 `クラフトビール商品情報 | 富士桜高原麦酒 <https://www.fujizakura-beer.jp/line-up/beers/?id=beers_dragon-mosaic>`_
+* 🍺 `ヱビス NEW ORIGIN | サッポロビール <https://www.sapporobeer.jp/yebisu/lineup/creativebrew/neworigin/>`_
+* 🍺 `エックスピーエー（缶）1本 | 伊勢角屋麦酒 <https://www.biyagura.jp/c/allitems/205>`_
 
 目次
 ====
-* TBD
+* `0:00:30 <https://www.youtube.com/watch?v=MYUsAS3heuQ&t=30s>`_ 配信開始。コメント募集「Pythonでどんなもの作ってますか？」
+* `0:06:22 <https://www.youtube.com/watch?v=MYUsAS3heuQ&t=382s>`_ 【Pythonニュース】PyCon JP 2023はPyCon APAC 2023として開催、Webサイトも公開
+* `0:09:02 <https://www.youtube.com/watch?v=MYUsAS3heuQ&t=542s>`_ PyCon JP Associationの60回目の運営会議が開催予定
+* `0:09:33 <https://www.youtube.com/watch?v=MYUsAS3heuQ&t=573s>`_ Python Boot Camp in 鹿児島2ndが5月20日に開催予定
+* `0:10:34 <https://www.youtube.com/watch?v=MYUsAS3heuQ&t=634s>`_ 海外PyCon情報
+* `0:11:46 <https://www.youtube.com/watch?v=MYUsAS3heuQ&t=706s>`_ Welcome to the PyPI Blog
+* `0:13:03 <https://www.youtube.com/watch?v=MYUsAS3heuQ&t=783s>`_ Django 4.2、Pandas 2.0、PyTorch 2.0がリリース
+* `0:16:14 <https://www.youtube.com/watch?v=MYUsAS3heuQ&t=974s>`_ Python 3.11.3、3.10.11、3.12.0 alpha 7がリリース
+* `0:17:10 <https://www.youtube.com/watch?v=MYUsAS3heuQ&t=1030s>`_ 【メイントーク】Python公式ドキュメントを読みながら開発しよう！。何を作るのか
+* `0:21:58 <https://www.youtube.com/watch?v=MYUsAS3heuQ&t=1318s>`_ 対象となるファイルの構成を説明
+* `0:24:50 <https://www.youtube.com/watch?v=MYUsAS3heuQ&t=1490s>`_ hoge.pyを作成
+* `0:26:34 <https://www.youtube.com/watch?v=MYUsAS3heuQ&t=1594s>`_ pathlibで再帰的にファイルの一覧を取得する
+* `0:32:36 <https://www.youtube.com/watch?v=MYUsAS3heuQ&t=1956s>`_ ファイルの拡張子を取得する
+* `0:36:58 <https://www.youtube.com/watch?v=MYUsAS3heuQ&t=2218s>`_ 拡張子をコマンドライン引数で受け取る。拡張子からドットを削除
+* `0:43:02 <https://www.youtube.com/watch?v=MYUsAS3heuQ&t=2582s>`_ ファイル名のみを取り出す
+* `0:45:54 <https://www.youtube.com/watch?v=MYUsAS3heuQ&t=2754s>`_ 結果をcsvに書き出す
+* `0:52:12 <https://www.youtube.com/watch?v=MYUsAS3heuQ&t=3132s>`_ csvファイルが出きたが中身がおかしいので修正する
+* `0:55:42 <https://www.youtube.com/watch?v=MYUsAS3heuQ&t=3342s>`_ ファイルの拡張子もcsvに書き出す
+* `0:59:30 <https://www.youtube.com/watch?v=MYUsAS3heuQ&t=3570s>`_ 時間切れでまとめへ
+* `1:01:33 <https://www.youtube.com/watch?v=MYUsAS3heuQ&t=3693s>`_ 【次回予告】5月12日(金) 19:30からPyCon US 2023振り返り
+* `1:03:57 <https://www.youtube.com/watch?v=MYUsAS3heuQ&t=3837s>`_ カシャプシュ 🍺 Stone Enjoy By 04.20.23 Hazy IPA
+\* `1:15:07 <https://www.youtube.com/watch?v=MYUsAS3heuQ&t=4507s>`_ 🍺 富士桜高原麦酒 ドラゴンモザイク
