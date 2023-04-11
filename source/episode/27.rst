@@ -51,9 +51,12 @@ Python公式ドキュメントを読みながら開発しよう！
 ----------
 * 🍺 `Stone Enjoy By 04.20.23 Hazy IPA | Stone Brewing <https://www.stonebrewing.com/beer/stone-enjoy-ipa-series/stone-enjoy-042023-hazy-ipa>`_
 * 🍺 `クラフトビール商品情報 | 富士桜高原麦酒 <https://www.fujizakura-beer.jp/line-up/beers/?id=beers_dragon-mosaic>`_
+* `GitHub Copilot · Your AI pair programmer <https://github.com/features/copilot>`_
+* `オープンソースカンファレンス <https://ospn.jp/>`_
 * 🍺 `ヱビス NEW ORIGIN | サッポロビール <https://www.sapporobeer.jp/yebisu/lineup/creativebrew/neworigin/>`_
 * 🍺 `エックスピーエー（缶）1本 | 伊勢角屋麦酒 <https://www.biyagura.jp/c/allitems/205>`_
-
+* 🍺 `【麗人】信州浪漫缶ビール 『七味唐からしBEER』 <https://reijin.biz/?pid=161148028>`_
+  
 目次
 ====
 * `0:00:30 <https://www.youtube.com/watch?v=MYUsAS3heuQ&t=30s>`_ 配信開始。コメント募集「Pythonでどんなもの作ってますか？」
@@ -77,4 +80,16 @@ Python公式ドキュメントを読みながら開発しよう！
 * `0:59:30 <https://www.youtube.com/watch?v=MYUsAS3heuQ&t=3570s>`_ 時間切れでまとめへ
 * `1:01:33 <https://www.youtube.com/watch?v=MYUsAS3heuQ&t=3693s>`_ 【次回予告】5月12日(金) 19:30からPyCon US 2023振り返り
 * `1:03:57 <https://www.youtube.com/watch?v=MYUsAS3heuQ&t=3837s>`_ カシャプシュ 🍺 Stone Enjoy By 04.20.23 Hazy IPA
-\* `1:15:07 <https://www.youtube.com/watch?v=MYUsAS3heuQ&t=4507s>`_ 🍺 富士桜高原麦酒 ドラゴンモザイク
+* `1:15:07 <https://www.youtube.com/watch?v=MYUsAS3heuQ&t=4507s>`_ 🍺 富士桜高原麦酒 ドラゴンモザイク
+* `1:18:02 <https://www.youtube.com/watch?v=MYUsAS3heuQ&t=4682s>`_ Copilotがすごいらしい。ChatGPTで英語のissueをいい感じに書けた。os.path.walk()懐かしい
+* `1:28:03 <https://www.youtube.com/watch?v=MYUsAS3heuQ&t=5283s>`_ 人が実際にコードを書いて動かしているところを見るのは面白い。発表でライブコーディングする人はすごい
+* `1:32:50 <https://www.youtube.com/watch?v=MYUsAS3heuQ&t=5570s>`_ 🍺 ヱビス NEW ORIGIN。また数ヶ月後に続きをやりましょう。サードパーティ製ライブラリの探し方とか
+* `1:39:04 <https://www.youtube.com/watch?v=MYUsAS3heuQ&t=5944s>`_ オープンソースカンファレンスのかわいいTシャツ。先日オフライン開催されて参加した。ブースが盛り上がっていた
+* `1:43:40 <https://www.youtube.com/watch?v=MYUsAS3heuQ&t=6220s>`_ 🍺 伊勢角屋 XPA。寺田のいたPloneベースは過去一盛り上がってた。名古屋も出展しよう。ステッカーもすぐなくなった
+* `1:50:14 <https://www.youtube.com/watch?v=MYUsAS3heuQ&t=6614s>`_ PyCon USの準備はどうですか？車だと帰りの飛行機で酒が飲めない
+* `1:56:00 <https://www.youtube.com/watch?v=MYUsAS3heuQ&t=6960s>`_ 某海外ディズニーに詳しい人に相談した。現地でどんな取材をしよう？
+* `2:02:10 <https://www.youtube.com/watch?v=MYUsAS3heuQ&t=7330s>`_ 台湾、韓国、ユーロのプロポーザルを出した。韓国レゴランドに行きたい。プラハも行きたい
+* `2:06:08 <https://www.youtube.com/watch?v=MYUsAS3heuQ&t=7568s>`_ ノベルティの靴下トーク
+* `2:11:18 <https://www.youtube.com/watch?v=MYUsAS3heuQ&t=7878s>`_ OSCの中でインタビューをやってみたが、またやってみたい。APACオーガナイザーにインタビューしてもよさそう
+* `2:14:48 <https://www.youtube.com/watch?v=MYUsAS3heuQ&t=8088s>`_ 知り合いが増えるとネットワークが増える。何かLTのネタないかな
+* `2:24:08 <https://www.youtube.com/watch?v=MYUsAS3heuQ&t=8648s>`_ 変わった味の 🍺 信州浪漫 七味唐からしBEER。善光寺の御開帳で木を触るのが謎だった。良い週末を
