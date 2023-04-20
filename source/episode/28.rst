@@ -1,12 +1,12 @@
-===========================
- #X: タイトル - 2023-MM-DD
-===========================
+=========================================
+ #28: PyCon US 2023振り返り - 2023-05-12
+=========================================
 
-(ここにどんな話をするかを書く)
+2023年4月に開催されたPyCon US 2023のレポートを、(おそらく)日本語ではどこよりも早くお届けします
 
 .. raw:: html
 
-   (YouTubeの埋め込みリンク)
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/7-UjyXNriwk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 関連リンク
 ==========
@@ -23,8 +23,8 @@ Pythonニュース
 --------------
 * TBD
 
-(メイントークタイトル)
-----------------------
+PyCon US 2023振り返り
+---------------------
 * TBD
 
 飲みトーク
