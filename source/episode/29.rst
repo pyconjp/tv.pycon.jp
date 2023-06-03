@@ -2,7 +2,7 @@
  #29: PyCon US 2023振り返り Part.2 - 2023-06-02
 ================================================
 
-023年4月に開催されたPyCon US 2023のカンファレンス3日目、スプリントを中心にレポートします。
+2023年4月に開催されたPyCon US 2023のカンファレンス3日目、スプリントを中心にレポートします。
 
 .. raw:: html
 
@@ -21,16 +21,46 @@
 
 Pythonニュース
 --------------
-* TBD
+* PyCon APAC 2023関連
 
-(メイントークタイトル)
-----------------------
-* TBD
+  * `PyCon JP Blog: PyCon APAC 2023 スポンサーシップパッケージ 説明会のお知らせ <https://pyconjp.blogspot.com/2023/05/pyconapac2023-sponsors-pre-explain-ja.html>`_
+  * `PyCon JP Blog: PyCon APAC 2023 レビュアーの評価観点 <https://pyconjp.blogspot.com/2023/05/pyconapac2023-review-points-ja.html>`_
+  * `PyCon JP Blog: PyCon APAC 2023 プロポーザルレビュアー募集のお知らせ <https://pyconjp.blogspot.com/2023/05/pyconapac2023-call-for-reviewers-ja.html>`_
+* 6月3日(土) `Python Boot Camp in 愛知2nd - connpass <https://pyconjp.connpass.com/event/280530/>`_
+* 10月7日(土) `DjangoCongress JP 2023 <https://djangocongress.jp/>`_
+* `Python Insider: Python 3.12.0 beta 1 released <https://pythoninsider.blogspot.com/2023/05/python-3120-beta-1-released.html>`_
+* `Enforcement of 2FA for upload.pypi.org begins today - The Python Package Index <https://blog.pypi.org/posts/2023-06-01-2fa-enforcement-for-upload/>`_
+
+PyCon US 2023振り返り Part.2
+----------------------------
+* `Schedule - PyCon US 2023 <https://us.pycon.org/2023/schedule/talks/>`_
+* `PyCon US 2023 YouTube <https://www.youtube.com/watch?v=eZwHvBsoPn4&list=PL2Uw4_HvXqvY2zhJ9AMUa_Z6dtMGF3gtb>_`
+* `PyCon US 2023 report #3 ポスターセッション・ジョブフェア編 --PyCon JP TV-- - YouTube <https://www.youtube.com/watch?v=BMf6OrbfOOQ>`_
+* `PyCon US 2023 参加レポート 記事一覧 | gihyo.jp <https://gihyo.jp/list/group/PyCon-US-2023-%E5%8F%82%E5%8A%A0%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88#rt:/article/2023/05/pycon-us2023-002>`_
+* `20回目を迎えた「PyCon US」現地リポート、Python 3.12の変更点も公開 | 日経クロステック（xTECH） <https://xtech.nikkei.com/atcl/nxt/column/18/00160/051700355/>`_
 
 飲みトーク
 ----------
-* TBD
+* 🍺 `Brasserie Knot (ブラッスリー・ノット) <https://brasserieknot.jp/>`_
 
 目次
 ====
-* TBD
+* `0:00:23 <https://www.youtube.com/watch?v=dWO09RsmiUY&t=23s>`_ 配信開始
+* `0:06:42 <https://www.youtube.com/watch?v=dWO09RsmiUY&t=402s>`_ 【Pythonニュース】PyCon APAC 2023のスポンサーパッケージ説明会
+* `0:08:53 <https://www.youtube.com/watch?v=dWO09RsmiUY&t=533s>`_ PyCon APAC 2023プロポーザルのレビュワー募集中
+* `0:12:22 <https://www.youtube.com/watch?v=dWO09RsmiUY&t=742s>`_ Python Boot Camp in 愛知2nd開催予定
+* `0:13:38 <https://www.youtube.com/watch?v=dWO09RsmiUY&t=818s>`_ DjangoCongress JP 2023開催決定
+* `0:14:43 <https://www.youtube.com/watch?v=dWO09RsmiUY&t=883s>`_ Python 3.12.0 beta 1がリリース
+* `0:15:59 <https://www.youtube.com/watch?v=dWO09RsmiUY&t=959s>`_ PyPIで2要素認証まわりの変更について
+* `0:17:50 <https://www.youtube.com/watch?v=dWO09RsmiUY&t=1070s>`_ 【メイントーク】PyCon US 2023振り返り Part.2、朝のライトニングトーク
+* `0:24:37 <https://www.youtube.com/watch?v=dWO09RsmiUY&t=1477s>`_ キーノート、AWSのスポンサートーク、PyPIアップデート
+* `0:29:47 <https://www.youtube.com/watch?v=dWO09RsmiUY&t=1787s>`_ ポスターセッションとジョブフェア
+* `0:31:37 <https://www.youtube.com/watch?v=dWO09RsmiUY&t=1897s>`_ ポスターセッションのレポート動画
+* `0:38:17 <https://www.youtube.com/watch?v=dWO09RsmiUY&t=2297s>`_ ジョブフェアのレポート動画
+* `0:42:15 <https://www.youtube.com/watch?v=dWO09RsmiUY&t=2535s>`_ Tシャツ販売、日本メンバー、オープンスペース、Quiet Roomなど
+* `0:45:33 <https://www.youtube.com/watch?v=dWO09RsmiUY&t=2733s>`_ 最後のキーノート、PSF サービスアワード、Guidoさんのトーク
+* `0:51:52 <https://www.youtube.com/watch?v=dWO09RsmiUY&t=3112s>`_ クロージング、参加者数、スポンサー費、旅費支援など、来年はピッツバーグ
+* `0:57:40 <https://www.youtube.com/watch?v=dWO09RsmiUY&t=3460s>`_ PyConアジアミーティング、ピザとビール
+* `0:59:33 <https://www.youtube.com/watch?v=dWO09RsmiUY&t=3573s>`_ 次回予告、7月7日(金) 19:30からスピーカーのノウハウとツール紹介
+* `1:02:51 <https://www.youtube.com/watch?v=dWO09RsmiUY&t=3771s>`_ カシャプシュ 🍺 Brasserie Knot DOTO
+
