@@ -4,9 +4,9 @@
 
 PyCon APAC 2023に向けて、過去のスピーカー経験者にアンケートで聞いた発表ノウハウ、使用しているツールを紹介します。
 
-.. .. raw:: html
+.. raw:: html
 
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/dWO09RsmiUY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/1H9tYmLWcPM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 関連リンク
 ==========
