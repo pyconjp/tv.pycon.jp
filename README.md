@@ -17,7 +17,7 @@ PyCon JP TV Webサイト
 ```bash
 $ git clone https://github.com/pyconjp/tv.pycon.jp.git
 $ cd www.pycon.jp
-$ python3.9 -m venv env
+$ python3.11 -m venv env
 $ . env/bin/activate
 (env)$ pip install -r requirements.txt
 (env)$ make html
