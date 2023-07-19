@@ -42,6 +42,10 @@ PyCon US 2023振り返り Part.2
 飲みトーク
 ----------
 * 🍺 `Brasserie Knot (ブラッスリー・ノット) <https://brasserieknot.jp/>`_
+* `かつおとチーズが出逢ったよ - オガワ食品 <https://ogawa-foods.net/lineup/lineup-115/>`_
+* 🍺 `エチゴビール株式会社 <https://echigobeer.com/products.php#can>`_
+* `Sunsetting Atom - The GitHub Blog <https://github.blog/2022-06-08-sunsetting-atom/>`_
+* 🍺 `Zombie Dust - 3 Floyds Brewing <https://www.3floyds.com/beer/zombie-dust/>`_
 
 目次
 ====
@@ -62,5 +66,16 @@ PyCon US 2023振り返り Part.2
 * `0:51:52 <https://www.youtube.com/watch?v=dWO09RsmiUY&t=3112s>`_ クロージング、参加者数、スポンサー費、旅費支援など、来年はピッツバーグ
 * `0:57:40 <https://www.youtube.com/watch?v=dWO09RsmiUY&t=3460s>`_ PyConアジアミーティング、ピザとビール
 * `0:59:33 <https://www.youtube.com/watch?v=dWO09RsmiUY&t=3573s>`_ 次回予告、7月7日(金) 19:30からスピーカーのノウハウとツール紹介
-* `1:02:51 <https://www.youtube.com/watch?v=dWO09RsmiUY&t=3771s>`_ カシャプシュ 🍺 Brasserie Knot DOTO
-
+* `1:02:51 <https://www.youtube.com/watch?v=dWO09RsmiUY&t=3771s>`_ 🍻 カシャプシュ 🍺 Brasserie Knot DOTO、Brasserie Knotの説明
+* `1:07:45 <https://www.youtube.com/watch?v=dWO09RsmiUY&t=4065s>`_ 鹿児島みやげ「かつおとチーズが出逢ったよ」。Python Boot Camp鹿児島の懇親会の話。地元のおすすめの話を聞けるのはいいよね
+* `1:13:30 <https://www.youtube.com/watch?v=dWO09RsmiUY&t=4410s>`_ 🍺 エチゴビール シトラストラタIPA。Atom終了からエディターの話。ピザが到着
+* `1:21:47 <https://www.youtube.com/watch?v=dWO09RsmiUY&t=4907s>`_ PyCon US 2023 スプリントとLarry Hastingさんの話。PyConのいろんな参加の仕方
+* `1:29:31 <https://www.youtube.com/watch?v=dWO09RsmiUY&t=5371s>`_ たかのりのPyCon US 2023の楽しみ方。🍺 3 Floyds Brewing Zombie Dust。Members Lunchに参加。2000人もいると知り合いと出会えない
+* `1:36:09 <https://www.youtube.com/watch?v=dWO09RsmiUY&t=5769s>`_ Day 3午前中のLT裏話。AIの台頭でプログラミングはどうなる?OSC 北海道でブースを出す話
+* `1:44:13 <https://www.youtube.com/watch?v=dWO09RsmiUY&t=6253s>`_ PyCon US 2023のスプリントでPyScriptスプリントに参加。スプリントではちゃんとプロジェクトに入れるといいよね
+* `1:49:31 <https://www.youtube.com/watch?v=dWO09RsmiUY&t=6571s>`_ PyCon USのおまけビデオ
+* `2:06:30 <https://www.youtube.com/watch?v=dWO09RsmiUY&t=7590s>`_ アフレコは編集が大変。🍺 エチゴビール 紅茶香るインディアペールエール。今年はどこのカンファレンスに行く?
+* `2:10:42 <https://www.youtube.com/watch?v=dWO09RsmiUY&t=7842s>`_ 寺田は旅行のだんどりをするのが大好き。カンファレンス旅行はパックではいけない。個人で行くからついでに観光もしたい
+* `2:16:11 <https://www.youtube.com/watch?v=dWO09RsmiUY&t=8171s>`_ 今からEuroPythonに行く計画しないの?PyConは韓国と台湾と香港に行きたいな。去年のEuroPythonはちょうどいい便がないので寄り道して帰った
+* `2:20:10 <https://www.youtube.com/watch?v=dWO09RsmiUY&t=8410s>`_ 飛行機のチケットをどう確保するか。Asianaは特典航空券の空きがわかりやすい
+* `2:23:50 <https://www.youtube.com/watch?v=dWO09RsmiUY&t=8630s>`_ 次回予告。クロージング
