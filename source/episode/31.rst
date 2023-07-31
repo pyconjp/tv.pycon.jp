@@ -4,9 +4,9 @@
 
 `2023年10月にリリース予定のPython 3.12 <https://peps.python.org/pep-0693/>`_ 、リリースノートや `What's New In Python 3.12 <https://docs.python.org/3.12/whatsnew/3.12.html>`_ を読みながら、その新機能を実際に試してみます。
 
-.. .. raw:: html
+.. raw:: html
 
-   (YouTubeの埋め込みリンク)
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/cx747g-EhcY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 関連リンク
 ==========
