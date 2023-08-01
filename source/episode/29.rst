@@ -34,7 +34,7 @@ Pythonニュース
 PyCon US 2023振り返り Part.2
 ----------------------------
 * `Schedule - PyCon US 2023 <https://us.pycon.org/2023/schedule/talks/>`_
-* `PyCon US 2023 YouTube <https://www.youtube.com/watch?v=eZwHvBsoPn4&list=PL2Uw4_HvXqvY2zhJ9AMUa_Z6dtMGF3gtb>_`
+* `PyCon US 2023 YouTube <https://www.youtube.com/watch?v=eZwHvBsoPn4&list=PL2Uw4_HvXqvY2zhJ9AMUa_Z6dtMGF3gtb>`_
 * `PyCon US 2023 report #3 ポスターセッション・ジョブフェア編 --PyCon JP TV-- - YouTube <https://www.youtube.com/watch?v=BMf6OrbfOOQ>`_
 * `PyCon US 2023 参加レポート 記事一覧 | gihyo.jp <https://gihyo.jp/list/group/PyCon-US-2023-%E5%8F%82%E5%8A%A0%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88#rt:/article/2023/05/pycon-us2023-002>`_
 * `20回目を迎えた「PyCon US」現地リポート、Python 3.12の変更点も公開 | 日経クロステック（xTECH） <https://xtech.nikkei.com/atcl/nxt/column/18/00160/051700355/>`_

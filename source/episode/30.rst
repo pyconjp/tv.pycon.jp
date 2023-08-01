@@ -53,7 +53,20 @@ Pythonニュース
 
 飲みトーク
 ----------
-* TBD
+* 🍺 `松江ビアへるん ゼウスビター 2022  <http://shimanebeerh.free.makeshop.jp/shopdetail/000000000362/>`_
+* 🍺 `サッポロ SORACHI 1984 DOUBLE <https://www.sapporobeer.jp/product/beer/sorachi1984_double/>`_
+* `ロジクールSpotlightアドバンス ワイヤレス プレゼンテーションリモコン <https://www.logicool.co.jp/ja-jp/products/presenters/spotlight-presentation-remote.910-004870.html>`_
+* `フィンガープレゼンター黒曜石│コクヨ ステーショナリー <https://www.kokuyo-st.co.jp/stationery/fp/>`_
+* 🍺 `サントリー ザ・プレミアム・モルツ マスターズドリーム〈無濾過〉 <https://products.suntory.co.jp/d/4901777376564/>`_
+* 🍺 `羊蹄山麓ビール 白桃烏龍 極品 <https://www.lupicia.com/shop/g/g32520256/>`_
+* 🍺 `乙部追分ブリューイング OTOBBEAN IPA <https://otobebeer.official.ec/items/61532549>`_
+* `KR521W | 知育時計 | セイコータイムクリエーション株式会社 <https://www.seiko-clock.co.jp/product-personal/alarm/education/kr521w.html>`_
+* 🍺 `エチゴビール 林檎とハーブの微笑みエール <https://echigobeer.com/products.php>`_
+* `GIPHY Capture <https://giphy.com/apps/giphycapture>`_
+* `gitpitch/gitpitch: Markdown Presentations for Tech Conferences, Training, Developer Advocates, and Educators. <https://github.com/gitpitch/gitpitch>`_
+* `sphinx-revealjs <https://sphinx-revealjs.readthedocs.io/en/stable/index.html>`_
+* `Python チュートリアル <https://docs.python.org/ja/3/tutorial/index.html>`_
+* `PyLadies Tokyo <http://tokyo.pyladies.com/>`_
 
 目次
 ====
@@ -82,3 +95,27 @@ Pythonニュース
 * `0:45:28 <https://www.youtube.com/watch?v=1H9tYmLWcPM&t=2728s>`_ 参加者のコメントを拾っていく
 * `0:51:53 <https://www.youtube.com/watch?v=1H9tYmLWcPM&t=3113s>`_ アンケートを取ったら結果を言ってほしい
 * `0:58:05 <https://www.youtube.com/watch?v=1H9tYmLWcPM&t=3485s>`_ 【次回予告】Python 3.12の新機能を試す
+* `1:01:27 <https://www.youtube.com/watch?v=1H9tYmLWcPM&t=3687s>`_ 🍻 カシャプシュ 🍺 松江びあへるん ゼウス・ビター。Googleスライドは共有が楽。スライドはどのくらい前に仕上げてる？リモートはウィスキーを飲んでいる人が多い
+* `1:06:41 <https://www.youtube.com/watch?v=1H9tYmLWcPM&t=4001s>`_ スライドをレビューしてもらうのいいよね。1時間で60個コメントがついて泣きそうだった
+* `1:11:10 <https://www.youtube.com/watch?v=1H9tYmLWcPM&t=4270s>`_ 🍺 サッポロ SORACHI 1984 DOUBLE。なにがダブルなのか？markdownでスライドが書けるサービス使っていたがサービスがなくなった。Googleスライドはなくならない？スライドのアスペクト比
+* `1:16:06 <https://www.youtube.com/watch?v=1H9tYmLWcPM&t=4566s>`_ スライドを2in1で紙に印刷とか今もあるの？ノート付きで印刷。英語の発表ノートはどう見てる？
+* `1:21:02 <https://www.youtube.com/watch?v=1H9tYmLWcPM&t=4862s>`_ ポインターは使う？リモコンはみんな持ってる「ロジクールSpotlight」。🍺 サントリー  マスターズドリーム〈無濾過〉
+* `1:25:22 <https://www.youtube.com/watch?v=1H9tYmLWcPM&t=5122s>`_ プレゼンリモコンでスペースを入力してくれない問題
+* `1:29:26 <https://www.youtube.com/watch?v=1H9tYmLWcPM&t=5366s>`_ 🍺 羊蹄山麓ビール 白桃烏龍 極品。OHP作ったことありますか？なんでオーバーヘッドプロジェクターって言うの？
+* `1:35:44 <https://www.youtube.com/watch?v=1H9tYmLWcPM&t=5744s>`_ それより前は写真のフィルムをスライドにして映写。寺田は高校生の時に作った
+* `1:40:12 <https://www.youtube.com/watch?v=1H9tYmLWcPM&t=6012s>`_ 校長先生の話はスライド付きでやってほしい。🍺 乙部追分ブリューイング OTOBBEAN IPA。体育館に超短焦点のプロジェクター入れてほしい
+* `1:45:14 <https://www.youtube.com/watch?v=1H9tYmLWcPM&t=6314s>`_ 振り返って「スライドを作成するとき」の話。スライドに文章書く派、書かない派。1枚画像で延々しゃべるやつは英語だと内容がわからない
+* `1:50:52 <https://www.youtube.com/watch?v=1H9tYmLWcPM&t=6652s>`_ YouTubeのコメントから。発表の練習やペースの把握
+* `1:56:00 <https://www.youtube.com/watch?v=1H9tYmLWcPM&t=6960s>`_ 次のスライドは頭に入っている。英語発表では無理。練習の機会があるのはよい
+* `2:01:12 <https://www.youtube.com/watch?v=1H9tYmLWcPM&t=7272s>`_ 気をつけているところは「目線」が多かった。聴衆とのコミュニケーション。早口にならない問題
+* `2:06:50 <https://www.youtube.com/watch?v=1H9tYmLWcPM&t=7610s>`_ タイマーどうしているか
+* `2:11:19 <https://www.youtube.com/watch?v=1H9tYmLWcPM&t=7879s>`_ 🍺 エチゴビール 林檎とハーブの微笑みエール 。Python Boot Campのタイムキープどうしてるか。やらないこと「デモ」。しゃべりながらデモが難しい。あとは動画を作る
+* `2:17:06 <https://www.youtube.com/watch?v=1H9tYmLWcPM&t=8226s>`_ 緊張するから直前の資料確認をしない。動かないの難しい。コードを指すときにカーソルを使う
+* `2:21:10 <https://www.youtube.com/watch?v=1H9tYmLWcPM&t=8470s>`_ 図を作るツールはバラバラ。公開方法について。GitPitchの思い出
+* `2:26:44 <https://www.youtube.com/watch?v=1H9tYmLWcPM&t=8804s>`_ プログラミングのためにどんな本を読むべきか？
+* `2:33:20 <https://www.youtube.com/watch?v=1H9tYmLWcPM&t=9200s>`_ 転職はプログラミングメイン、それともプログラミングはサブ？
+* `2:38:58 <https://www.youtube.com/watch?v=1H9tYmLWcPM&t=9538s>`_ 「一冊だけこの本」は難しい。本屋で薄めの入門書を何冊かやるのがおすすめ。自分に合う本を探そう
+* `2:42:44 <https://www.youtube.com/watch?v=1H9tYmLWcPM&t=9764s>`_ 慣れてくると「Pythonチュートリアル」が読めたら初心者卒業。チュートリアルのmatch/case、例外の新機能を翻訳しました
+* `2:46:20 <https://www.youtube.com/watch?v=1H9tYmLWcPM&t=9980s>`_ 学ぶ題材を見つけるの難しい。仲間、先輩、師匠が作れるといい。PyCon APAC 2023、Python Boot Campに行こう！
+* `2:49:42 <https://www.youtube.com/watch?v=1H9tYmLWcPM&t=10182s>`_ 飲み会で本の話をよくする
+* `2:54:38 <https://www.youtube.com/watch?v=1H9tYmLWcPM&t=10478s>`_ PyLadiesをフィーチャーしたい
