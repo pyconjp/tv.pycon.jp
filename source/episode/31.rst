@@ -2,7 +2,7 @@
  #31: Python 3.12の新機能を試す - 2023-08-04
 =============================================
 
-`2023年10月にリリース予定のPython 3.12 <https://peps.python.org/pep-0693/>`_ 、リリースノートや `What's New In Python 3.12 <https://docs.python.org/3.12/whatsnew/3.12.html>`_ を読みながら、その新機能を実際に試してみます。
+`2023年10月にリリース予定のPython 3.12 <https://peps.python.org/pep-0693/>`_ 、リリースノートや `What's New In Python 3.12 <https://docs.python.org/3.12/whatsnew/3.12.html>`__ を読みながら、その新機能を実際に試してみます。
 
 .. raw:: html
 
@@ -21,11 +21,29 @@
 
 Pythonニュース
 --------------
-* TBD
+* PyCon APAC 2023
+
+  * `PyCon JP Blog: PyCon APAC 2023 プロポーザルの採択結果 - Accepted Proposals (30min/15min Talk) <https://pyconjp.blogspot.com/2023/07/2023-accepted-regular-talks.html>`_
+  * `PyCon JP Blog: PyCon APAC 2023 コミュニティポスターセッションの募集をします <https://pyconjp.blogspot.com/2023/07/community-poster-cfp-ja.html>`_
+  * `PyCon JP Blog: PyCon APAC 2023 遠方参加者の支援制度について <https://pyconjp.blogspot.com/2023/07/pyconapac2023-travel-grant-ja.html>`_
+* 国内イベント
+
+  * 8月21日トーク募集締め切り: `DjangoCongress JP 2023 <https://djangocongress.jp/>`_
+  * 8月26日開催: `DjangoCongress JP 2023 <https://djangocongress.jp/>`_
+  * 8月5日開催: `Python Boot Camp in 愛知 Re:2nd - connpass <https://pyconjp.connpass.com/event/286959/>`_
+  * 9月16日開催: `Python Boot Camp in 富山県富山市 - connpass <https://pyconjp.connpass.com/event/287004/>`_
+* 海外イベント
+
+  * 8月5日CfP締め切り: `PyCon India 2023 proposals <https://in.pycon.org/cfp/pycon-india-2023/proposals/>`_
+  * 8月16日CfP締め切り: `PyCon Thailand 2023 <https://th.pycon.org/>`_
+  * 9月15日CfP締め切り: `PyCon ID 2023 <https://pycon.id/>`_
 
 Python 3.12の新機能を試す
 -------------------------
-* TBD
+* `PEP 693 – Python 3.12 Release Schedule | peps.python.org <https://peps.python.org/pep-0693/>`_
+* `Python Insider: Python 3.12.0 beta 4 released <https://pythoninsider.blogspot.com/2023/07/pleased-to-announce-release-of-python-3.html>`_
+* `Python Release Python 3.12.0b4 | Python.org <https://www.python.org/downloads/release/python-3120b4/>`_
+* `What's New In Python 3.12 <https://docs.python.org/ja/3.12/whatsnew/3.12.html>`__
 
 飲みトーク
 ----------
@@ -33,4 +51,23 @@ Python 3.12の新機能を試す
 
 目次
 ====
-* TBD
+* `0:00:52 <https://www.youtube.com/watch?v=cx747g-EhcY&t=52s>`_ 配信開始。暑さ対策
+* `0:05:55 <https://www.youtube.com/watch?v=cx747g-EhcY&t=355s>`_ 【Pythonニュース】PyCon APAC 2023の採択結果が公開
+* `0:08:01 <https://www.youtube.com/watch?v=cx747g-EhcY&t=481s>`_ PyCon APAC 2023でコミュニティのポスターセッションを募集中
+* `0:08:41 <https://www.youtube.com/watch?v=cx747g-EhcY&t=521s>`_ PyCon APAC 2023で参加者の遠方支援を受付中
+* `0:10:27 <https://www.youtube.com/watch?v=cx747g-EhcY&t=627s>`_ DjangoCongress JP 2023プロポーザル募集中
+* `0:11:05 <https://www.youtube.com/watch?v=cx747g-EhcY&t=665s>`_ 8月26日(土)にオープンデベロッパーカンファレンス(ODC)が開催
+* `0:11:59 <https://www.youtube.com/watch?v=cx747g-EhcY&t=719s>`_ Python Boot Camp in 愛知 Re:2nd、富山県富山市が開催予定
+* `0:13:15 <https://www.youtube.com/watch?v=cx747g-EhcY&t=795s>`_ PyCon India 2023、PyCon Thailand 2023、PyCon Indonesia 2023でプロポーザル募集中
+* `0:16:23 <https://www.youtube.com/watch?v=cx747g-EhcY&t=983s>`_ 【メイントーク】Python 3.12の新機能を試す
+* `0:19:09 <https://www.youtube.com/watch?v=cx747g-EhcY&t=1149s>`_ What's New in Python 3.12を見る。リリースハイライト
+* `0:22:43 <https://www.youtube.com/watch?v=cx747g-EhcY&t=1363s>`_ Improved Error Messages、エラーメッセージの改善
+* `0:26:39 <https://www.youtube.com/watch?v=cx747g-EhcY&t=1599s>`_ PEP 701: Syntactic formalization of f-strings、f-stringの構文形式化
+* `0:32:51 <https://www.youtube.com/watch?v=cx747g-EhcY&t=1971s>`_ PEP 709: Comprehension inlining、内包表記のインライン化
+* `0:35:17 <https://www.youtube.com/watch?v=cx747g-EhcY&t=2117s>`_ PEP 688: Making the buffer protocol accessible in Python。PEP 684: A Per-Interpreter GIL
+* `0:38:31 <https://www.youtube.com/watch?v=cx747g-EhcY&t=2311s>`_ New Features Related to Type Hints、型ヒント関連の新機能
+* `0:44:45 <https://www.youtube.com/watch?v=cx747g-EhcY&t=2685s>`_ モジュールの変更からpathlib、sqlite3、unittest、uuid
+* `0:50:50 <https://www.youtube.com/watch?v=cx747g-EhcY&t=3050s>`_ Optimizations、最適化
+* `0:54:22 <https://www.youtube.com/watch?v=cx747g-EhcY&t=3262s>`_ Python 3.11使ってる？from __future__ import annotationsをなくしたい！ruffが便利
+* `0:58:48 <https://www.youtube.com/watch?v=cx747g-EhcY&t=3528s>`_ 【次回予告】9月8日(金)から「PyCon Korea、PyCon Taiwain 2023の振り返り」
+* `1:01:04 <https://www.youtube.com/watch?v=cx747g-EhcY&t=3664s>`_ 🍻 カシャプシュ 🍺 軽井沢高原ビール 2023年限定 Fruity White Ale
