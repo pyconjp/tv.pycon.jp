@@ -1,0 +1,39 @@
+==========================================================
+ #32: PyCon Korea、PyCon Taiwan 2023振り返り - 2023-09-08
+==========================================================
+
+2023年の8月11日〜13日に開催された `PyCon Korea 2023 <https://2023.pycon.kr/>`_ と
+9月2日〜3日に開催された `PyCon Taiwan 2023 <https://tw.pycon.org/2023/en-us>`_
+の現地の様子を、写真を交えてレポートします。
+
+.. .. raw:: html
+
+   (YouTubeの埋め込みリンク)
+
+関連リンク
+==========
+* `PyCon JP - YouTubeチャンネル <https://www.youtube.com/user/PyConJP>`_
+* Twitter: `@pyconjptv <https://twitter.com/pyconjptv>`_
+* `PyCon JP TVお便りコーナー <https://docs.google.com/forms/d/e/1FAIpQLSfvL4cKteAaG_czTXjofR83owyjXekG9GNDGC6-jRZCb_2HRw/viewform>`_
+
+パーソナリティ
+--------------
+* 寺田 学(`@terapyon <https://twitter.com>`_)
+* 鈴木 たかのり(`@takanory <https://twitter.com/takanory>`_)
+
+Pythonニュース
+--------------
+* TBD
+
+PyCon Korea、PyCon Taiwan 2023振り返り
+--------------------------------------
+* `PyCon Korea 2023 <https://2023.pycon.kr/>`__
+* `PyCon Taiwan 2023 <https://tw.pycon.org/2023/en-us>`_  
+
+飲みトーク
+----------
+* TBD
+
+目次
+====
+* TBD
