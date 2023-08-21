@@ -6,9 +6,9 @@
 9月2日〜3日に開催された `PyCon Taiwan 2023 <https://tw.pycon.org/2023/en-us>`_
 の現地の様子を、写真を交えてレポートします。
 
-.. .. raw:: html
+.. raw:: html
 
-   (YouTubeの埋め込みリンク)
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/y9N6Y9C-V0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 関連リンク
 ==========
