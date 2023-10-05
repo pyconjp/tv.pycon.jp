@@ -23,7 +23,25 @@
 
 Pythonニュース
 --------------
-* TBD
+* PyCon APAC 2023
+
+  * `PyCon JP Blog: PyCon APAC 2023 チケットの種類と販売開始日のお知らせ <https://pyconjp.blogspot.com/2023/08/pyconapac2023-tickets-ja.html>`_
+  * `PyCon JP Blog: Python Boot Camp & PyLadies Caravan 遠方参加者支援募集のお知らせ(PyCon APAC 2023) <https://pyconjp.blogspot.com/2023/08/pycamp-and-pyledies-caravan-support2023.html>`_
+* 国内イベント
+
+  * `Python Boot Camp in 富山県富山市 - connpass <https://pyconjp.connpass.com/event/287004/>`_
+  * `PyCon JP Blog: 「Python Boot Camp in 徳島2nd」開催決定のお知らせ <https://pyconjp.blogspot.com/2023/08/python-boot-camp-in-tokushima-2nd.html.html>`_
+  * `DjangoCongress JP 2023 <https://djangocongress.jp/>`_
+* 海外イベント
+
+  * `proposals/2024/cfp-main-2024.md at master · PyConAPAC/proposals <https://github.com/PyConAPAC/proposals/blob/master/2024/cfp-main-2024.md>`_
+  * `PyCon ID 2023 <https://pycon.id/>`_
+  * `PyLadiesCon 2023 <http://conference.pyladies.com/>`_
+* その他
+
+  * `Python Insider: Python 3.12.0 release candidate 1 released <https://pythoninsider.blogspot.com/2023/08/python-3120-release-candidate-1-released.html>`_
+  * `Python Insider: Python 3.11.5, 3.10.13, 3.9.18, and 3.8.18 is now available <https://pythoninsider.blogspot.com/2023/08/python-3115-31013-3918-and-3818-is-now.html>`_
+  * `Python to Excel | Microsoft 365 <https://www.microsoft.com/en-us/microsoft-365/python-in-excel>`__
 
 PyCon Korea、PyCon Taiwan 2023振り返り
 --------------------------------------
@@ -36,4 +54,22 @@ PyCon Korea、PyCon Taiwan 2023振り返り
 
 目次
 ====
-* TBD
+* `0:00:30 <https://www.youtube.com/watch?v=y9N6Y9C-V0Q&t=30s>`_ 配信開始、旅行を快適にするグッズ
+* `0:07:13 <https://www.youtube.com/watch?v=y9N6Y9C-V0Q&t=433s>`_ 【Pythonニュース】PyCon APAC 2023のチケット販売開始
+* `0:08:17 <https://www.youtube.com/watch?v=y9N6Y9C-V0Q&t=497s>`_ Python Boot Camp & PyLadies Caravan遠方支援の募集
+* `0:09:23 <https://www.youtube.com/watch?v=y9N6Y9C-V0Q&t=563s>`_ Python Boot Camp in 富山県富山市
+* `0:10:19 <https://www.youtube.com/watch?v=y9N6Y9C-V0Q&t=619s>`_ Python Boot Camp In 徳島2ndが開催予定
+* `0:11:09 <https://www.youtube.com/watch?v=y9N6Y9C-V0Q&t=669s>`_ DjangoCongress JP 2023のチケット発売中
+* `0:12:26 <https://www.youtube.com/watch?v=y9N6Y9C-V0Q&t=746s>`_ PyCon APAC 2024のホスト国を募集中
+* `0:13:26 <https://www.youtube.com/watch?v=y9N6Y9C-V0Q&t=806s>`_ PyCon IndonesiaのProposal募集中
+* `0:14:02 <https://www.youtube.com/watch?v=y9N6Y9C-V0Q&t=842s>`_ PyLadiesConがProposal募集中
+* `0:14:58 <https://www.youtube.com/watch?v=y9N6Y9C-V0Q&t=898s>`_ Python 3.12RC1がリリース、Pythonの各種アップデート
+* `0:15:51 <https://www.youtube.com/watch?v=y9N6Y9C-V0Q&t=951s>`_ Python in Excel
+* `0:17:06 <https://www.youtube.com/watch?v=y9N6Y9C-V0Q&t=1026s>`_ 【メイントーク】PyCon Korea、PyCon Taiwan 2023振り返り
+* `0:18:08 <https://www.youtube.com/watch?v=y9N6Y9C-V0Q&t=1088s>`_ PyCon Korea カンファレンス1日目を写真を中心に紹介
+* `0:27:28 <https://www.youtube.com/watch?v=y9N6Y9C-V0Q&t=1648s>`_ PyCon Korea カンファレンス2日目
+* `0:36:56 <https://www.youtube.com/watch?v=y9N6Y9C-V0Q&t=2216s>`_ PyCon Taiwan カンファレンス1日目を写真を中心に紹介
+* `0:49:46 <https://www.youtube.com/watch?v=y9N6Y9C-V0Q&t=2986s>`_ PyCon Taiwan カンファレンス2日目
+* `0:59:48 <https://www.youtube.com/watch?v=y9N6Y9C-V0Q&t=3588s>`_ お便りコーナー、次回予告
+* `1:04:08 <https://www.youtube.com/watch?v=y9N6Y9C-V0Q&t=3848s>`_ 🍻 カシャプシュ
+

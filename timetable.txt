@@ -1,21 +1,19 @@
-https://www.youtube.com/watch?v=cx747g-EhcY
-0:00:52 配信開始。暑さ対策
-0:05:55 【Pythonニュース】PyCon APAC 2023の採択結果が公開
-0:08:01 PyCon APAC 2023でコミュニティのポスターセッションを募集中
-0:08:41 PyCon APAC 2023で参加者の遠方支援を受付中
-0:10:27 DjangoCongress JP 2023プロポーザル募集中
-0:11:05 8月26日(土)にオープンデベロッパーカンファレンス(ODC)が開催
-0:11:59 Python Boot Camp in 愛知 Re:2nd、富山県富山市が開催予定
-0:13:15 PyCon India 2023、PyCon Thailand 2023、PyCon Indonesia 2023でプロポーザル募集中
-0:16:23 【メイントーク】Python 3.12の新機能を試す
-0:19:09 What's New in Python 3.12を見る。リリースハイライト
-0:22:43 Improved Error Messages、エラーメッセージの改善
-0:26:39 PEP 701: Syntactic formalization of f-strings、f-stringの構文形式化
-0:32:51 PEP 709: Comprehension inlining、内包表記のインライン化
-0:35:17 PEP 688: Making the buffer protocol accessible in Python。PEP 684: A Per-Interpreter GIL
-0:38:31 New Features Related to Type Hints、型ヒント関連の新機能
-0:44:45 モジュールの変更からpathlib、sqlite3、unittest、uuid
-0:50:50 Optimizations、最適化
-0:54:22 Python 3.11使ってる？from __future__ import annotationsをなくしたい！ruffが便利
-0:58:48 【次回予告】9月8日(金)から「PyCon Korea、PyCon Taiwain 2023の振り返り」
-1:01:04 🍻 カシャプシュ 🍺 軽井沢高原ビール 2023年限定 Fruity White Ale
+https://www.youtube.com/watch?v=y9N6Y9C-V0Q
+0:00:30 配信開始、旅行を快適にするグッズ
+0:07:13 【Pythonニュース】PyCon APAC 2023のチケット販売開始
+0:08:17 Python Boot Camp & PyLadies Caravan遠方支援の募集
+0:09:23 Python Boot Camp in 富山県富山市
+0:10:19 Python Boot Camp In 徳島2ndが開催予定
+0:11:09 DjangoCongress JP 2023のチケット発売中
+0:12:26 PyCon APAC 2024のホスト国を募集中
+0:13:26 PyCon IndonesiaのProposal募集中
+0:14:02 PyLadiesConがProposal募集中
+0:14:58 Python 3.12RC1がリリース、Pythonの各種アップデート
+0:15:51 Python in Excel
+0:17:06 【メイントーク】PyCon Korea、PyCon Taiwan 2023振り返り
+0:18:08 PyCon Korea カンファレンス1日目を写真を中心に紹介
+0:27:28 PyCon Korea カンファレンス2日目
+0:36:56 PyCon Taiwan カンファレンス1日目を写真を中心に紹介
+0:49:46 PyCon Taiwan カンファレンス2日目
+0:59:48 お便りコーナー、次回予告
+1:04:08 🍻 カシャプシュ
