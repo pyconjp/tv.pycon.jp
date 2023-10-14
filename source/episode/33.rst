@@ -21,11 +21,45 @@
 
 Pythonニュース
 --------------
-* TBD
+* 国内イベント
+  
+  * `PyCon JP Blog: PyCon JP 2024の座長を募集します <https://pyconjp.blogspot.com/2023/09/pyconjp2024-call-for-chair.html>`_
+  * DjangoCongress JP 2023が無事開催: `django-ja（@django_ja）さん / X <https://twitter.com/django_ja>`_
+  * `Python Boot Camp in 徳島2nd - connpass <https://pyconjp.connpass.com/event/293032/>`_
+  * `PyCon JP Blog: 「Python Boot Camp in 富山県富山市」を開催しました！ <https://pyconjp.blogspot.com/2023/09/pycamp-in-toyama-report.html>`_
+* 海外イベント
+
+  * `PyCon TW 2023 カンファレンスレポート | gihyo.jp <https://gihyo.jp/article/2023/09/pycon-tw2023>`_
+  * `PyCon Hong Kong 2023 <https://pycon.hk/>`_: 11月11日開催
+  * `PyCon Indonesia 2023 <https://pycon.id/>`_: 11月18日、19日開催
+  * `PyLadiesCon 2023 <http://conference.pyladies.com/>`_: 12月1日〜3日開催
+  * `PyCon Thailand 2023 <https://th.pycon.org/>`_: 12月15日、16日開催
+* その他
+
+  * `Python Insider: Python 3.12.0 (final) now available <https://blog.python.org/2023/10/python-3120-final-now-available.html>`_
+
 
 PyCon APAC 2023の楽しみ方
 -------------------------
-* `PyCon APAC 2023 <https://2023-apac.pycon.jp/>`_
+* 公式サイト: `PyCon APAC 2023 <https://2023-apac.pycon.jp/>`__
+
+  * `タイムテーブル <https://2023-apac.pycon.jp/timetable>`__
+  * `ライトニングトーク <https://2023-apac.pycon.jp/lightning-talk>`_
+  * `ポスターセッション <https://2023-apac.pycon.jp/poster>`_
+  * `スポンサー一覧 <https://2023-apac.pycon.jp/sponsor>`_
+* チケット販売サイト: `PyCon APAC 2023 <https://pretix.eu/pyconjp/2023-apac/>`__
+* `PyCon APAC 2023の歩き方 | gihyo.jp <https://gihyo.jp/article/2023/09/howtowalk-pycon-apac2023>`_
+* チュートリアル
+
+  * `PyCon JP Blog: PyCon APAC 2023内で開催されるチュートリアルを紹介します <https://pyconjp.blogspot.com/2023/09/pycon-apac-2023-tutorial-introduction.html>`_
+  * `PyCon JP Blog: PyCon APAC 2023のチュートリアルチケットの買い方 <https://pyconjp.blogspot.com/2023/10/how.html>`_
+* 懇親会
+
+  * `PyCon JP Blog: PyCon APAC 2023オリジナルビールを開発中です！ <https://pyconjp.blogspot.com/2023/09/2023-original-beer-kickoff.html>`_
+  * `PyCon JP Blog: PyCon APAC 2023オリジナルビールの仕込みに行ってきました！！ <https://pyconjp.blogspot.com/2023/09/2023-original-beer-preparation.html>`_
+* 託児
+
+  * `PyCon JP Blog: PyCon APAC 2023 託児サービスのごあんない <https://pyconjp.blogspot.com/2023/10/childcare.html>`_
 
 飲みトーク
 ----------
@@ -33,4 +67,32 @@ PyCon APAC 2023の楽しみ方
 
 目次
 ====
-* TBD
+* `0:00:31 <https://www.youtube.com/watch?v=MNM5cIoUIZ8&t=31s>`_ 配信開始、コメント募集「PyCon APAC 2023のチケット買いましたか？」
+* `0:03:25 <https://www.youtube.com/watch?v=MNM5cIoUIZ8&t=205s>`_ 【Pythonニュース】PyCon JP 2024の座長を募集
+* `0:04:56 <https://www.youtube.com/watch?v=MNM5cIoUIZ8&t=296s>`_ DjangoCongress JP 2023が無事開催
+* `0:06:09 <https://www.youtube.com/watch?v=MNM5cIoUIZ8&t=369s>`_ Python Boot Camp in 徳島2ndが開催予定
+* `0:07:33 <https://www.youtube.com/watch?v=MNM5cIoUIZ8&t=453s>`_ Python Boot Camp in 富山県富山市が開催
+* `0:08:17 <https://www.youtube.com/watch?v=MNM5cIoUIZ8&t=497s>`_ PyCon TW 2023のレポートが公開
+* `0:10:48 <https://www.youtube.com/watch?v=MNM5cIoUIZ8&t=648s>`_ PyCon Hong Kong 2023が11月11日に開催、チケット発売中
+* `0:11:51 <https://www.youtube.com/watch?v=MNM5cIoUIZ8&t=711s>`_ PyCon Indonesia 2023が11月18日、19日に開催、チケット発売中
+* `0:12:25 <https://www.youtube.com/watch?v=MNM5cIoUIZ8&t=745s>`_ PyLadiesConがオンラインで12月1日〜3日で開催
+* `0:13:37 <https://www.youtube.com/watch?v=MNM5cIoUIZ8&t=817s>`_ PyCon Thainland 23が12月15日、16日で開催、チケット発売中
+* `0:14:48 <https://www.youtube.com/watch?v=MNM5cIoUIZ8&t=888s>`_ Pytthon 3.12.0 finalがリリース
+* `0:16:12 <https://www.youtube.com/watch?v=MNM5cIoUIZ8&t=972s>`_ 【メイントーク】PyCon APAC 2023の楽しみ方、PyCon APACとは、イベント概要
+* `0:20:50 <https://www.youtube.com/watch?v=MNM5cIoUIZ8&t=1250s>`_ 公式サイトを紹介
+* `0:24:26 <https://www.youtube.com/watch?v=MNM5cIoUIZ8&t=1466s>`_ チケット購入の仕方、学生割引、パーティーは別
+* `0:28:02 <https://www.youtube.com/watch?v=MNM5cIoUIZ8&t=1682s>`_ 「PyCon APAC 2023の歩き方」の記事をベースに各イベントを紹介
+* `0:30:15 <https://www.youtube.com/watch?v=MNM5cIoUIZ8&t=1815s>`_ チュートリアル
+* `0:32:43 <https://www.youtube.com/watch?v=MNM5cIoUIZ8&t=1963s>`_ 基調講演
+* `0:33:55 <https://www.youtube.com/watch?v=MNM5cIoUIZ8&t=2035s>`_ トークセッション、ライトニングトーク
+* `0:35:55 <https://www.youtube.com/watch?v=MNM5cIoUIZ8&t=2155s>`_ ポスターセッション
+* `0:38:25 <https://www.youtube.com/watch?v=MNM5cIoUIZ8&t=2305s>`_ スポンサーブース、書籍販売を調整中
+* `0:41:33 <https://www.youtube.com/watch?v=MNM5cIoUIZ8&t=2493s>`_ アンカンファレンス、PyCon JP TVでなにかできないかなぁ
+* `0:43:03 <https://www.youtube.com/watch?v=MNM5cIoUIZ8&t=2583s>`_ 懇親会、PyCon APAC 2023のオリジナルビールを絶賛作成中
+* `0:44:53 <https://www.youtube.com/watch?v=MNM5cIoUIZ8&t=2693s>`_ スプリント
+* `0:45:35 <https://www.youtube.com/watch?v=MNM5cIoUIZ8&t=2735s>`_ 託児所
+* `0:47:59 <https://www.youtube.com/watch?v=MNM5cIoUIZ8&t=2879s>`_ 楽しむためにDay 1のオープニングから参加、スポンサーブースを回る、スピーカーに話しかける、スタッフに話しかける
+* `0:52:13 <https://www.youtube.com/watch?v=MNM5cIoUIZ8&t=3133s>`_ 英語で外国の人に話しかけてみよう！「どこから来たんですか？Pythonでどんなことしてるんですか？」ランチとコーヒーブレイクで交流してほしい
+* `0:57:23 <https://www.youtube.com/watch?v=MNM5cIoUIZ8&t=3443s>`_ コメントを紹介。現地でぜひパーソナリティに声をかけて！
+* `1:01:55 <https://www.youtube.com/watch?v=MNM5cIoUIZ8&t=3715s>`_ 次回予告：11月2日(木)「PyCon APAC 2023振り返り」
+* `1:03:36 <https://www.youtube.com/watch?v=MNM5cIoUIZ8&t=3816s>`_ 🍻 カシャプシュ 🍺  オリエンタルブルーイング「越中 富山 酒は百薬の長」
