@@ -6,9 +6,9 @@
 `PyCon APAC 2023 <https://2023-apac.pycon.jp/>`__
 の様子を、写真を中心にお伝えします。
 
-.. .. raw:: html
+.. raw:: html
 
-   (YouTubeの埋め込みリンク)
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/PfCmxzBd4v8?si=dU9jM0UpWUfNM-hN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 関連リンク
 ==========
