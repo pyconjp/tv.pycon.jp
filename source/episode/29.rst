@@ -1,3 +1,7 @@
+:og:image: https://tv.pycon.jp/_images/episode29.jpg
+
+.. |cover| image:: images/episode29.jpg
+
 ================================================
  #29: PyCon US 2023振り返り Part.2 - 2023-06-02
 ================================================

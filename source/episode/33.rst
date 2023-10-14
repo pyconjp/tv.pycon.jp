@@ -1,3 +1,7 @@
+:og:image: https://tv.pycon.jp/_images/episode33.jpg
+
+.. |cover| image:: images/episode33.jpg
+
 =============================================
  #33: PyCon APAC 2023の楽しみ方 - 2023-10-13
 =============================================
