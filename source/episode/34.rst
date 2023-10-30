@@ -1,3 +1,7 @@
+:og:image: https://tv.pycon.jp/_images/episode34.jpg
+
+.. |cover| image:: images/episode34.jpg
+
 ===========================================
  #34: PyCon APAC 2023振り返り - 2023-11-02
 ===========================================
