@@ -1,13 +1,15 @@
-=========================================
- #35: PyCon HK 2023振り返り - 2023-12-01
-=========================================
+========================================================================
+ #35: PyCon Hong Kong 2023振り返り & Guido氏講演会レポート - 2023-12-01
+========================================================================
 
-2023年11月11日(土)に香港で開催されたPyCon HK 2023に、パーソナリティの鈴木たかのりがスピーカーとして参加してきます。
-初めて参加するPyCon HK 2023の様子をお伝えします。
+2023年11月11日(土)に香港で開催された「PyCon Hong Kong 2023」に、パーソナリティの鈴木たかのりがスピーカーとして参加してきました。
+初めて参加するPyCon Hong Kong 2023の様子をお伝えします。
 
-.. .. raw:: html
+また、2023年11月30日(木)に開催された「Guido氏インタラクティブ記念講演会」のレポートもお伝えします。
 
-   (YouTubeの埋め込みリンク)
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/8d9rg6ul2w8?si=JUAI4f_vMjNbkC8u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 関連リンク
 ==========
@@ -26,7 +28,8 @@ Pythonニュース
 
 PyCon HK 2023振り返り
 ---------------------
-* https://pycon.hk/
+* `2023 - PyCon Hong Kong <https://pycon.hk/2023/>`_
+* `Guido氏インタラクティブ記念講演会 PyCon JP枠 - connpass <https://pyconjp.connpass.com/event/301716/>`_
 
 飲みトーク
 ----------
