@@ -50,7 +50,9 @@ PyCon Korea、PyCon Taiwan 2023振り返り
 
 飲みトーク
 ----------
-* TBD
+* 🍺 `Taihu Brewing <https://www.taihubrewing.com/taihubrewing_>`__ Regent Apple Kiwi Pineapple（AKP鮮果艾爾）
+* 🍺 `Taihu Brewing <https://www.taihubrewing.com/taihubrewing_>`__ Winter Melon Lemon Ale（檬檬冬冬）
+* 🍺 `Siete - ビール - West Coast Brewing <https://www.westcoastbrewing.jp/beer/siete/>`_
 
 目次
 ====
@@ -71,5 +73,19 @@ PyCon Korea、PyCon Taiwan 2023振り返り
 * `0:36:56 <https://www.youtube.com/watch?v=y9N6Y9C-V0Q&t=2216s>`_ PyCon Taiwan カンファレンス1日目を写真を中心に紹介
 * `0:49:46 <https://www.youtube.com/watch?v=y9N6Y9C-V0Q&t=2986s>`_ PyCon Taiwan カンファレンス2日目
 * `0:59:48 <https://www.youtube.com/watch?v=y9N6Y9C-V0Q&t=3588s>`_ お便りコーナー、次回予告
-* `1:04:08 <https://www.youtube.com/watch?v=y9N6Y9C-V0Q&t=3848s>`_ 🍻 カシャプシュ
-
+* `1:04:08 <https://www.youtube.com/watch?v=y9N6Y9C-V0Q&t=3848s>`_ 🍻 カシャプシュ 🍺  Taihu Brewing Regent Apple Kiwi Pineapple。コメントを拾う
+* `1:10:16 <https://www.youtube.com/watch?v=y9N6Y9C-V0Q&t=4216s>`_ PyCon Taiwan を台南でやるなら絶対行きたい
+* `1:14:14 <https://www.youtube.com/watch?v=y9N6Y9C-V0Q&t=4454s>`_ PyCon Korea グッズの紹介。takanoryの韓国でのトークについて
+* `1:20:28 <https://www.youtube.com/watch?v=y9N6Y9C-V0Q&t=4828s>`_ 韓国からAPACに参加するよって人の話。韓国にいるCPythonコミッター
+* `1:24:28 <https://www.youtube.com/watch?v=y9N6Y9C-V0Q&t=5068s>`_ 🍺 Taihu Brewing Winter Melon Lemon Ale。韓国のPyConメンバーもあまり飲まない
+* `1:26:21 <https://www.youtube.com/watch?v=y9N6Y9C-V0Q&t=5181s>`_ 🍺 West Coast Brewing Siete。韓国は若い参加者、女性も多かった。運営はKwonHanさんがお父さんみたい
+* `1:28:36 <https://www.youtube.com/watch?v=y9N6Y9C-V0Q&t=5316s>`_ 韓国はスライド事前提出で大変だった。プレゼンシステムの話
+* `1:33:14 <https://www.youtube.com/watch?v=y9N6Y9C-V0Q&t=5594s>`_ PyCon Taiwanのインタビュー動画
+* `1:50:44 <https://www.youtube.com/watch?v=y9N6Y9C-V0Q&t=6644s>`_ PyCon Taiwanグッズの紹介
+* `1:58:50 <https://www.youtube.com/watch?v=y9N6Y9C-V0Q&t=7130s>`_ Taiwan 2日目のあとのパーティーから。鶏まるごとの鍋。10人集めてまた行きたい
+* `2:05:28 <https://www.youtube.com/watch?v=y9N6Y9C-V0Q&t=7528s>`_ Moskyとも再会できた。いまもPythonコミュニティと関わっていることがわかって良かった。台湾は日本からの参加人数も多いので楽しい
+* `2:09:32 <https://www.youtube.com/watch?v=y9N6Y9C-V0Q&t=7772s>`_ Philippinesから来たZoraxが歌い出すLT。Wei LeeのPyCon APAC 2023宣伝LTでpeacockとkame-chanの動画が使われていた
+* `2:15:44 <https://www.youtube.com/watch?v=y9N6Y9C-V0Q&t=8144s>`_ PyCon Taiwanでインタビューを撮っている人がいた。PyNightではノンアルコールで踊っていた。早めに抜け出してビールを飲みに行った
+* `2:22:14 <https://www.youtube.com/watch?v=y9N6Y9C-V0Q&t=8534s>`_ PyCon Korea と Taiwanには何回行った？日本からの参加メンバーの集合写真（19名）
+* `2:27:06 <https://www.youtube.com/watch?v=y9N6Y9C-V0Q&t=8826s>`_ 今後の予定
+* `2:32:06 <https://www.youtube.com/watch?v=y9N6Y9C-V0Q&t=9126s>`_ teradaはPyCon Thailandに行きたい。ヨーロッパは飛行機が高い

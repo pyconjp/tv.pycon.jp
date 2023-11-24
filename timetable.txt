@@ -1,24 +1,34 @@
-https://www.youtube.com/watch?v=PfCmxzBd4v8
-0:00:22 配信開始
-0:02:06 コメント募集「PyCon APACなにが楽しかったか、よかったか」
-0:05:24 【Pythonニュース】関西オープンフォーラムに出展
-0:06:28 PyCon Hong Kong 2023、PyCon Indonesia 2023が11月に開催予定
-0:07:44 PyLadiesCon 2023がオンラインで12月に開催予定
-0:09:04 PyCon Philippines 2024が2024年2月に開催予定
-0:09:39 PyCon APAC 2024の開催が2024年10月にインドネシアのジョグジャカルタに決定
-0:11:36 Python 3.11.0 alpha 1がリリース
-0:12:27 Python Software Doundationの新しいCommunity Communication Managerの紹介
-0:13:57 【メイントーク】PyCon APAC 2023振り返り。イベント概要を紹介
-0:15:51 【Day 0】準備、チュートリアルの様子を写真を中心に紹介
-0:19:32 PyCon APACとPyCon JP Associationのブースを設置、他準備の様子
-0:23:25 配信チェック用にビール仕込み動画が使われていたw
-0:24:55 招待制のWelcome Party
-0:26:45 今日の衣装はスピーカーTシャツとスタッフTシャツ
-0:27:22 【Day 1】オープニング、キーノート
-0:31:57 キーノートスピーカー喜多先生への合同インタビュー
-0:35:04 PyCon JP Associationミーティング。台湾からの参加者。Python ASIAミーティング
-0:45:14 PyLadies Caravan & Python Boot Campミートアップ。名札はこんな感じ
-0:49:29 【Day 2】ロストメモリー、キーノート、寺田の発表
-0:53:12 PyCon APACランチ、ポスターセッション、PyLadiesランチ
-0:57:07 バングラデシュの5人と再会、来年のPyCon APACの開催地発表
-0:59:14 次回予告
+https://www.youtube.com/watch?v=y9N6Y9C-V0Q
+0:00:30 配信開始、旅行を快適にするグッズ
+0:07:13 【Pythonニュース】PyCon APAC 2023のチケット販売開始
+0:08:17 Python Boot Camp & PyLadies Caravan遠方支援の募集
+0:09:23 Python Boot Camp in 富山県富山市
+0:10:19 Python Boot Camp In 徳島2ndが開催予定
+0:11:09 DjangoCongress JP 2023のチケット発売中
+0:12:26 PyCon APAC 2024のホスト国を募集中
+0:13:26 PyCon IndonesiaのProposal募集中
+0:14:02 PyLadiesConがProposal募集中
+0:14:58 Python 3.12RC1がリリース、Pythonの各種アップデート
+0:15:51 Python in Excel
+0:17:06 【メイントーク】PyCon Korea、PyCon Taiwan 2023振り返り
+0:18:08 PyCon Korea カンファレンス1日目を写真を中心に紹介
+0:27:28 PyCon Korea カンファレンス2日目
+0:36:56 PyCon Taiwan カンファレンス1日目を写真を中心に紹介
+0:49:46 PyCon Taiwan カンファレンス2日目
+0:59:48 お便りコーナー、次回予告
+1:04:08 🍻 カシャプシュ 🍺  Taihu Brewing Regent Apple Kiwi Pineapple。コメントを拾う
+1:10:16 PyCon Taiwan を台南でやるなら絶対行きたい
+1:14:14 PyCon Korea グッズの紹介。takanoryの韓国でのトークについて
+1:20:28 韓国からAPACに参加するよって人の話。韓国にいるCPythonコミッター
+1:24:28 🍺 Taihu Brewing Winter Melon Lemon Ale。韓国のPyConメンバーもあまり飲まない
+1:26:21 🍺 West Coast Brewing Siete。韓国は若い参加者、女性も多かった。運営はKwonHanさんがお父さんみたい
+1:28:36 韓国はスライド事前提出で大変だった。プレゼンシステムの話
+1:33:14 PyCon Taiwanのインタビュー動画
+1:50:44 PyCon Taiwanグッズの紹介
+1:58:50 Taiwan 2日目のあとのパーティーから。鶏まるごとの鍋。10人集めてまた行きたい
+2:05:28 Moskyとも再会できた。いまもPythonコミュニティと関わっていることがわかって良かった。台湾は日本からの参加人数も多いので楽しい
+2:09:32 Philippinesから来たZoraxが歌い出すLT。Wei LeeのPyCon APAC 2023宣伝LTでpeacockとkame-chanの動画が使われていた
+2:15:44 PyCon Taiwanでインタビューを撮っている人がいた。PyNightではノンアルコールで踊っていた。早めに抜け出してビールを飲みに行った
+2:22:14 PyCon Korea と Taiwanには何回行った？日本からの参加メンバーの集合写真（19名）
+2:27:06 今後の予定
+2:32:06 teradaはPyCon Thailandに行きたい。ヨーロッパは飛行機が高い
