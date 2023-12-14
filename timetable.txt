@@ -1,34 +1,19 @@
-https://www.youtube.com/watch?v=y9N6Y9C-V0Q
-0:00:30 配信開始、旅行を快適にするグッズ
-0:07:13 【Pythonニュース】PyCon APAC 2023のチケット販売開始
-0:08:17 Python Boot Camp & PyLadies Caravan遠方支援の募集
-0:09:23 Python Boot Camp in 富山県富山市
-0:10:19 Python Boot Camp In 徳島2ndが開催予定
-0:11:09 DjangoCongress JP 2023のチケット発売中
-0:12:26 PyCon APAC 2024のホスト国を募集中
-0:13:26 PyCon IndonesiaのProposal募集中
-0:14:02 PyLadiesConがProposal募集中
-0:14:58 Python 3.12RC1がリリース、Pythonの各種アップデート
-0:15:51 Python in Excel
-0:17:06 【メイントーク】PyCon Korea、PyCon Taiwan 2023振り返り
-0:18:08 PyCon Korea カンファレンス1日目を写真を中心に紹介
-0:27:28 PyCon Korea カンファレンス2日目
-0:36:56 PyCon Taiwan カンファレンス1日目を写真を中心に紹介
-0:49:46 PyCon Taiwan カンファレンス2日目
-0:59:48 お便りコーナー、次回予告
-1:04:08 🍻 カシャプシュ 🍺  Taihu Brewing Regent Apple Kiwi Pineapple。コメントを拾う
-1:10:16 PyCon Taiwan を台南でやるなら絶対行きたい
-1:14:14 PyCon Korea グッズの紹介。takanoryの韓国でのトークについて
-1:20:28 韓国からAPACに参加するよって人の話。韓国にいるCPythonコミッター
-1:24:28 🍺 Taihu Brewing Winter Melon Lemon Ale。韓国のPyConメンバーもあまり飲まない
-1:26:21 🍺 West Coast Brewing Siete。韓国は若い参加者、女性も多かった。運営はKwonHanさんがお父さんみたい
-1:28:36 韓国はスライド事前提出で大変だった。プレゼンシステムの話
-1:33:14 PyCon Taiwanのインタビュー動画
-1:50:44 PyCon Taiwanグッズの紹介
-1:58:50 Taiwan 2日目のあとのパーティーから。鶏まるごとの鍋。10人集めてまた行きたい
-2:05:28 Moskyとも再会できた。いまもPythonコミュニティと関わっていることがわかって良かった。台湾は日本からの参加人数も多いので楽しい
-2:09:32 Philippinesから来たZoraxが歌い出すLT。Wei LeeのPyCon APAC 2023宣伝LTでpeacockとkame-chanの動画が使われていた
-2:15:44 PyCon Taiwanでインタビューを撮っている人がいた。PyNightではノンアルコールで踊っていた。早めに抜け出してビールを飲みに行った
-2:22:14 PyCon Korea と Taiwanには何回行った？日本からの参加メンバーの集合写真（19名）
-2:27:06 今後の予定
-2:32:06 teradaはPyCon Thailandに行きたい。ヨーロッパは飛行機が高い
+https://www.youtube.com/watch?v=8d9rg6ul2w8
+0:00:30 配信開始
+0:06:09 【Pythonニュース】PyCon APACオリジナルビール振り返り
+0:07:17 関西オープンフォーラム2023、オープンソースカンファレンス東京に出展
+0:09:11 PyLadiesCon 2023が開催予定
+0:09:51 PyCon Thailand 2023、PyCon Philippines 2024が開催予定
+0:11:33 PyCon APAC 2024はインドネシアのジョグジャカルタで開催
+0:12:25 Python Developer Survey 2023、PSFの募金活動とメンバー募集キャンペーン
+0:14:38 Python 3.13.0 alpha 2がリリース
+0:15:19 【メイントークその1】PyCon Hong Kong 2023振り返り。Webサイトでイベント概要を確認、グッズを紹介
+0:21:00 カンファレンス前日の食事会。PyCon APACでビールをつくった話をした
+0:26:18 カンファレンス朝、PyCon APACブース、オープニング、maayaさんのキーノート、takanoryの発表
+0:31:56 ブースのグッズがなくなってた、他のブース、PyScriptのトーク、ランチは各自で
+0:37:26 午後のトーク、JonさんのマモノスイーパーをPythonで解く発表、クロージング
+0:41:48 パーティーの前に少し香港観光、パーティー、Cheukさんmaayaさんと2次会
+0:46:28 【メイントークその2】Guido氏講演会レポート、イベントの背景説明
+0:50:03 事前準備、ステッカー、オープニング、「GuidoさんにQ&A」コーナー
+0:56:35 「Guidoさんに活動を見てもらう」コーナー、「GuidoさんにLive Q&A」コーナー
+1:02:05 【次回予告】2024年1月12日(金) 19:30から「Pythonistaに聞く2023重大ニュースと2024の展望」
