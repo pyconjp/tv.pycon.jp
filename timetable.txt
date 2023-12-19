@@ -1,19 +1,30 @@
-https://www.youtube.com/watch?v=8d9rg6ul2w8
-0:00:30 配信開始
-0:06:09 【Pythonニュース】PyCon APACオリジナルビール振り返り
-0:07:17 関西オープンフォーラム2023、オープンソースカンファレンス東京に出展
-0:09:11 PyLadiesCon 2023が開催予定
-0:09:51 PyCon Thailand 2023、PyCon Philippines 2024が開催予定
-0:11:33 PyCon APAC 2024はインドネシアのジョグジャカルタで開催
-0:12:25 Python Developer Survey 2023、PSFの募金活動とメンバー募集キャンペーン
-0:14:38 Python 3.13.0 alpha 2がリリース
-0:15:19 【メイントークその1】PyCon Hong Kong 2023振り返り。Webサイトでイベント概要を確認、グッズを紹介
-0:21:00 カンファレンス前日の食事会。PyCon APACでビールをつくった話をした
-0:26:18 カンファレンス朝、PyCon APACブース、オープニング、maayaさんのキーノート、takanoryの発表
-0:31:56 ブースのグッズがなくなってた、他のブース、PyScriptのトーク、ランチは各自で
-0:37:26 午後のトーク、JonさんのマモノスイーパーをPythonで解く発表、クロージング
-0:41:48 パーティーの前に少し香港観光、パーティー、Cheukさんmaayaさんと2次会
-0:46:28 【メイントークその2】Guido氏講演会レポート、イベントの背景説明
-0:50:03 事前準備、ステッカー、オープニング、「GuidoさんにQ&A」コーナー
-0:56:35 「Guidoさんに活動を見てもらう」コーナー、「GuidoさんにLive Q&A」コーナー
-1:02:05 【次回予告】2024年1月12日(金) 19:30から「Pythonistaに聞く2023重大ニュースと2024の展望」
+https://www.youtube.com/watch?v=cx747g-EhcY
+0:00:52 配信開始。暑さ対策
+0:05:55 【Pythonニュース】PyCon APAC 2023の採択結果が公開
+0:08:01 PyCon APAC 2023でコミュニティのポスターセッションを募集中
+0:08:41 PyCon APAC 2023で参加者の遠方支援を受付中
+0:10:27 DjangoCongress JP 2023プロポーザル募集中
+0:11:05 8月26日(土)にオープンデベロッパーカンファレンス(ODC)が開催
+0:11:59 Python Boot Camp in 愛知 Re:2nd、富山県富山市が開催予定
+0:13:15 PyCon India 2023、PyCon Thailand 2023、PyCon Indonesia 2023でプロポーザル募集中
+0:16:23 【メイントーク】Python 3.12の新機能を試す
+0:19:09 What's New in Python 3.12を見る。リリースハイライト
+0:22:43 Improved Error Messages、エラーメッセージの改善
+0:26:39 PEP 701: Syntactic formalization of f-strings、f-stringの構文形式化
+0:32:51 PEP 709: Comprehension inlining、内包表記のインライン化
+0:35:17 PEP 688: Making the buffer protocol accessible in Python。PEP 684: A Per-Interpreter GIL
+0:38:31 New Features Related to Type Hints、型ヒント関連の新機能
+0:44:45 モジュールの変更からpathlib、sqlite3、unittest、uuid
+0:50:50 Optimizations、最適化
+0:54:22 Python 3.11使ってる？from __future__ import annotationsをなくしたい！ruffが便利
+0:58:48 【次回予告】9月8日(金)から「PyCon Korea、PyCon Taiwain 2023の振り返り」
+1:01:04 🍻 カシャプシュ 🍺 軽井沢高原ビール 2023年限定 Fruity White Ale、事前に調べたよ
+1:05:51 PyCon APAC 2023のスピーカーリスト、コミュニティポスター募集
+1:10:30 🍺 月と太陽BREWING Silver Jubilee、遠方支援に是非応募してほしい、明日は名古屋でPython Boot Camp、名古屋で何食べる？
+1:16:03 海外イベントと発表ネタ、TypeScriptのカンファレンス、香港は初めて、アジアのPyConが復活してきた
+1:27:55 What's NewだけだとわからないのでPEPを読もう、ruffの話、pyupgradeというルールがおすすめ
+1:40:13 🍺 Albion Plus Horal IPA、EuroPythonみやげの1リットルの缶、EuroPythonの話
+1:48:41 3.12はスピードアップの話があまりない、GILがオプションになる？PyCon USでの飲み会でCPythonの話
+1:59:54 Lukazさんは日本に来る？Python Boot Campテキストにはmatch/caseはない、講師として時間配分が難しい
+2:08:22 PyCon Koreaと観光の予定について
+2:19:22 🍺 フルーツブルーイング メロンエール、香りがメロン、飛行機が高い、PyCon Taiwanの予定

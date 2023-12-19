@@ -51,7 +51,13 @@ Python 3.12の新機能を試す
 
 飲みトーク
 ----------
-* TBD
+* 🍺  `「軽井沢高原ビール 2023年限定」を地域限定で新発売 | 株式会社ヤッホーブルーイング コーポレートサイト <https://yohobrewing.com/news_release/nenngentei20230116/>`_
+* 🍺 `清田区25周年記念ビール【SILVER JUBILEE】一般販売開始のお知らせ <https://moonsunbrewing.jp/news/%E6%B8%85%E7%94%B0%E5%8C%BA25%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%93%E3%83%BC%E3%83%AB%E3%80%90silver-jubilee%E3%80%91%E4%B8%80%E8%88%AC%E8%B2%A9%E5%A3%B2%E9%96%8B%E5%A7%8B%E3%81%AE%E3%81%8A/>`_
+* `Ruff <https://docs.astral.sh/ruff/>`_
+
+  * `pyupgrade (UP) <https://docs.astral.sh/ruff/rules/#pyupgrade-up>`_
+* 🍺 `HORAL IPA - Albionplus.cz <http://en.albionplus.cz/project/horal-volba-pivnich-znalcu-12-1l-tmavy-lezak-v-plechu/>`_
+* 🍺 `メロンエール - 北海道麦酒醸造株式会社 <https://hokkaidobeer.com/fruitbrewing/fruit_brewing_melon_ale/>`_
 
 目次
 ====
@@ -74,4 +80,13 @@ Python 3.12の新機能を試す
 * `0:50:50 <https://www.youtube.com/watch?v=cx747g-EhcY&t=3050s>`_ Optimizations、最適化
 * `0:54:22 <https://www.youtube.com/watch?v=cx747g-EhcY&t=3262s>`_ Python 3.11使ってる？from __future__ import annotationsをなくしたい！ruffが便利
 * `0:58:48 <https://www.youtube.com/watch?v=cx747g-EhcY&t=3528s>`_ 【次回予告】9月8日(金)から「PyCon Korea、PyCon Taiwain 2023の振り返り」
-* `1:01:04 <https://www.youtube.com/watch?v=cx747g-EhcY&t=3664s>`_ 🍻 カシャプシュ 🍺 軽井沢高原ビール 2023年限定 Fruity White Ale
+* `1:01:04 <https://www.youtube.com/watch?v=cx747g-EhcY&t=3664s>`_ 🍻 カシャプシュ 🍺 軽井沢高原ビール 2023年限定 Fruity White Ale、事前に調べたよ
+* `1:05:51 <https://www.youtube.com/watch?v=cx747g-EhcY&t=3951s>`_ PyCon APAC 2023のスピーカーリスト、コミュニティポスター募集
+* `1:10:30 <https://www.youtube.com/watch?v=cx747g-EhcY&t=4230s>`_ 🍺 月と太陽BREWING Silver Jubilee、遠方支援に是非応募してほしい、明日は名古屋でPython Boot Camp、名古屋で何食べる？
+* `1:16:03 <https://www.youtube.com/watch?v=cx747g-EhcY&t=4563s>`_ 海外イベントと発表ネタ、TypeScriptのカンファレンス、香港は初めて、アジアのPyConが復活してきた
+* `1:27:55 <https://www.youtube.com/watch?v=cx747g-EhcY&t=5275s>`_ What's NewだけだとわからないのでPEPを読もう、ruffの話、pyupgradeというルールがおすすめ
+* `1:40:13 <https://www.youtube.com/watch?v=cx747g-EhcY&t=6013s>`_ 🍺 Albion Plus Horal IPA、EuroPythonみやげの1リットルの缶、EuroPythonの話
+* `1:48:41 <https://www.youtube.com/watch?v=cx747g-EhcY&t=6521s>`_ 3.12はスピードアップの話があまりない、GILがオプションになる？PyCon USでの飲み会でCPythonの話
+* `1:59:54 <https://www.youtube.com/watch?v=cx747g-EhcY&t=7194s>`_ Lukazさんは日本に来る？Python Boot Campテキストにはmatch/caseはない、講師として時間配分が難しい
+* `2:08:22 <https://www.youtube.com/watch?v=cx747g-EhcY&t=7702s>`_ PyCon Koreaと観光の予定について
+* `2:19:22 <https://www.youtube.com/watch?v=cx747g-EhcY&t=8362s>`_ 🍺 北海道麦酒醸造 メロンエール、香りがメロン、飛行機が高い、PyCon Taiwanの予定
