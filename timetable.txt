@@ -1,30 +1,38 @@
-https://www.youtube.com/watch?v=cx747g-EhcY
-0:00:52 配信開始。暑さ対策
-0:05:55 【Pythonニュース】PyCon APAC 2023の採択結果が公開
-0:08:01 PyCon APAC 2023でコミュニティのポスターセッションを募集中
-0:08:41 PyCon APAC 2023で参加者の遠方支援を受付中
-0:10:27 DjangoCongress JP 2023プロポーザル募集中
-0:11:05 8月26日(土)にオープンデベロッパーカンファレンス(ODC)が開催
-0:11:59 Python Boot Camp in 愛知 Re:2nd、富山県富山市が開催予定
-0:13:15 PyCon India 2023、PyCon Thailand 2023、PyCon Indonesia 2023でプロポーザル募集中
-0:16:23 【メイントーク】Python 3.12の新機能を試す
-0:19:09 What's New in Python 3.12を見る。リリースハイライト
-0:22:43 Improved Error Messages、エラーメッセージの改善
-0:26:39 PEP 701: Syntactic formalization of f-strings、f-stringの構文形式化
-0:32:51 PEP 709: Comprehension inlining、内包表記のインライン化
-0:35:17 PEP 688: Making the buffer protocol accessible in Python。PEP 684: A Per-Interpreter GIL
-0:38:31 New Features Related to Type Hints、型ヒント関連の新機能
-0:44:45 モジュールの変更からpathlib、sqlite3、unittest、uuid
-0:50:50 Optimizations、最適化
-0:54:22 Python 3.11使ってる？from __future__ import annotationsをなくしたい！ruffが便利
-0:58:48 【次回予告】9月8日(金)から「PyCon Korea、PyCon Taiwain 2023の振り返り」
-1:01:04 🍻 カシャプシュ 🍺 軽井沢高原ビール 2023年限定 Fruity White Ale、事前に調べたよ
-1:05:51 PyCon APAC 2023のスピーカーリスト、コミュニティポスター募集
-1:10:30 🍺 月と太陽BREWING Silver Jubilee、遠方支援に是非応募してほしい、明日は名古屋でPython Boot Camp、名古屋で何食べる？
-1:16:03 海外イベントと発表ネタ、TypeScriptのカンファレンス、香港は初めて、アジアのPyConが復活してきた
-1:27:55 What's NewだけだとわからないのでPEPを読もう、ruffの話、pyupgradeというルールがおすすめ
-1:40:13 🍺 Albion Plus Horal IPA、EuroPythonみやげの1リットルの缶、EuroPythonの話
-1:48:41 3.12はスピードアップの話があまりない、GILがオプションになる？PyCon USでの飲み会でCPythonの話
-1:59:54 Lukazさんは日本に来る？Python Boot Campテキストにはmatch/caseはない、講師として時間配分が難しい
-2:08:22 PyCon Koreaと観光の予定について
-2:19:22 🍺 フルーツブルーイング メロンエール、香りがメロン、飛行機が高い、PyCon Taiwanの予定
+https://www.youtube.com/watch?v=PfCmxzBd4v8
+0:00:22 配信開始
+0:02:06 コメント募集「PyCon APACなにが楽しかったか、よかったか」
+0:05:24 【Pythonニュース】関西オープンフォーラムに出展
+0:06:28 PyCon Hong Kong 2023、PyCon Indonesia 2023が11月に開催予定
+0:07:44 PyLadiesCon 2023がオンラインで12月に開催予定
+0:09:04 PyCon Philippines 2024が2024年2月に開催予定
+0:09:39 PyCon APAC 2024の開催が2024年10月にインドネシアのジョグジャカルタに決定
+0:11:36 Python 3.11.0 alpha 1がリリース
+0:12:27 Python Software Doundationの新しいCommunity Communication Managerの紹介
+0:13:57 【メイントーク】PyCon APAC 2023振り返り。イベント概要を紹介
+0:15:51 【Day 0】準備、チュートリアルの様子を写真を中心に紹介
+0:19:32 PyCon APACとPyCon JP Associationのブースを設置、他準備の様子
+0:23:25 配信チェック用にビール仕込み動画が使われていたw
+0:24:55 招待制のWelcome Party
+0:26:45 今日の衣装はスピーカーTシャツとスタッフTシャツ
+0:27:22 【Day 1】オープニング、キーノート
+0:31:57 キーノートスピーカー喜多先生への合同インタビュー
+0:35:04 PyCon JP Associationミーティング。台湾からの参加者。Python ASIAミーティング
+0:45:14 PyLadies Caravan & Python Boot Campミートアップ。名札はこんな感じ
+0:49:29 【Day 2】ロストメモリー、キーノート、寺田の発表
+0:53:12 PyCon APACランチ、ポスターセッション、PyLadiesランチ
+0:57:07 バングラデシュの5人と再会、来年のPyCon APACの開催地発表
+0:59:14 次回予告
+1:02:05 🍻 カシャプシュ 🍺 Augustiner Weissbier。BPython Tシャツ、パーティーの写真からビールの様子など
+1:09:12 二次会の様子。スプリントでCPythonのリーダーは韓国のコアコミッター。ランチはHENNGEさん提供
+1:13:51 スプリントのあとのUnofficialパーティー、雰囲気が最高
+1:16:41 ビールを作ったことが初めての大きな挑戦。名前やスタイルの決め方
+1:21:40 🍺 Brewdog MASH UP IPA。ビールロゴ作ってTシャツ作った話。Tシャツはすぐ売り切れた
+1:25:55 フルカンファレンス以上のことをやった
+1:28:24 ランチミートアップよかった。逆にPyCon JPブースにはほとんどいられなかった。2:30までは飲み過ぎ
+1:30:03 スプリントがHENNGEさんなら来年もUnofficialパーティーやりたい。パーティーのフードほぼ食べてない
+1:35:07 ジョグジャカルタだとお酒はなさそう。PyCon Koreaはマッコリ作る？アンケート結果気になる
+1:37:59 台湾チームとの参加人数のあおり合い。Travel GrantとVISAがんばっていた。支払いも大変
+1:43:25 Peacockさんはなにしてた？台湾のGTBさんにPretixの共有。Lorenaさんと月島でもんじゃ
+1:46:44 🍺 北陸BEER アンバーエール。お互いのトークの話
+1:53:37 ランチミーティングで色んな人が来てよかった
+1:56:39 来年のPyCon JP 2024とジョグジャカルタのPyCon APAC 2024で会いましょう！

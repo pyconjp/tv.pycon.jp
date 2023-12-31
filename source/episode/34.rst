@@ -51,7 +51,9 @@ PyCon APAC 2023振り返り
 
 飲みトーク
 ----------
-* TBD
+* 🍺 `Augustiner-Bräu München <https://www.augustiner-braeu.de/en/unser-bier.html#>`_
+* `Unofficial: PyCon APAC 2023 after party - connpass <https://connpass.com/event/300385/>`_
+* 🍺 `BREWDOG ｜ PUNK WITH A MISSION PROJECT <https://www.brewdog.jp/pwam/>`_
 
 目次
 ====
@@ -78,3 +80,17 @@ PyCon APAC 2023振り返り
 * `0:53:12 <https://www.youtube.com/watch?v=PfCmxzBd4v8&t=3192s>`_ PyCon APACランチ、ポスターセッション、PyLadiesランチ
 * `0:57:07 <https://www.youtube.com/watch?v=PfCmxzBd4v8&t=3427s>`_ バングラデシュの5人と再会、来年のPyCon APACの開催地発表
 * `0:59:14 <https://www.youtube.com/watch?v=PfCmxzBd4v8&t=3554s>`_ 次回予告
+* `1:02:05 <https://www.youtube.com/watch?v=PfCmxzBd4v8&t=3725s>`_ 🍻 カシャプシュ 🍺 Augustiner Weissbier。BPython Tシャツ、パーティーの写真からビールの様子など
+* `1:09:12 <https://www.youtube.com/watch?v=PfCmxzBd4v8&t=4152s>`_ 二次会の様子。スプリントでCPythonのリーダーは韓国のコアコミッター。ランチはHENNGEさん提供
+* `1:13:51 <https://www.youtube.com/watch?v=PfCmxzBd4v8&t=4431s>`_ スプリントのあとのUnofficialパーティー、雰囲気が最高
+* `1:16:41 <https://www.youtube.com/watch?v=PfCmxzBd4v8&t=4601s>`_ ビールを作ったことが初めての大きな挑戦。名前やスタイルの決め方
+* `1:21:40 <https://www.youtube.com/watch?v=PfCmxzBd4v8&t=4900s>`_ 🍺 Brewdog MASH UP IPA。ビールロゴ作ってTシャツ作った話。Tシャツはすぐ売り切れた
+* `1:25:55 <https://www.youtube.com/watch?v=PfCmxzBd4v8&t=5155s>`_ フルカンファレンス以上のことをやった
+* `1:28:24 <https://www.youtube.com/watch?v=PfCmxzBd4v8&t=5304s>`_ ランチミートアップよかった。逆にPyCon JPブースにはほとんどいられなかった。2:30までは飲み過ぎ
+* `1:30:03 <https://www.youtube.com/watch?v=PfCmxzBd4v8&t=5403s>`_ スプリントがHENNGEさんなら来年もUnofficialパーティーやりたい。パーティーのフードほぼ食べてない
+* `1:35:07 <https://www.youtube.com/watch?v=PfCmxzBd4v8&t=5707s>`_ ジョグジャカルタだとお酒はなさそう。PyCon Koreaはマッコリ作る？アンケート結果気になる
+* `1:37:59 <https://www.youtube.com/watch?v=PfCmxzBd4v8&t=5879s>`_ 台湾チームとの参加人数のあおり合い。Travel GrantとVISAがんばっていた。支払いも大変
+* `1:43:25 <https://www.youtube.com/watch?v=PfCmxzBd4v8&t=6205s>`_ Peacockさんはなにしてた？台湾のGTBさんにPretixの共有。Lorenaさんと月島でもんじゃ
+* `1:46:44 <https://www.youtube.com/watch?v=PfCmxzBd4v8&t=6404s>`_ 🍺 北陸BEER アンバーエール。お互いのトークの話
+* `1:53:37 <https://www.youtube.com/watch?v=PfCmxzBd4v8&t=6817s>`_ ランチミーティングで色んな人が来てよかった
+* `1:56:39 <https://www.youtube.com/watch?v=PfCmxzBd4v8&t=6999s>`_ 来年のPyCon JP 2024とジョグジャカルタのPyCon APAC 2024で会いましょう！
