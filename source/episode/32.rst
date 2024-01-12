@@ -1,3 +1,7 @@
+:og:image: https://tv.pycon.jp/_images/episode32.png
+
+.. |cover| image:: images/episode32.png
+
 ==========================================================
  #32: PyCon Korea、PyCon Taiwan 2023振り返り - 2023-09-08
 ==========================================================

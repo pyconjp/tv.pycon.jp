@@ -1,6 +1,6 @@
-:og:image: https://tv.pycon.jp/_images/episode30.jpg
+:og:image: https://tv.pycon.jp/_images/episode30.png
 
-.. |cover| image:: images/episode30.jpg
+.. |cover| image:: images/episode30.png
 
 ==============================================================
  #30: スピーカーに聞く！発表ノウハウとツール紹介 - 2023-07-07

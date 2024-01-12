@@ -1,6 +1,6 @@
-:og:image: https://tv.pycon.jp/_images/episode31.jpg
+:og:image: https://tv.pycon.jp/_images/episode31.png
 
-.. |cover| image:: images/episode31.jpg
+.. |cover| image:: images/episode31.png
 
 =============================================
  #31: Python 3.12の新機能を試す - 2023-08-04
