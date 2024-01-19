@@ -1,5 +1,5 @@
 """
-YouTubeのもくじに書いたところを読み込んで、reStructuredTextの箇条書きにする
+YouTubeのもくじに書いたところを読み込んで、markdownの箇条書きにする
 
 目次ファイルの形式
 ----
@@ -18,7 +18,7 @@ def generate_timeline(url: str, time_str: str, title: str) -> str:
     # 時間を秒にする
     hour, min, sec = time_str.split(":")
     seconds = int(hour) * 3600 + int(min) * 60 + int(sec)
-    s = f"* `{time_str} <{url}&t={seconds}s>`_ {title}"
+    s = f"* [{time_str}]({url}&t={seconds}s) {title}"
     return s
 
 
