@@ -52,26 +52,43 @@ PyCon HK 2023振り返り
 
 飲みトーク
 ----------
-* TBD
-
+* 🍺 `BPython | t0ki brewery – トキブルワリー <https://t0ki.beer/blogs/product/bpython>`_
+* 🍺 `BrewDog - Hoppy Xmas - 6% Festive IPA <https://www.brewdog.com/uk/hoppy-xmas-12-cans>`_
+* `八達通 - Wikipedia <https://ja.wikipedia.org/wiki/%E5%85%AB%E9%81%94%E9%80%9A>`_
+* `RUGGERS, Hong Kong - Restaurant Reviews, Photos & Phone Number - Tripadvisor <https://www.tripadvisor.com/Restaurant_Review-g294217-d12703324-Reviews-Ruggers-Hong_Kong.html>`_
+* `The Madhouse | Causeway Bay | Mong Kok | Craft Beer Taproom <https://www.themadhouse.com.hk/>`_  
+* `Hong Kong Island Taphouse <https://www.facebook.com/HKIslandTaphouse/>`_
+* `Linlee <https://www.linlee.com.cn>`__
+* `MACAU RESTAURANT (TSIM SHA TSUI), Hong Kong - Tsim Sha Tsui - Photos & Restaurant Reviews - Order Online Food Delivery - Tripadvisor <https://en.tripadvisor.com.hk/Restaurant_Review-g294217-d8424692-Reviews-Macau_Restaurant_Tsim_Sha_Tsui-Hong_Kong.html>`_
+* `TimHoWan - Hong Kong Dim Sum | Serving Award Winning Authentic <https://www.timhowan.com.hk/>`_
+* `掌門精釀啤酒-Zhangmen Brewery <http://www.zhangmen.co/index_en.html>`_
+* `ABOUT | THE ALE PROJECT by Young Master <https://www.thealeproject.com/tapmk-about>`_
+  
 目次
 ====
-* `0:00:30 <https://www.youtube.com/watch?v=8d9rg6ul2w8&t=30s>`_ 配信開始
-* `0:06:09 <https://www.youtube.com/watch?v=8d9rg6ul2w8&t=369s>`_ 【Pythonニュース】PyCon APACオリジナルビール振り返り
-* `0:07:17 <https://www.youtube.com/watch?v=8d9rg6ul2w8&t=437s>`_ 関西オープンフォーラム2023、オープンソースカンファレンス東京に出展
-* `0:09:11 <https://www.youtube.com/watch?v=8d9rg6ul2w8&t=551s>`_ PyLadiesCon 2023が開催予定
-* `0:09:51 <https://www.youtube.com/watch?v=8d9rg6ul2w8&t=591s>`_ PyCon Thailand 2023、PyCon Philippines 2024が開催予定
-* `0:11:33 <https://www.youtube.com/watch?v=8d9rg6ul2w8&t=693s>`_ PyCon APAC 2024はインドネシアのジョグジャカルタで開催
-* `0:12:25 <https://www.youtube.com/watch?v=8d9rg6ul2w8&t=745s>`_ Python Developer Survey 2023、PSFの募金活動とメンバー募集キャンペーン
-* `0:14:38 <https://www.youtube.com/watch?v=8d9rg6ul2w8&t=878s>`_ Python 3.13.0 alpha 2がリリース
-* `0:15:19 <https://www.youtube.com/watch?v=8d9rg6ul2w8&t=919s>`_ 【メイントークその1】PyCon Hong Kong 2023振り返り。Webサイトでイベント概要を確認、グッズを紹介
-* `0:21:00 <https://www.youtube.com/watch?v=8d9rg6ul2w8&t=1260s>`_ カンファレンス前日の食事会。PyCon APACでビールをつくった話をした
-* `0:26:18 <https://www.youtube.com/watch?v=8d9rg6ul2w8&t=1578s>`_ カンファレンス朝、PyCon APACブース、オープニング、maayaさんのキーノート、takanoryの発表
-* `0:31:56 <https://www.youtube.com/watch?v=8d9rg6ul2w8&t=1916s>`_ ブースのグッズがなくなってた、他のブース、PyScriptのトーク、ランチは各自で
-* `0:37:26 <https://www.youtube.com/watch?v=8d9rg6ul2w8&t=2246s>`_ 午後のトーク、JonさんのマモノスイーパーをPythonで解く発表、クロージング
-* `0:41:48 <https://www.youtube.com/watch?v=8d9rg6ul2w8&t=2508s>`_ パーティーの前に少し香港観光、パーティー、Cheukさんmaayaさんと2次会
-* `0:46:28 <https://www.youtube.com/watch?v=8d9rg6ul2w8&t=2788s>`_ 【メイントークその2】Guido氏講演会レポート、イベントの背景説明
-* `0:50:03 <https://www.youtube.com/watch?v=8d9rg6ul2w8&t=3003s>`_ 事前準備、ステッカー、オープニング、「GuidoさんにQ&A」コーナー
-* `0:56:35 <https://www.youtube.com/watch?v=8d9rg6ul2w8&t=3395s>`_ 「Guidoさんに活動を見てもらう」コーナー、「GuidoさんにLive Q&A」コーナー
-* `1:02:05 <https://www.youtube.com/watch?v=8d9rg6ul2w8&t=3725s>`_ 【次回予告】2024年1月12日(金) 19:30から「Pythonistaに聞く2023重大ニュースと2024の展望」
-
+* `0:00:30 <https://www.youtube.com/watch?v=8d9rg6ul2w8&t=30s>`__ 配信開始
+* `0:06:09 <https://www.youtube.com/watch?v=8d9rg6ul2w8&t=369s>`__ 【Pythonニュース】PyCon APACオリジナルビール振り返り
+* `0:07:17 <https://www.youtube.com/watch?v=8d9rg6ul2w8&t=437s>`__ 関西オープンフォーラム2023、オープンソースカンファレンス東京に出展
+* `0:09:11 <https://www.youtube.com/watch?v=8d9rg6ul2w8&t=551s>`__ PyLadiesCon 2023が開催予定
+* `0:09:51 <https://www.youtube.com/watch?v=8d9rg6ul2w8&t=591s>`__ PyCon Thailand 2023、PyCon Philippines 2024が開催予定
+* `0:11:33 <https://www.youtube.com/watch?v=8d9rg6ul2w8&t=693s>`__ PyCon APAC 2024はインドネシアのジョグジャカルタで開催
+* `0:12:25 <https://www.youtube.com/watch?v=8d9rg6ul2w8&t=745s>`__ Python Developer Survey 2023、PSFの募金活動とメンバー募集キャンペーン
+* `0:14:38 <https://www.youtube.com/watch?v=8d9rg6ul2w8&t=878s>`__ Python 3.13.0 alpha 2がリリース
+* `0:15:19 <https://www.youtube.com/watch?v=8d9rg6ul2w8&t=919s>`__ 【メイントークその1】PyCon Hong Kong 2023振り返り。Webサイトでイベント概要を確認、グッズを紹介
+* `0:21:00 <https://www.youtube.com/watch?v=8d9rg6ul2w8&t=1260s>`__ カンファレンス前日の食事会。PyCon APACでビールをつくった話をした
+* `0:26:18 <https://www.youtube.com/watch?v=8d9rg6ul2w8&t=1578s>`__ カンファレンス朝、PyCon APACブース、オープニング、maayaさんのキーノート、takanoryの発表
+* `0:31:56 <https://www.youtube.com/watch?v=8d9rg6ul2w8&t=1916s>`__ ブースのグッズがなくなってた、他のブース、PyScriptのトーク、ランチは各自で
+* `0:37:26 <https://www.youtube.com/watch?v=8d9rg6ul2w8&t=2246s>`__ 午後のトーク、JonさんのマモノスイーパーをPythonで解く発表、クロージング
+* `0:41:48 <https://www.youtube.com/watch?v=8d9rg6ul2w8&t=2508s>`__ パーティーの前に少し香港観光、パーティー、Cheukさんmaayaさんと2次会
+* `0:46:28 <https://www.youtube.com/watch?v=8d9rg6ul2w8&t=2788s>`__ 【メイントークその2】Guido氏講演会レポート、イベントの背景説明
+* `0:50:03 <https://www.youtube.com/watch?v=8d9rg6ul2w8&t=3003s>`__ 事前準備、ステッカー、オープニング、「GuidoさんにQ&A」コーナー
+* `0:56:35 <https://www.youtube.com/watch?v=8d9rg6ul2w8&t=3395s>`__ 「Guidoさんに活動を見てもらう」コーナー、「GuidoさんにLive Q&A」コーナー
+* `1:02:05 <https://www.youtube.com/watch?v=8d9rg6ul2w8&t=3725s>`__ 【次回予告】2024年1月12日(金) 19:30から「Pythonistaに聞く2023重大ニュースと2024の展望」
+* `1:05:02 <https://www.youtube.com/watch?v=8d9rg6ul2w8&t=3902s>`__ 🍻 カシャプシュ 🍺 t0ki brewery BPython の缶バージョン。Guidoさんに1缶プレゼントした。Guidoさんイベントの裏側
+* `1:10:33 <https://www.youtube.com/watch?v=8d9rg6ul2w8&t=4233s>`__ ライブQ&Aはたくさん質問があつまった
+* `1:15:17 <https://www.youtube.com/watch?v=8d9rg6ul2w8&t=4517s>`__ Guidoさんはとてもフランクで面白い方
+* `1:17:23 <https://www.youtube.com/watch?v=8d9rg6ul2w8&t=4643s>`__ 🍺 Brewdog Hoppy Xmas Festive IPA、Guidoさんのファンサービス、チュートリアル本にサインもらった
+* `1:23:42 <https://www.youtube.com/watch?v=8d9rg6ul2w8&t=5022s>`__ 写真で香港を振り返る。移動日は地元飯とビール。部屋がすごく高層で怖い
+* `1:31:26 <https://www.youtube.com/watch?v=8d9rg6ul2w8&t=5486s>`__ カンファレンス前日は香港散策し、スピーカーパーティの前後でクラフトビール
+* `1:44:06 <https://www.youtube.com/watch?v=8d9rg6ul2w8&t=6246s>`__ カンファレンスの次の日、39階のプール、アヒル付きレモンティー、2種類のエッグタルト、LEGOのお店、飲茶、Calvinとクラフトビール
+* `2:03:02 <https://www.youtube.com/watch?v=8d9rg6ul2w8&t=7382s>`__ 2023年はカンファレンス何カ所行った？2024年はどこに行く？PyCon Thailand、PyLadiesCon
