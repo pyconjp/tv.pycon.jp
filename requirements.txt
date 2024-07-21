@@ -1,5 +1,5 @@
-matplotlib==3.8.4
+matplotlib==3.9.1
 myst-parser==3.0.1
-Sphinx==7.3.7
+Sphinx==7.4.7
 sphinx-press-theme==0.9.1
 sphinxext-opengraph==0.9.1
