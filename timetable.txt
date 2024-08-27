@@ -1,19 +1,17 @@
-https://www.youtube.com/watch?v=NAcwFSFjknY
-0:00:59 配信開始、コメント募集「行きたい、旅行先やカンファレンスの場所」
-0:05:35 【Pythonニュース】オープンソースカンファレンス Tokyo/Spring に出展します
-0:06:47 PyCon JP 2024 作業日
-0:07:50 PyCon Kyushu 2024 in Kagoshima
-0:09:23 Python Boot Camp オンライン相談会
-0:10:23 PyCon TW 2024のProposal募集中
-0:11:20 Python 3.11.8、3.12.2、Python 3.13.0 alpha 4リリース
-0:12:34 PSF Grantsプログラムのオフィスアワー
-0:14:35 コメントを振り返り
-0:15:58 【メイントーク】遠方のカンファレンスへの参加準備のノウハウ
-0:17:23 カンファレンスならではの確認事項
-0:27:47 タスク管理と情報管理
-0:36:19 タスク管理のスプレッドシート
-0:37:25 旅程の準備（必要な物）
-0:42:22 荷物準備
-0:59:24 荷物チェックリスト
-1:01:24 クロージング、次回予告
-1:03:45 🍻 カシャプシュ 🍺 プレミアム宇奈月ビール
+https://www.youtube.com/watch?v=NWds3iSsjoI
+0:00:27 配信開始、夏休みのやりたいこと
+0:04:31 【Pythonニュース】PyCon JP 2024：チケット、キーノート、トーク一覧、遠方支援、スポンサー紹介など
+0:14:05 国内Pythonイベント：Python Boot Camp、PyCon mini Shizuoka
+0:15:42 海外Pythonイベント：PyCon USレポート、PyCon Malaysia、PyCon Taiwan
+0:18:07 海外ニュース：PSF Board Election、PyPI Support Specialist、Python 3.13.0rc1リリース
+0:20:58 【メイントーク】Python 3.13の新機能を試す、リリーススケジュール、新機能の概要
+0:24:58 新機能をスライドにまとめてきた。Call to Action、新機能一覧
+0:27:55 対話モードのデモ中に地震速報！！その後音声トラブル
+0:30:46 仕切り直して「改良された対話モード」のデモ
+0:39:26 エラーメッセージの改良
+0:43:41 フリースレッドビルド、JIT
+0:46:58 docstringから先頭のインデントを削除、WASI、iOS、Androidサポート
+0:52:36 型ヒントの新機能
+0:58:46 古いライブラリの削除、リリーススケジュールの変更
+1:02:14 次回は9月6日(金)で、PyCon JP 2024の見所を紹介
+1:05:10 🍻 カシャプシュ 🍺 DDH Riwaka Hero | Revolution Brewing
