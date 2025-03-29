@@ -1,34 +1,16 @@
-https://www.youtube.com/watch?v=wctCG8m5Bjc
-0:00:54 配信開始、コメント募集「忘年会の予定」
-0:05:35 【Pythonニュース】PyCon JPのアンケート結果、会計報告、2025主催メンバー募集
-0:11:00 関西オープンフォーラムの出展報告、PyLadies Caravan in 室蘭 & 苫小牧開催、PyCon mini Shizuoka、DjangoCongress JP
-0:16:15 PyLadiesCon、PyCon APAC、PyCon US
-0:19:32 Pythonリリース、PSF year-end fundraiser & membership drive、EuroPython Society 2024 fellows
-0:23:25 【メイントーク】uvの紹介
-0:27:52 まずはuvをインストール、venvの代わりにuvを使う、uv pipでパッケージをインストール
-0:32:55 uvでPythonを管理、uv pyhton list、uv python installで任意のバージョンのPythonをインストール
-0:37:18 uv venv -p で任意のバージョンのPythonを指定
-0:40:14 デモ「QRコード生成アプリを作る」、PEP 723 Inline script metadata、uv add --script コマンドでメタデータが書き込まれる、uv runでパッケージが追加されてアプリが動く
-0:45:32 uvx ruff formatでコードをフォーマット
-0:47:18 Pythonプロジェクトを立ち上げる、uv initで初期化、uv addでパッケージを追加するとpyproject.tomlも更新される、uv run streamlitで実行
-0:52:10 venvを削除してからuv run streamlit すると pyproject.toml によりパッケージがインストールされて実行できる
-0:53:41 pyproject.tomlのPythonバージョンを変更して環境を作り直す
-1:01:12 【次回予告】2024重大ニュースと2025の展望
-1:03:20 🍻 カシャプシュ 🍺 t0ki brewery antigravity。Inline script metadataは便利そう、requirements.txtはなくならなそう
-1:07:37 Pythonのプロジェクト管理ツール使ってる？uvがPython氷人にはならないんじゃないかな
-1:09:20 フォーマッターはblackじゃなくてruffになりましたね。新規でやるならDockerでもuv
-1:12:13 🍺 CRAFT BEER BASE 阪神タイガースエール、大阪のCRAFT BEER BASEの話
-1:18:03 今日はyoutubeの低遅延モードを試している、APAC以降どこか行った？
-1:23:51 新幹線トーク（S Work席、グリーン車の注文、硬くないアイス、移動中にチケット購入
-1:27:52 昔はget-pip.pyをダウンロードしてた。昔のPythonはcmmiでインストール
-1:30:30 🍺 CRAFT BEER BASE Elixer、スクリプトを提供してuvで実行してもらうとスムーズ、streamlitとかでGUIも作れる
-1:34:10 今年はいくつカンファレンスやイベントに行った？来年は？APACにプロポーザルだそう
-1:45:08 PAO Tシャツ作らないと、PyCon USに出すネタある？
-1:55:40 678月は空いてるじゃない！アジアに行きたい、インドも行かないとなー
-2:01:46 来年の抱負。PyCon USには行くぞ
-2:05:02 フィリピンってやることあるの？
-2:09:14 PyCon東海の感想
-2:16:53 PyCon東海の懇親会の感想
-2:20:47 PyCon mini Shizuokaの発表準備
-2:25:54 寺田のトークのアイデア出し
-2:31:23 PAOのミーティングは英語なので大変
+https://www.youtube.com/watch?v=LEL32joCGRo
+0:00:40 配信開始、コメント募集「Python 3.13使ってみましたか？」
+0:04:14 【Pythonニュース】国内イベント：PyLadies Tokyo10周年パーティ、OSC2024 Tokyo/Fall、KOF2024、PyCon mini東海
+0:10:30 海外イベント：PyCon Hong Kong、PyLadiesCon、PyCon APAC 2025（フィリピン）
+0:15:06 その他ニュース：Python 3.13.0リリース、Python開発者アンケート、PSF Fellowメンバー
+0:19:34 【メイントーク】PyCon APAC 2024のイベント概要、スケジュール
+0:25:23 イベントTシャツ、名札、グッズ等を紹介
+0:27:50 写真でDay 2を振り返る：受付、オープニング、キーノート(Anthonyさん)
+0:37:19 キーノート(Georgiさん)、Yuta Yanagiさんのトーク
+0:43:30 会場周辺の様子、ブースなど
+0:46:52 Shota KokadoさんのRustのトーク、イベント後のビール
+0:48:00 Day 3：開場前の巨大看板、キーノート(Mariattaさん)
+0:53:12 Python Asia Organizationのトーク、ライトニングトーク、クイズ大会、大学から表彰されるコミュニティメンバー
+0:58:47 PyCon Indonesia 2025はジャカルタ、記念撮影
+1:00:45 次回予告：テーマ検討中
+1:02:15 🍻 カシャプシュ 🍺  Revolution Brewing DDH Riwaka Hero
