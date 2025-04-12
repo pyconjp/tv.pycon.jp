@@ -1,27 +1,16 @@
-https://www.youtube.com/watch?v=LEL32joCGRo
-0:00:40 配信開始、コメント募集「Python 3.13使ってみましたか？」
-0:04:14 【Pythonニュース】国内イベント：PyLadies Tokyo10周年パーティ、OSC2024 Tokyo/Fall、KOF2024、PyCon mini東海
-0:10:30 海外イベント：PyCon Hong Kong、PyLadiesCon、PyCon APAC 2025（フィリピン）
-0:15:06 その他ニュース：Python 3.13.0リリース、Python開発者アンケート、PSF Fellowメンバー
-0:19:34 【メイントーク】PyCon APAC 2024のイベント概要、スケジュール
-0:25:23 イベントTシャツ、名札、グッズ等を紹介
-0:27:50 写真でDay 2を振り返る：受付、オープニング、キーノート(Anthonyさん)
-0:37:19 キーノート(Georgiさん)、Yuta Yanagiさんのトーク
-0:43:30 会場周辺の様子、ブースなど
-0:46:52 Shota KokadoさんのRustのトーク、イベント後のビール
-0:48:00 Day 3：開場前の巨大看板、キーノート(Mariattaさん)
-0:53:12 Python Asia Organizationのトーク、ライトニングトーク、クイズ大会、大学から表彰されるコミュニティメンバー
-0:58:47 PyCon Indonesia 2025はジャカルタ、記念撮影
-1:00:45 次回予告：テーマ検討中
-1:02:15 🍻 カシャプシュ 🍺  Revolution Brewing DDH Riwaka Hero、イベントTシャツを再チェック、インドネシアの物価
-1:06:14 次回uvはどう？ジャカルタの渋滞、シンガポールへの便はフィリピン、台湾メンバーと一緒
-1:11:31 takanoryがジョグジャカルタ空港で一番のやらかし発生
-1:21:58 プランバナン寺院を観光、夜はアジアのメンバーで食事、🍺 ライディーンビール Irish Red Ale
-1:26:36 次の日はボロブドゥール遺跡を観光、夜はAPACのPyCon Organizerでディナー
-1:31:21 写真でDay 2を再度振り返り、夜の店はインドネシアの友達のDimaさんにお願いして予約してもらった、めちゃ盛り上がった
-1:36:04 🍺 West Coast Brewing Baby's on Fire（電気グルーヴコラボ）
-1:36:47 Day 3：パトロンスポンサーにプレゼント、ランチはケータリングが豪華だった、takanoryのトークは機材トラブルで大変だったけど盛り上がった
-1:47:45 スピーカーディナーはお城！最後はホテル併設のバーでビール
-1:51:07 インドネシアのPyConの印象、いい人が多い。シンガポールでのトラブル
-1:59:57 ジャカルタ到着時のホテルは同じホテルにして正解だった
-2:06:06 来年3月はフィリピンでPyCon APAC
+https://www.youtube.com/watch?v=vQ8SxqJR5pk
+0:00:40 配信開始、コメント募集「GitHub Sponsorsやったことありますか？」
+0:04:30 【Pythonニュース】PyCon JP 2025のテーマ決定
+0:08:16 国内イベント：PyCon JP Association 運営会議 #73、PyCon mini Shizuoka 2024 continue、OSC 2025 Tokyo/Springの報告
+0:11:16 海外イベント：PyCon US、PyCon Singapore、EuroPython、PyCon Korea、PyCon Taiwan
+0:15:57 その他ニュース：Python最新版リリース、Django 5.2リリース
+0:18:52 【メイントーク】国際法人Python Asia Organization設立の裏話、概要とミッション
+0:23:34 4名のメンバー、組織の目的
+0:26:25 立ち上げの経緯
+0:35:35 組織立ち上げに向けた活動
+0:42:27 エストニアで国際法人の立ち上げ
+0:50:09 PAOの課題、スポンサー募集中
+0:52:49 【お便りコーナー】FastAPIについてやってほしい
+0:57:16 【次回予告】5月2日(金) カンファレンスの準備って何してる？
+0:58:36 組織名にPythonを入れるのは大変だった
+1:03:23 🍻 カシャプシュ 🍺 Teenage Punk IPA、エストニアのeレジデンスカード
