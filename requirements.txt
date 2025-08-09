@@ -1,5 +1,4 @@
-matplotlib==3.9.2
 myst-parser==4.0.1
 Sphinx==8.2.3
 sphinx-press-theme==0.9.1
-sphinxext-opengraph==0.9.1
+sphinxext-opengraph[social-cards]==0.12.0
