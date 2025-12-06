@@ -1,31 +1,32 @@
-https://www.youtube.com/watch?v=4QSLTecofhE
-0:00:41 配信開始、コメント募集「PyCon JP 2025にプロポーザルを出した？」
-0:04:10 【Pythonニュース】PyCon JP 2025関連：スポンサー、プロポーザル、ロゴ、会場の行き方
-0:11:08 Python国内イベント：OSC 2025 Shimane、PyLadies Caravan千歳、PyCon US 2025参加報告会
-0:14:30 Python海外イベント：PyCon SG、EuroPython、PyCon Korea、Taiwan、Hong Kong、Thailand
-0:19:37 その他：Python各種リリース、Language Summit、PSF Board Election Schedule
-0:22:15 【メイントーク】PyCon US 2025報告会、カンファレンス前日：空港、ランチビール、名札、PAOブース、オープニングレセプション
-0:29:05 カンファレンス1日目：朝食、オープニング、キーノート(Cory Doctorow)、たかのりのトーク、PSFブースでディスカッション
-0:42:09 カンファレンス2日目：朝のLT、D&Iパネル、キーノート(Lynn Root)、企業ブース、PSFメンバーランチ、PyLadiesオークション
-0:52:16 カンファレンス3日目：朝のLT(たかのり、各国PyCon)、ポスターセッション、ジョブフェア、Steering Councilパネル、Award表彰、クロージング
-0:59:45 【次回予告】Python 3.14の新機能を試す
-1:02:05 🍻 カシャプシュ 🍺 Off Color Brewing Beer for Tacos、コメントを確認
-1:06:28 PAOブースの盛り上がりはどうだった？参加者があまり来てくれない
-1:10:18 PSFメンバーランチは満員。PSFの報告資料に日本メンバーが！
-1:14:19 🍺 VERTERE x 坂道ブルイング Simul、こうだいさんのトークは参考になった
-1:17:27 オークションは子どもたちが活躍してた
-1:18:14 3日目LT裏話、ネコチャン絵文字世界デビュー、キーノート、セキュリティ担当
-1:25:20 PAOのオープンスペース
-1:28:59 🍺 Georgetown Brewing Company Meowsa! Double IPA、ジョブフェア
-1:34:03 Steering Councilパネル
-1:39:51 スプリント、コメントをピックアップ
-1:49:39 PyCon US 2025ステッカーとPyCon JP 2025チラシ
-1:53:13 🍺 Fort George Brewery Matryoshka 2025 w/ West Papua, Hawaiian & Peruvian Vanilla & Cinnamon、イベントのグッズのことをSWAG（スワグ）と言う
-1:54:56 PyCon US 2025で入手したお土産
-2:04:05 PAO Tシャツを作りすぎて在庫がある
-2:05:28 たかのりの写真、移動日
-2:07:06 カンファレンス前日
-2:09:03 カンファレンス1日目、Duolingoのパーティー
-2:11:56 カンファレンス2日目
-2:15:10 カンファレンス3日目
-2:25:50 スプリント
+https://www.youtube.com/watch?v=CYjC8DodQsE
+0:01:03 配信開始
+0:04:20 【Pythonニュース】PyCon JP 2025関連：キーノート紹介、チケット発売中
+0:08:45 国内イベント：PyCon US参加報告、飛騨高山、Shizuhack、Python東海、Shingen.py、Shonan.py、すごい広島、PyCon  nini 東海
+0:13:19 海外イベント：EuroPython、PythonAsia Charity Talks、PyCon Korea、PyCon Taiwan、PyCon Hong Kong、PyCon Thailand
+0:19:35 【メイントーク】Python 3.14の新機能を試す、リリーススケジュール
+0:23:14 リリースハイライト
+0:25:00 PEP 779 Free Threaded Python is Officially supported、PEP 649 749 deferred evaluation of annotations
+0:30:46 PEP 734 Multiple interpreters in the stdlib、PEP 741  Python configuration C API
+0:33:30 PEP 750  Template strings
+0:45:50 PEP 758  Allow except and except* expressions without parentheses
+0:45:50 PEP 758 Allow except and except* expressions without parentheses
+0:47:55 PEP 765 Disallow return/break/continue that exit a finally block
+0:49:26 Free-threaded mode improvements
+0:50:39 PEP 768  Safe external debugger interface for CPython
+0:52:43 PEP 784 Adding Zstandard to the standard library
+0:55:43 A new type interpreter
+0:56:21 Syntax highlighting in PyREPL, and color output in unittest, argparse, json and calendar CLIs
+0:59:33 【次回予告】EuroPython 報告会
+1:01:25 🍻 カシャプシュ 🍺 島根ビール しまねっこエール、OSCで島根に行ってPyCon JP 2025を宣伝してきた、松江駅前の無料のコワーキングが便利
+1:09:17 出雲大社に行ってきた
+1:10:20 EuroPythonの準備は？LTはやりたい
+1:12:05 🍺 大山Gビール 八郷、おみやげでもらった、地元民おすすめのお店で出雲そばを食べた
+1:17:07 米子空港から松江に向かうバスが湖の中を通って面白い
+1:19:03 Python 3.14新機能：Binary releases for the experimental just-in-time compiler、Improved error messages
+1:38:56 t-stringsおかわり
+1:57:35 EuroPythonのはなし、寺田は初参加なので新しいつながりを作りたい
+2:01:59 Sprintは出れなそう、EuroPythonの旅行の準備、チェコで何する？
+2:06:26 2年前に参加した人に現地の情報は聞いた
+2:09:26 たかのりはEuroPythonの前にウィーン観光、その後鉄道でプラハへ移動。プラハのビールの店はリサーチ済み
+2:12:51 PyCon US報告会の機材、設営について
+2:21:57 PAOのイベントのMCはどうする?
