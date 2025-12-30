@@ -1,32 +1,24 @@
-https://www.youtube.com/watch?v=CYjC8DodQsE
-0:01:03 配信開始
-0:04:20 【Pythonニュース】PyCon JP 2025関連：キーノート紹介、チケット発売中
-0:08:45 国内イベント：PyCon US参加報告、飛騨高山、Shizuhack、Python東海、Shingen.py、Shonan.py、すごい広島、PyCon  nini 東海
-0:13:19 海外イベント：EuroPython、PythonAsia Charity Talks、PyCon Korea、PyCon Taiwan、PyCon Hong Kong、PyCon Thailand
-0:19:35 【メイントーク】Python 3.14の新機能を試す、リリーススケジュール
-0:23:14 リリースハイライト
-0:25:00 PEP 779 Free Threaded Python is Officially supported、PEP 649 749 deferred evaluation of annotations
-0:30:46 PEP 734 Multiple interpreters in the stdlib、PEP 741  Python configuration C API
-0:33:30 PEP 750  Template strings
-0:45:50 PEP 758  Allow except and except* expressions without parentheses
-0:45:50 PEP 758 Allow except and except* expressions without parentheses
-0:47:55 PEP 765 Disallow return/break/continue that exit a finally block
-0:49:26 Free-threaded mode improvements
-0:50:39 PEP 768  Safe external debugger interface for CPython
-0:52:43 PEP 784 Adding Zstandard to the standard library
-0:55:43 A new type interpreter
-0:56:21 Syntax highlighting in PyREPL, and color output in unittest, argparse, json and calendar CLIs
-0:59:33 【次回予告】EuroPython 報告会
-1:01:25 🍻 カシャプシュ 🍺 島根ビール しまねっこエール、OSCで島根に行ってPyCon JP 2025を宣伝してきた、松江駅前の無料のコワーキングが便利
-1:09:17 出雲大社に行ってきた
-1:10:20 EuroPythonの準備は？LTはやりたい
-1:12:05 🍺 大山Gビール 八郷、おみやげでもらった、地元民おすすめのお店で出雲そばを食べた
-1:17:07 米子空港から松江に向かうバスが湖の中を通って面白い
-1:19:03 Python 3.14新機能：Binary releases for the experimental just-in-time compiler、Improved error messages
-1:38:56 t-stringsおかわり
-1:57:35 EuroPythonのはなし、寺田は初参加なので新しいつながりを作りたい
-2:01:59 Sprintは出れなそう、EuroPythonの旅行の準備、チェコで何する？
-2:06:26 2年前に参加した人に現地の情報は聞いた
-2:09:26 たかのりはEuroPythonの前にウィーン観光、その後鉄道でプラハへ移動。プラハのビールの店はリサーチ済み
-2:12:51 PyCon US報告会の機材、設営について
-2:21:57 PAOのイベントのMCはどうする?
+https://www.youtube.com/watch?v=DnIi4qm_p7w
+0:00:52 配信開始。コメント募集「PyCon JPのチケット買いました？」
+0:04:02 【Pythonニュース】PyCon JP 2025：FAQ、日程、2026座長募集
+0:06:19 国内イベント：PyLadiesCaravan 広島
+0:07:36 海外イベント：PyCon China、Hong Kong、Thailand、Malaysia
+0:09:53 その他ニュース：PSFボード選挙、pypistats.org、2024デベロッパーサーベイ、フェローメンバー、3.14.0rc2リリース
+0:13:56 【メイントーク】PyCon JP 2025の楽しみ方、まずは公式サイトを見る
+0:17:09 2名のキーノートスピーカーの紹介、タイムテーブル
+0:22:22 1日目のイベント概要、イベント全体象、ポスターセッション、パーティー
+0:26:27 2日目のイベント概要、スポンサー、オープンスペース
+0:33:39 チケット購入方法
+0:36:14 写真を見ながら会場を説明、ライトニングトークの申し込み方法
+0:43:17 タイムテーブルを深掘り、招待講演、D&Iパネル
+0:50:42 スプリントは同じ会場、カンファレンス会場へのアクセス方法
+0:59:44 【次回予告】PyCon JP 2025振り返り
+1:01:50 🍻 カシャプシュ 🍺 Off Color Brewing Beer for Golf。広島行きの準備した？
+1:05:34 寺田さんはPyCon JP 2025では何やってる人なの？プログラム、メンバーの移動
+1:09:20 広島なのでオープニングに参加できない人が多いのではないか、スポンサーブースも回ろう、質問「休める場所ある？」
+1:12:15 みなさん何日間滞在します？トークどのくらい見てる？知り合いをどうやって増やすか
+1:18:38 発表者に声をかけよう
+1:21:42 ポスターセッションや企業ブースは話しかけやすい
+1:24:39 トーク内容を深掘り
+1:51:22 パーティーはどこでやるの？スプリントのあとも飲みに行かないと。アジア系メンバー何人来るんだろう
+1:56:17 一緒に飲みに行きましょう。寺田の目標「話しかけられるようにする」
